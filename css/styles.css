@@ -4,8 +4,8 @@
 .carousel-item {
   padding-left: 10%;
   padding-right: 10%;
-  padding-top: 30px;
-  padding-bottom: 30px; }
+  padding-top: 1rem;
+  padding-bottom: 2rem; }
 
 .carousel-item .blockquote {
   font-style: italic; }
@@ -19,6 +19,9 @@
 #profile-card {
   border-style: solid;
   border-width: medium; }
+
+#profile-card .card-body {
+  padding: 0.25rem; }
 
 .jumbotron {
   background-color: #ffffff !important;
@@ -4015,7 +4018,7 @@ button.close {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 15%;
+  width: 10%;
   color: #fff;
   text-align: center;
   opacity: 0.5; }
@@ -4056,8 +4059,8 @@ button.close {
   display: flex;
   justify-content: center;
   padding-left: 0;
-  margin-right: 15%;
-  margin-left: 15%;
+  margin-right: 10%;
+  margin-left: 10%;
   list-style: none; }
   .carousel-indicators li {
     position: relative;
