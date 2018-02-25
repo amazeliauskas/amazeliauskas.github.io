@@ -17,11 +17,15 @@
   border-style: none; }
 
 #profile-card {
+  max-width: 18rem;
   border-style: solid;
   border-width: medium; }
 
 #profile-card .card-body {
   padding: 0.25rem; }
+
+#profile-card {
+  border-style: none; }
 
 .jumbotron {
   background-color: #ffffff !important;
@@ -32,6 +36,15 @@
 
 .list-group-item .card {
   border-style: none; }
+
+#accordion .btn-link {
+  white-space: normal; }
+
+#accordion .card {
+  border-style: none; }
+
+#accordion .card-header {
+  border-radius: calc(0.5rem - 1px); }
 
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
