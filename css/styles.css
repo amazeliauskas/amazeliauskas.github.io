@@ -34,17 +34,8 @@
 .event-date {
   text-align: center; }
 
-.list-group-item .card {
+#cv-group .list-group-item {
   border-style: none; }
-
-#accordion .btn-link {
-  white-space: normal; }
-
-#accordion .card {
-  border-style: none; }
-
-#accordion .card-header {
-  border-radius: calc(0.5rem - 1px); }
 
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
@@ -6073,3 +6064,27 @@ a.text-dark:hover, a.text-dark:focus {
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important; } }
+
+.cv-section {
+  color: #990000;
+  border-top: 7px solid #990000; }
+
+.cv-line {
+  font-weight: bold; }
+
+.cv-comment {
+  font-size: 1.10rem; }
+
+.cv-p {
+  margin-top: 0px; }
+
+#cv-group h5 {
+  margin-bottom: 3px; }
+
+:target:before {
+  content: "";
+  display: block;
+  height: 80px;
+  /* fixed header height*/
+  margin: -80px 0 0;
+  /* negative fixed header height */ }
