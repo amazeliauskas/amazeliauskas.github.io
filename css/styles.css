@@ -29,7 +29,8 @@
 
 .jumbotron {
   background-color: #ffffff !important;
-  border-top: 3px solid #dbdbdb; }
+  border-top: 3px solid #dbdbdb;
+  margin-top: 30px; }
 
 .event-date {
   text-align: center; }
