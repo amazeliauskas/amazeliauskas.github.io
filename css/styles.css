@@ -6066,6 +6066,9 @@ a.text-dark:hover, a.text-dark:focus {
   .table-bordered td {
     border: 1px solid #ddd !important; } }
 
+.jumbotron .lead span {
+  font-weight: bold; }
+
 .cv-section {
   color: #990000;
   border-top: 7px solid #990000; }
