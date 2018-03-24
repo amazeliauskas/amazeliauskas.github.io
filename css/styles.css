@@ -31,6 +31,13 @@
   list-style-type: none;
   font-weight: normal; }
 
+.conf-list {
+  padding-left: 0rem; }
+
+.conf-list ul {
+  padding-left: 0.5rem;
+  padding-bottom: 1.0rem; }
+
 .conf-list .date {
   width: 120px;
   display: inline-block; }
@@ -39,7 +46,8 @@
   content: "* "; }
 
 .conf-list .speaker {
-  font-weight: bold; }
+  font-weight: bold;
+  display: inline-block; }
 
 .jumbotron {
   background-color: #ffffff !important;
@@ -6117,7 +6125,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 :target:before {
   content: "";
-  display: block;
   height: 80px;
   /* fixed header height*/
   margin: -80px 0 0;
