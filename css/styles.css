@@ -18,14 +18,28 @@
 
 #profile-card {
   max-width: 18rem;
-  border-style: solid;
-  border-width: medium; }
+  border-style: none; }
 
 #profile-card .card-body {
   padding: 0.25rem; }
 
-#profile-card {
-  border-style: none; }
+.conf-list {
+  list-style-type: none;
+  font-weight: bold; }
+
+.conf-list ul {
+  list-style-type: none;
+  font-weight: normal; }
+
+.conf-list .date {
+  width: 120px;
+  display: inline-block; }
+
+.conf-list .speaker::before {
+  content: "* "; }
+
+.conf-list .speaker {
+  font-weight: bold; }
 
 .jumbotron {
   background-color: #ffffff !important;
@@ -37,6 +51,18 @@
 
 #cv-group .list-group-item {
   border-style: none; }
+
+#cv-group .card {
+  border-style: none;
+  margin-bottom: 20px; }
+
+#cv-group .card-img-top {
+  max-width: 80%;
+  align: middle; }
+
+#cv-group .card-body {
+  border-style: none;
+  padding: 1rem; }
 
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
