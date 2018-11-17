@@ -6136,3 +6136,7 @@ a.text-dark:hover, a.text-dark:focus {
 #cv-group .btn {
   font-size: 0.7rem;
   margin-bottom: 5px; }
+
+#cv-group .card-text::before {
+  content: "Abstract: ";
+  font-weight: bold; }
