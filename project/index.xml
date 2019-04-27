@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Aleksas Mazeliauskas</title>
+    <link>https://amazeliauskas.github.io/project/</link>
+    <description>Recent content in Projects on Aleksas Mazeliauskas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
+    <lastBuildDate>Sat, 27 Apr 2019 19:47:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://amazeliauskas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effective Kinetic Theory</title>
+      <link>https://amazeliauskas.github.io/project/ekt/</link>
+      <pubDate>Sat, 27 Apr 2019 19:47:13 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/project/ekt/</guid>
+      <description>Early dynamics with QCD Effective Kinetic Theory</description>
+    </item>
+    
+    <item>
+      <title>Hydro Kinetics</title>
+      <link>https://amazeliauskas.github.io/project/hydro-kinetics/</link>
+      <pubDate>Sat, 27 Apr 2019 19:41:52 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/project/hydro-kinetics/</guid>
+      <description>Thermodynamic fluctuations in out-of-equilibrium hydro expansion</description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis</title>
+      <link>https://amazeliauskas.github.io/project/pca/</link>
+      <pubDate>Sat, 27 Apr 2019 19:32:52 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/project/pca/</guid>
+      <description>We analyse harmonic flows using Principal Component Analysis</description>
+    </item>
+    
+    <item>
+      <title>KøMPøST</title>
+      <link>https://amazeliauskas.github.io/project/kompost/</link>
+      <pubDate>Thu, 25 Apr 2019 23:05:05 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/project/kompost/</guid>
+      <description>Linear kinetic theory propagator for initial conditions of heavy ion collisions</description>
+    </item>
+    
+    <item>
+      <title>FastReso</title>
+      <link>https://amazeliauskas.github.io/project/fastreso/</link>
+      <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/project/fastreso/</guid>
+      <description>Fast calculation of direct resonance decays</description>
+    </item>
+    
+    <item>
+      <title>RNAVIER</title>
+      <link>https://amazeliauskas.github.io/project/rnavier/</link>
+      <pubDate>Wed, 27 Apr 2016 13:32:27 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/project/rnavier/</guid>
+      <description>3D viscous relativistic hydrodynamics code.</description>
+    </item>
+    
+  </channel>
+</rss>
