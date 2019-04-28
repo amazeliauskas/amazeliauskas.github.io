@@ -31,11 +31,38 @@
     </item>
     
     <item>
-      <title>Hirschegg</title>
-      <link>https://amazeliauskas.github.io/tags/hirschegg/</link>
-      <pubDate>Mon, 14 Jan 2019 17:40:00 +0100</pubDate>
+      <title>invited</title>
+      <link>https://amazeliauskas.github.io/tags/invited/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://amazeliauskas.github.io/tags/hirschegg/</guid>
+      <guid>https://amazeliauskas.github.io/tags/invited/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>https://amazeliauskas.github.io/tags/workshop/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seminar</title>
+      <link>https://amazeliauskas.github.io/tags/seminar/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel</title>
+      <link>https://amazeliauskas.github.io/tags/parallel/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/parallel/</guid>
       <description></description>
     </item>
     
@@ -58,6 +85,15 @@
     </item>
     
     <item>
+      <title>HardProbes</title>
+      <link>https://amazeliauskas.github.io/tags/hardprobes/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/hardprobes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EPJC</title>
       <link>https://amazeliauskas.github.io/tags/epjc/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
@@ -67,29 +103,38 @@
     </item>
     
     <item>
-      <title>Invited</title>
-      <link>https://amazeliauskas.github.io/tags/invited/</link>
-      <pubDate>Fri, 18 May 2018 14:30:00 +0200</pubDate>
+      <title>programme</title>
+      <link>https://amazeliauskas.github.io/tags/programme/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://amazeliauskas.github.io/tags/invited/</guid>
+      <guid>https://amazeliauskas.github.io/tags/programme/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plenary</title>
+      <title>Confinement</title>
+      <link>https://amazeliauskas.github.io/tags/confinement/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/confinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuarkMatter</title>
+      <link>https://amazeliauskas.github.io/tags/quarkmatter/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/quarkmatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plenary</title>
       <link>https://amazeliauskas.github.io/tags/plenary/</link>
-      <pubDate>Fri, 18 May 2018 14:30:00 +0200</pubDate>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/plenary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quark Matter</title>
-      <link>https://amazeliauskas.github.io/tags/quark-matter/</link>
-      <pubDate>Fri, 18 May 2018 14:30:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/quark-matter/</guid>
       <description></description>
     </item>
     
@@ -99,6 +144,24 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/prc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InitialStages</title>
+      <link>https://amazeliauskas.github.io/tags/initialstages/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/initialstages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPOD</title>
+      <link>https://amazeliauskas.github.io/tags/cpod/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/cpod/</guid>
       <description></description>
     </item>
     

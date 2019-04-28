@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parallel on Aleksas Mazeliauskas</title>
+    <link>https://amazeliauskas.github.io/tags/parallel/</link>
+    <description>Recent content in parallel on Aleksas Mazeliauskas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://amazeliauskas.github.io/tags/parallel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reliatyvistinės Navjė-Stokso lygtys sunkiųjų jonų susidūrimų fizikoje</title>
+      <link>https://amazeliauskas.github.io/talk/2018-12-28/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2018-12-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2&#43;1D simulations of pre-equilibrium stage with QCD kinetic theory</title>
+      <link>https://amazeliauskas.github.io/talk/2018-10-02/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2018-10-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2&#43;1D simulations of pre-equilibrium stage with QCD kinetic theory</title>
+      <link>https://amazeliauskas.github.io/talk/2018-08-01/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2018-08-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth matching of pre-equilibrium evolution to hydrodynamics in heavy ion collisions</title>
+      <link>https://amazeliauskas.github.io/talk/2017-09-19/</link>
+      <pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2017-09-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out-of-equilibrium hydrodynamic fluctuations in the expanding QGP</title>
+      <link>https://amazeliauskas.github.io/talk/2017-08-08/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2017-08-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial conditions for hydrodynamics from kinetic theory equilibration</title>
+      <link>https://amazeliauskas.github.io/talk/2017-02-07/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2017-02-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
+      <link>https://amazeliauskas.github.io/talk/2016-05-25/</link>
+      <pubDate>Wed, 25 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2016-05-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis and Subleading Flow</title>
+      <link>https://amazeliauskas.github.io/talk/2015-03-27/</link>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2015-03-27/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop on Aleksas Mazeliauskas</title>
+    <link>https://amazeliauskas.github.io/tags/workshop/</link>
+    <description>Recent content in workshop on Aleksas Mazeliauskas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://amazeliauskas.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fluctuating hydrodynamics with relativistic hydro-kinetic theory</title>
+      <link>https://amazeliauskas.github.io/talk/2019-04-19/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2019-04-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical equilibration in hadronic collisions</title>
+      <link>https://amazeliauskas.github.io/talk/2019-04-06/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2019-04-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FastReso – fast resonance decays in nuclear collisions</title>
+      <link>https://amazeliauskas.github.io/talk/2019-01-14/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2019-01-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial conditions for heavy ion collisions</title>
+      <link>https://amazeliauskas.github.io/talk/2017-10-02/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2017-10-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetic theory equilibration for realistic heavy ion initial conditions</title>
+      <link>https://amazeliauskas.github.io/talk/2017-06-15/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2017-06-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
+      <link>https://amazeliauskas.github.io/talk/2016-09-19/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2016-09-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis and Subleading Flow</title>
+      <link>https://amazeliauskas.github.io/talk/2015-03-06/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2015-03-06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
