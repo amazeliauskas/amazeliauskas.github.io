@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Tue, 19 Sep 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/tags/initialstages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matching of initial conditions to hydro evolution</title>
+      <link>https://amazeliauskas.github.io/talk/2019-06-24/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2019-06-24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Smooth matching of pre-equilibrium evolution to hydrodynamics in heavy ion collisions</title>

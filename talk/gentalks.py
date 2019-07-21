@@ -2,7 +2,6 @@
 
 import csv
 import os
-
 def makedir(path): 
     base = os.getcwd()
     try:
@@ -18,7 +17,14 @@ with open('talks.csv') as csvfile:
         if first:
             first = False
             continue
-        #makedir(row[0])
+        path = row[0]
+        base = os.getcwd()
+        if (os.path.isdir(base+"/"+path)):
+            print ("Directory %s already exists" % path)
+            continue
+        else:
+            #print ("Directory %s does not exist" % path)
+            makedir(row[0])
 
         s= \
 """

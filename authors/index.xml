@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>Aleksas Mazeliauskas</title>
       <link>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avdhesh Kumar</title>
+      <link>https://amazeliauskas.github.io/authors/avdhesh-kumar/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/avdhesh-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radoslaw Ryblewski</title>
+      <link>https://amazeliauskas.github.io/authors/radoslaw-ryblewski/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/radoslaw-ryblewski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wojciech Florkowski</title>
+      <link>https://amazeliauskas.github.io/authors/wojciech-florkowski/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/wojciech-florkowski/</guid>
       <description></description>
     </item>
     

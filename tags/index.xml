@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Thu, 25 Apr 2019 23:05:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>InitialStages</title>
+      <link>https://amazeliauskas.github.io/tags/initialstages/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/initialstages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>invited</title>
+      <link>https://amazeliauskas.github.io/tags/invited/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/invited/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plenary</title>
+      <link>https://amazeliauskas.github.io/tags/plenary/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/plenary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQM</title>
+      <link>https://amazeliauskas.github.io/tags/sqm/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/sqm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel</title>
+      <link>https://amazeliauskas.github.io/tags/parallel/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programme</title>
+      <link>https://amazeliauskas.github.io/tags/programme/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/programme/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>kinetic theory</title>
@@ -31,15 +85,6 @@
     </item>
     
     <item>
-      <title>invited</title>
-      <link>https://amazeliauskas.github.io/tags/invited/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/invited/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>workshop</title>
       <link>https://amazeliauskas.github.io/tags/workshop/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
@@ -54,15 +99,6 @@
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parallel</title>
-      <link>https://amazeliauskas.github.io/tags/parallel/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/parallel/</guid>
       <description></description>
     </item>
     
@@ -103,15 +139,6 @@
     </item>
     
     <item>
-      <title>programme</title>
-      <link>https://amazeliauskas.github.io/tags/programme/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/programme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Confinement</title>
       <link>https://amazeliauskas.github.io/tags/confinement/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
@@ -130,29 +157,11 @@
     </item>
     
     <item>
-      <title>plenary</title>
-      <link>https://amazeliauskas.github.io/tags/plenary/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/plenary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PRC</title>
       <link>https://amazeliauskas.github.io/tags/prc/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/prc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>InitialStages</title>
-      <link>https://amazeliauskas.github.io/tags/initialstages/</link>
-      <pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/initialstages/</guid>
       <description></description>
     </item>
     
