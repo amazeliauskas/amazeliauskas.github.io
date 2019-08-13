@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/authors/s%C3%B6ren-schlichting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
+      <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effective kinetic description of event-by-event pre-equilibrium dynamics in high-energy heavy-ion collisions</title>

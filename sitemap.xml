@@ -3,8 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amazeliauskas.github.io/publication_types/2/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://amazeliauskas.github.io/</loc>
-    <lastmod>2019-06-24T00:00:00+02:00</lastmod>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/authors/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/authors/giuliano-giacalone/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/authors/klaus-reygers/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/authors/patrick-hanus/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/publication_types/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/publication/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/authors/s%C3%B6ren-schlichting/</loc>
+    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</loc>
+    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/authors/vytautas-vislavicius/</loc>
+    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -141,24 +215,6 @@
   </url>
   
   <url>
-    <loc>https://amazeliauskas.github.io/publication_types/2/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/authors/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://amazeliauskas.github.io/authors/avdhesh-kumar/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -173,17 +229,6 @@
     <loc>https://amazeliauskas.github.io/tags/prc/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/publication_types/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/publication/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -369,12 +414,6 @@
   <url>
     <loc>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</loc>
     <lastmod>2018-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/authors/s%C3%B6ren-schlichting/</loc>
-    <lastmod>2018-05-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

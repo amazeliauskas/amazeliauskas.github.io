@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Entropy production in pp and Pb-Pb collisions at the LHC</title>
+      <link>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
+      <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature and fluid velocity on the freeze-out surface from $π$, $K$, $p$ spectra in pp, p-Pb and Pb-Pb collisions</title>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Longitudinal spin polarization in a thermal model</title>

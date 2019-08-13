@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,54 @@
     <item>
       <title>Aleksas Mazeliauskas</title>
       <link>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giuliano Giacalone</title>
+      <link>https://amazeliauskas.github.io/authors/giuliano-giacalone/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/giuliano-giacalone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus Reygers</title>
+      <link>https://amazeliauskas.github.io/authors/klaus-reygers/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/klaus-reygers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Hanus</title>
+      <link>https://amazeliauskas.github.io/authors/patrick-hanus/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/patrick-hanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sören Schlichting</title>
+      <link>https://amazeliauskas.github.io/authors/s%C3%B6ren-schlichting/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/s%C3%B6ren-schlichting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vytautas Vislavicius</title>
+      <link>https://amazeliauskas.github.io/authors/vytautas-vislavicius/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/vytautas-vislavicius/</guid>
       <description></description>
     </item>
     
@@ -99,15 +144,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/authors/jean-fran%C3%A7ois-paquet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sören Schlichting</title>
-      <link>https://amazeliauskas.github.io/authors/s%C3%B6ren-schlichting/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/authors/s%C3%B6ren-schlichting/</guid>
       <description></description>
     </item>
     
