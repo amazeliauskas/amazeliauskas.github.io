@@ -13,483 +13,57 @@
     
     
     <item>
-      <title>Entropy production in pp and Pb-Pb collisions at the LHC</title>
-      <link>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</link>
+      <title>Publications</title>
+      <link>https://amazeliauskas.github.io/publication/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</guid>
-      <description></description>
+      <guid>https://amazeliauskas.github.io/publication/</guid>
+      <description>&lt;p&gt;For up to date publication list see &lt;a href=&#34;https://inspirehep.net/search?ln=en&amp;amp;p=find+a+Mazeliauskas&amp;amp;of=hb&amp;amp;so=d&#34;&gt;  inSpire &lt;i class=&#34;ai ai-inspire ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
-      <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temperature and fluid velocity on the freeze-out surface from $π$, $K$, $p$ spectra in pp, p-Pb and Pb-Pb collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matching of initial conditions to hydro evolution</title>
-      <link>https://amazeliauskas.github.io/talk/2019-06-24/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://amazeliauskas.github.io/talk/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://amazeliauskas.github.io/talk/2019-06-24/</guid>
+      <guid>https://amazeliauskas.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Chemical equilibration of QGP in hadronic collisions</title>
-      <link>https://amazeliauskas.github.io/talk/2019-06-10/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2019-06-10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The pre-equilibrium dynamics with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2019-05-23/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2019-05-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effective Kinetic Theory</title>
-      <link>https://amazeliauskas.github.io/project/ekt/</link>
+      <title>Projects</title>
+      <link>https://amazeliauskas.github.io/project/</link>
       <pubDate>Sat, 27 Apr 2019 19:47:13 +0200</pubDate>
       
-      <guid>https://amazeliauskas.github.io/project/ekt/</guid>
-      <description>&lt;p&gt;We use effective kinetic theory accurate in weak coupling to model system equilibration and smooth transition to hydrodynamics. We include two to two elastic gluon scatterings and one to two medium induced collinear splittings with LPM suppression. We obtain Green functions for equilibration of small energy and momentum perturbations around far-from-equilibrium background.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hydro Kinetics</title>
-      <link>https://amazeliauskas.github.io/project/hydro-kinetics/</link>
-      <pubDate>Sat, 27 Apr 2019 19:41:52 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/hydro-kinetics/</guid>
-      <description>&lt;p&gt;We develop a set of kinetic equations for hydrodynamic fluctuations which are equivalent to nonlinear hydrodynamics with noise. We use the hydro-kinetic equations to analyse thermal fluctuations for a Bjorken expansion, evaluating the contribution of thermal noise from the earliest moments and at late times.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Principal Component Analysis</title>
-      <link>https://amazeliauskas.github.io/project/pca/</link>
-      <pubDate>Sat, 27 Apr 2019 19:32:52 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/pca/</guid>
-      <description>&lt;p&gt;PCA is a statistical technique allowing to decompose multidimensional data into most significant components. We show that the subleading elliptic flow in peripheral collisions is dominated by the nonlinear mixing between the leading elliptic flow and radial flow fluctuations.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>KøMPøST</title>
-      <link>https://amazeliauskas.github.io/project/kompost/</link>
-      <pubDate>Thu, 25 Apr 2019 23:05:05 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/kompost/</guid>
+      <guid>https://amazeliauskas.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FastReso</title>
-      <link>https://amazeliauskas.github.io/project/fastreso/</link>
-      <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amazeliauskas.github.io/project/fastreso/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fluctuating hydrodynamics with relativistic hydro-kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2019-04-19/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
+      <title>Authors</title>
+      <link>https://amazeliauskas.github.io/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amazeliauskas.github.io/talk/2019-04-19/</guid>
+      <guid>https://amazeliauskas.github.io/author/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://amazeliauskas.github.io/talk/2019-04-06/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      <title>Posts</title>
+      <link>https://amazeliauskas.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://amazeliauskas.github.io/talk/2019-04-06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prescaling and Far-from-Equilibrium Hydrodynamics in the Quark-Gluon Plasma</title>
-      <link>https://amazeliauskas.github.io/talk/2019-04-05/</link>
-      <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2019-04-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal spin polarization in a thermal model</title>
-      <link>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://amazeliauskas.github.io/talk/2019-02-21/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2019-02-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://amazeliauskas.github.io/talk/2019-01-22/</link>
-      <pubDate>Tue, 22 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2019-01-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FastReso – fast resonance decays in nuclear collisions</title>
-      <link>https://amazeliauskas.github.io/talk/2019-01-14/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2019-01-14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reliatyvistinės Navjė-Stokso lygtys sunkiųjų jonų susidūrimų fizikoje</title>
-      <link>https://amazeliauskas.github.io/talk/2018-12-28/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-12-28/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemical equilibration in weakly coupled QCD</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-oqw/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-oqw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2018-10-29/</link>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-10-29/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2018-10-19/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-10-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2018-10-17/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-10-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2018-10-15/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-10-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2&#43;1D simulations of pre-equilibrium stage with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2018-10-02/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-10-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast resonance decays in nuclear collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pre-equilibrium stages with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2018-08-27/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-08-27/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2&#43;1D simulations of pre-equilibrium stage with QCD kinetic theory</title>
-      <link>https://amazeliauskas.github.io/talk/2018-08-01/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-08-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial conditions for nuclear collisions: theory overview</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-wam/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-wam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Initial conditions for nuclear collisions: theory overview</title>
-      <link>https://amazeliauskas.github.io/talk/2018-05-18/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2018-05-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effective kinetic description of event-by-event pre-equilibrium dynamics in high-energy heavy-ion collisions</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matching the Nonequilibrium Initial Stage of Heavy Ion Collisions to Hydrodynamics with QCD Kinetic Theory</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial conditions for heavy ion collisions</title>
-      <link>https://amazeliauskas.github.io/talk/2017-10-02/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2017-10-02/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smooth matching of pre-equilibrium evolution to hydrodynamics in heavy ion collisions</title>
-      <link>https://amazeliauskas.github.io/talk/2017-09-19/</link>
-      <pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2017-09-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Out-of-equilibrium hydrodynamic fluctuations in the expanding QGP</title>
-      <link>https://amazeliauskas.github.io/talk/2017-08-08/</link>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2017-08-08/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bulk viscosity from hydrodynamic fluctuations with relativistic hydrokinetic theory</title>
-      <link>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kinetic theory equilibration for realistic heavy ion initial conditions</title>
-      <link>https://amazeliauskas.github.io/talk/2017-06-15/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2017-06-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial conditions for hydrodynamics from kinetic theory equilibration</title>
-      <link>https://amazeliauskas.github.io/talk/2017-02-07/</link>
-      <pubDate>Tue, 07 Feb 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2017-02-07/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluctuations in ultra-relativistic heavy ion collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2017-ibm/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2017-ibm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://amazeliauskas.github.io/talk/2016-09-19/</link>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2016-09-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://amazeliauskas.github.io/talk/2016-06-15/</link>
-      <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2016-06-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A kinetic regime of hydrodynamic fluctuations and long time tails for a Bjorken expansion</title>
-      <link>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://amazeliauskas.github.io/talk/2016-05-25/</link>
-      <pubDate>Wed, 25 May 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2016-05-25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RNAVIER</title>
-      <link>https://amazeliauskas.github.io/project/rnavier/</link>
-      <pubDate>Wed, 27 Apr 2016 13:32:27 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/rnavier/</guid>
-      <description>&lt;p&gt;RNAVIER employs second order Israel-Stewart formalism to simulate relativistic hydrodynamics at zero chemical potential in both Cartesian and Bjorken coordinates.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fluctuations of harmonic and radial flow in heavy ion collisions with principal components</title>
-      <link>https://amazeliauskas.github.io/talk/2015-11-12/</link>
-      <pubDate>Thu, 12 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2015-11-12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fluctuations of harmonic and radial flow in heavy ion collisions with principal components</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principal Component Analysis and Subleading Flow</title>
-      <link>https://amazeliauskas.github.io/talk/2015-07-22/</link>
-      <pubDate>Wed, 22 Jul 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2015-07-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principal Component Analysis and Subleading Flow</title>
-      <link>https://amazeliauskas.github.io/talk/2015-03-27/</link>
-      <pubDate>Fri, 27 Mar 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2015-03-27/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principal Component Analysis and Subleading Flow</title>
-      <link>https://amazeliauskas.github.io/talk/2015-03-06/</link>
-      <pubDate>Fri, 06 Mar 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/2015-03-06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subleading harmonic flows in hydrodynamic simulations of heavy ion collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</guid>
+      <guid>https://amazeliauskas.github.io/post/</guid>
       <description></description>
     </item>
     
