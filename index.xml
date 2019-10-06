@@ -7,28 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="https://amazeliauskas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://amazeliauskas.github.io/talk/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://amazeliauskas.github.io/publication/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/publication/</guid>
       <description>&lt;p&gt;For up to date publication list see &lt;a href=&#34;https://inspirehep.net/search?ln=en&amp;amp;p=find+a+Mazeliauskas&amp;amp;of=hb&amp;amp;so=d&#34;&gt;  inSpire &lt;i class=&#34;ai ai-inspire ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://amazeliauskas.github.io/talk/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/talk/</guid>
-      <description></description>
     </item>
     
     <item>

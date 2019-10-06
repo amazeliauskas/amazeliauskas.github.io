@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,99 @@
     <item>
       <title>Aleksas Mazeliauskas</title>
       <link>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/authors/aleksas-mazeliauskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Dubla</title>
+      <link>https://amazeliauskas.github.io/authors/andrea-dubla/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/andrea-dubla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damir Devetak</title>
+      <link>https://amazeliauskas.github.io/authors/damir-devetak/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/damir-devetak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Grossi</title>
+      <link>https://amazeliauskas.github.io/authors/eduardo-grossi/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/eduardo-grossi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Selyuzhenkov</title>
+      <link>https://amazeliauskas.github.io/authors/ilya-selyuzhenkov/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/ilya-selyuzhenkov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jürgen Berges</title>
+      <link>https://amazeliauskas.github.io/authors/j%C3%BCrgen-berges/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/j%C3%BCrgen-berges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus Reygers</title>
+      <link>https://amazeliauskas.github.io/authors/klaus-reygers/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/klaus-reygers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Löher</title>
+      <link>https://amazeliauskas.github.io/authors/nicole-l%C3%B6her/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/nicole-l%C3%B6her/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oscar Garcia-Montero</title>
+      <link>https://amazeliauskas.github.io/authors/oscar-garcia-montero/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/oscar-garcia-montero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silvia Masciocchi</title>
+      <link>https://amazeliauskas.github.io/authors/silvia-masciocchi/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/silvia-masciocchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Floerchinger</title>
+      <link>https://amazeliauskas.github.io/authors/stefan-floerchinger/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/authors/stefan-floerchinger/</guid>
       <description></description>
     </item>
     
@@ -27,15 +117,6 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/authors/giuliano-giacalone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Klaus Reygers</title>
-      <link>https://amazeliauskas.github.io/authors/klaus-reygers/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/authors/klaus-reygers/</guid>
       <description></description>
     </item>
     
@@ -103,38 +184,11 @@
     </item>
     
     <item>
-      <title>Jürgen Berges</title>
-      <link>https://amazeliauskas.github.io/authors/j%C3%BCrgen-berges/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/authors/j%C3%BCrgen-berges/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Derek Teaney</title>
       <link>https://amazeliauskas.github.io/authors/derek-teaney/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/authors/derek-teaney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eduardo Grossi</title>
-      <link>https://amazeliauskas.github.io/authors/eduardo-grossi/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/authors/eduardo-grossi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Floerchinger</title>
-      <link>https://amazeliauskas.github.io/authors/stefan-floerchinger/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/authors/stefan-floerchinger/</guid>
       <description></description>
     </item>
     
