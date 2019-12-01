@@ -1,10 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://amazeliauskas.github.io/</loc>
-    <lastmod>2019-09-22T00:00:00+02:00</lastmod>
+    <lastmod>2019-11-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/tags/invited/</loc>
+    <lastmod>2019-11-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/talk/2019-11-25/</loc>
+    <lastmod>2019-11-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/talk/</loc>
+    <lastmod>2019-11-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/tags/</loc>
+    <lastmod>2019-11-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/tags/workshop/</loc>
+    <lastmod>2019-11-25T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/talk/2019-11-22/</loc>
+    <lastmod>2019-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/tags/seminar/</loc>
+    <lastmod>2019-11-22T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/tags/parallel/</loc>
+    <lastmod>2019-11-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/talk/2019-11-06/</loc>
+    <lastmod>2019-11-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amazeliauskas.github.io/talk/2019-11-01/</loc>
+    <lastmod>2019-11-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -18,22 +68,7 @@
   </url>
   
   <url>
-    <loc>https://amazeliauskas.github.io/talk/</loc>
-    <lastmod>2019-09-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/tags/</loc>
-    <lastmod>2019-09-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amazeliauskas.github.io/talk/2019-09-13/</loc>
-    <lastmod>2019-09-13T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/tags/invited/</loc>
     <lastmod>2019-09-13T00:00:00+02:00</lastmod>
   </url>
   
@@ -173,11 +208,6 @@
   </url>
   
   <url>
-    <loc>https://amazeliauskas.github.io/tags/parallel/</loc>
-    <lastmod>2019-06-10T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amazeliauskas.github.io/tags/sqm/</loc>
     <lastmod>2019-06-10T00:00:00+02:00</lastmod>
   </url>
@@ -238,22 +268,12 @@
   </url>
   
   <url>
-    <loc>https://amazeliauskas.github.io/tags/workshop/</loc>
-    <lastmod>2019-04-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amazeliauskas.github.io/talk/2019-04-06/</loc>
     <lastmod>2019-04-06T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://amazeliauskas.github.io/talk/2019-04-05/</loc>
-    <lastmod>2019-04-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amazeliauskas.github.io/tags/seminar/</loc>
     <lastmod>2019-04-05T00:00:00+02:00</lastmod>
   </url>
   

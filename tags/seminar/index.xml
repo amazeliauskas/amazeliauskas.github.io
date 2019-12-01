@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>seminar on Aleksas Mazeliauskas</title>
@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A theorist’s impression from Quark Matter 2019: physics of low momentum hadron spectra and flow</title>
+      <link>https://amazeliauskas.github.io/talk/2019-11-22/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/talk/2019-11-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prescaling and Far-from-Equilibrium Hydrodynamics in the Quark-Gluon Plasma</title>
