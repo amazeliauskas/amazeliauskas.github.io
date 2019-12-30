@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>invited</title>
       <link>https://amazeliauskas.github.io/tags/invited/</link>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/invited/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>workshop</title>
       <link>https://amazeliauskas.github.io/tags/workshop/</link>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/workshop/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>seminar</title>
       <link>https://amazeliauskas.github.io/tags/seminar/</link>
-      <pubDate>Fri, 22 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/seminar/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>parallel</title>
       <link>https://amazeliauskas.github.io/tags/parallel/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/parallel/</guid>
       <description></description>
@@ -51,16 +51,34 @@
     <item>
       <title>plenary</title>
       <link>https://amazeliauskas.github.io/tags/plenary/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/plenary/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>PRC</title>
+      <link>https://amazeliauskas.github.io/tags/prc/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/prc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRL</title>
+      <link>https://amazeliauskas.github.io/tags/prl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/tags/prl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>InitialStages</title>
       <link>https://amazeliauskas.github.io/tags/initialstages/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/initialstages/</guid>
       <description></description>
@@ -69,7 +87,7 @@
     <item>
       <title>SQM</title>
       <link>https://amazeliauskas.github.io/tags/sqm/</link>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/sqm/</guid>
       <description></description>
@@ -78,7 +96,7 @@
     <item>
       <title>programme</title>
       <link>https://amazeliauskas.github.io/tags/programme/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/programme/</guid>
       <description></description>
@@ -103,36 +121,18 @@
     </item>
     
     <item>
-      <title>PRC</title>
-      <link>https://amazeliauskas.github.io/tags/prc/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/prc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PRD</title>
       <link>https://amazeliauskas.github.io/tags/prd/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/prd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PRL</title>
-      <link>https://amazeliauskas.github.io/tags/prl/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/tags/prl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>HardProbes</title>
       <link>https://amazeliauskas.github.io/tags/hardprobes/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/hardprobes/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>EPJC</title>
       <link>https://amazeliauskas.github.io/tags/epjc/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/epjc/</guid>
       <description></description>
@@ -150,7 +150,7 @@
     <item>
       <title>Confinement</title>
       <link>https://amazeliauskas.github.io/tags/confinement/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/confinement/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>QuarkMatter</title>
       <link>https://amazeliauskas.github.io/tags/quarkmatter/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/quarkmatter/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>CPOD</title>
       <link>https://amazeliauskas.github.io/tags/cpod/</link>
-      <pubDate>Tue, 08 Aug 2017 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/cpod/</guid>
       <description></description>
@@ -177,7 +177,7 @@
     <item>
       <title>JHEP</title>
       <link>https://amazeliauskas.github.io/tags/jhep/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/tags/jhep/</guid>
       <description></description>

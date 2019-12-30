@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://amazeliauskas.github.io/tags/prl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
+      <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chemical equilibration in hadronic collisions</title>
       <link>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0200</pubDate>
       
       <guid>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
       <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>Matching the Nonequilibrium Initial Stage of Heavy Ion Collisions to Hydrodynamics with QCD Kinetic Theory</title>
       <link>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
       
       <guid>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</guid>
       <description></description>
