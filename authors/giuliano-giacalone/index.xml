@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Giuliano Giacalone on Aleksas Mazeliauskas</title>
+    <title>Giuliano Giacalone | Aleksas Mazeliauskas</title>
     <link>https://amazeliauskas.github.io/authors/giuliano-giacalone/</link>
-    <description>Recent content in Giuliano Giacalone on Aleksas Mazeliauskas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://amazeliauskas.github.io/authors/giuliano-giacalone/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://amazeliauskas.github.io/authors/giuliano-giacalone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giuliano Giacalone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>Giuliano Giacalone</title>
+      <link>https://amazeliauskas.github.io/authors/giuliano-giacalone/</link>
+    </image>
     
     <item>
       <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
       <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
-      
       <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
       <description></description>
     </item>

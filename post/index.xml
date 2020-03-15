@@ -1,15 +1,168 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Aleksas Mazeliauskas</title>
+    <title>Posts | Aleksas Mazeliauskas</title>
     <link>https://amazeliauskas.github.io/post/</link>
-    <description>Recent content in Posts on Aleksas Mazeliauskas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
+      <atom:link href="https://amazeliauskas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Wed, 05 Feb 2020 09:00:01 +0200</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>Posts</title>
+      <link>https://amazeliauskas.github.io/post/</link>
+    </image>
     
-	<atom:link href="https://amazeliauskas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visit to ATLAS underground cavern</title>
+      <link>https://amazeliauskas.github.io/post/2020-02-05/</link>
+      <pubDate>Wed, 05 Feb 2020 09:00:01 +0200</pubDate>
+      <guid>https://amazeliauskas.github.io/post/2020-02-05/</guid>
+      <description>&lt;p&gt;One of the privileges of working at CERN is the opportunity to see the particle experiments up close.&lt;/p&gt;
+&lt;p&gt;On Wednesday, Feb 5th, a group of CERN theorists was given a private underground tour of 
+&lt;a href=&#34;https://home.cern/science/experiments/atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ATLAS&lt;/a&gt;
+ detector.
+The above the ground building has a very colourful picture of the detector, which is actually done
+at the smaller scale than the real thing. However hundred meters below the ground it is hard to grasp the dimensions of this huge particle detector and my smartphone camera really does not do justice.
+I was fascinated to be reminded again, that detectors like ATLAS can track microscopic particles
+over distances of meters with micrometer precision.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
     
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090012227_HDR.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090012227_HDR_hudced8bcfe22292ced2a3e4887c9f0f23_274211_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090558852.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090558852_hudced8bcfe22292ced2a3e4887c9f0f23_251848_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091235250.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091235250_hudced8bcfe22292ced2a3e4887c9f0f23_200968_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091904378.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091904378_hudced8bcfe22292ced2a3e4887c9f0f23_269265_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093015338.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093015338_hudced8bcfe22292ced2a3e4887c9f0f23_337481_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093021073.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093021073_hudced8bcfe22292ced2a3e4887c9f0f23_423426_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093035937.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093035937_hudced8bcfe22292ced2a3e4887c9f0f23_285812_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093125602.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093125602_hudced8bcfe22292ced2a3e4887c9f0f23_365429_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093142665.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093142665_hu667230c3c9574c2f2d9b2122b445c210_2723548_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_094604105.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_094604105_hudced8bcfe22292ced2a3e4887c9f0f23_382946_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science outreach in Lithuania</title>
+      <link>https://amazeliauskas.github.io/post/2020-01-18/</link>
+      <pubDate>Sat, 18 Jan 2020 13:51:01 +0200</pubDate>
+      <guid>https://amazeliauskas.github.io/post/2020-01-18/</guid>
+      <description>&lt;p&gt;During my long vacations in Lithuania, I decided to
+do some science outreach and I gave three presentations on my work at &lt;strong&gt;CERN&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;First, on Saturday Jan 11th, I visited additional training physics school &lt;strong&gt;Fizikos Olimpas&lt;/strong&gt; during its
+January session week in Vilnius. In somewhat cold lecture room (heating presumably turned off on weekends), there
+was a warm atmosphere and physics-oriented school-children from around the country listened
+to my talk and asked pointed questions.&lt;/p&gt;
+&lt;p&gt;On Monday Jan 13th, I gave a talk at Vilnius University &lt;strong&gt;Institute for Theoretical Physics and Astronomy&lt;/strong&gt;
+upon kind invitation of local scientist 
+&lt;a href=&#34;http://www.tfai.vu.lt/index.php?siteaction=personnel.view&amp;amp;id=216&amp;amp;menu=about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dr. Darius Jurčiukonis&lt;/a&gt;
+. I was a bit nervous giving my
+first scientific talk in Lithuanian. The talk drew a sizable audience and interesting questions. I was also complimented
+on my Lithuanian translations of technical jargon. However, in the future I will probably stick to English to make
+my talk accessible to non-Lithuanian speakers working at or visiting Vilnius University.&lt;/p&gt;
+&lt;p&gt;Finally, on Wednesday Jan 15th I visited my former high-school &lt;strong&gt;Gabija&lt;/strong&gt; in Mažeikiai.
+Here I was greeted by a large audience of 16-19 old school goers. Although a bit tired of loud talking
+(decided against using a mic), I was happy to answer a variety of questions about CERN and my work as a scientist.
+Afterwards, I was given a tour of school by deputy-head and my former physics teacher.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

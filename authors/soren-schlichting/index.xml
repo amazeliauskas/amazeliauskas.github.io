@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sören Schlichting | Aleksas Mazeliauskas</title>
+    <link>https://amazeliauskas.github.io/authors/soren-schlichting/</link>
+      <atom:link href="https://amazeliauskas.github.io/authors/soren-schlichting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sören Schlichting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>Sören Schlichting</title>
+      <link>https://amazeliauskas.github.io/authors/soren-schlichting/</link>
+    </image>
+    
+    <item>
+      <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
+      <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0300</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective kinetic description of event-by-event pre-equilibrium dynamics in high-energy heavy-ion collisions</title>
+      <link>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching the Nonequilibrium Initial Stage of Heavy Ion Collisions to Hydrodynamics with QCD Kinetic Theory</title>
+      <link>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

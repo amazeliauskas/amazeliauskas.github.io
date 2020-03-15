@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hydrodynamics on Aleksas Mazeliauskas</title>
+    <title>hydrodynamics | Aleksas Mazeliauskas</title>
     <link>https://amazeliauskas.github.io/tags/hydrodynamics/</link>
-    <description>Recent content in hydrodynamics on Aleksas Mazeliauskas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 13:32:27 +0200</lastBuildDate>
-    
-	<atom:link href="https://amazeliauskas.github.io/tags/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://amazeliauskas.github.io/tags/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>hydrodynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 13:32:27 +0200</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>hydrodynamics</title>
+      <link>https://amazeliauskas.github.io/tags/hydrodynamics/</link>
+    </image>
     
     <item>
       <title>RNAVIER</title>
-      <link>https://amazeliauskas.github.io/project/rnavier/</link>
+      <link>https://amazeliauskas.github.io/code/rnavier/</link>
       <pubDate>Wed, 27 Apr 2016 13:32:27 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/rnavier/</guid>
-      <description>3D viscous relativistic hydrodynamics code.</description>
+      <guid>https://amazeliauskas.github.io/code/rnavier/</guid>
+      <description>&lt;p&gt;RNAVIER employs second order Israel-Stewart formalism to simulate relativistic hydrodynamics at zero chemical potential in both Cartesian and Bjorken coordinates.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

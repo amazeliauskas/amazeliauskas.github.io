@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vytautas Vislavicius on Aleksas Mazeliauskas</title>
+    <title>Vytautas Vislavicius | Aleksas Mazeliauskas</title>
     <link>https://amazeliauskas.github.io/authors/vytautas-vislavicius/</link>
-    <description>Recent content in Vytautas Vislavicius on Aleksas Mazeliauskas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://amazeliauskas.github.io/authors/vytautas-vislavicius/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://amazeliauskas.github.io/authors/vytautas-vislavicius/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vytautas Vislavicius</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>Vytautas Vislavicius</title>
+      <link>https://amazeliauskas.github.io/authors/vytautas-vislavicius/</link>
+    </image>
     
     <item>
       <title>Temperature and fluid velocity on the freeze-out surface from $π$, $K$, $p$ spectra in pp, p-Pb and Pb-Pb collisions</title>
       <link>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0300</pubDate>
-      
       <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</guid>
       <description></description>
     </item>

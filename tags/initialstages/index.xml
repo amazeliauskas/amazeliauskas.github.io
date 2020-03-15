@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>InitialStages on Aleksas Mazeliauskas</title>
+    <title>InitialStages | Aleksas Mazeliauskas</title>
     <link>https://amazeliauskas.github.io/tags/initialstages/</link>
-    <description>Recent content in InitialStages on Aleksas Mazeliauskas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://amazeliauskas.github.io/tags/initialstages/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://amazeliauskas.github.io/tags/initialstages/index.xml" rel="self" type="application/rss+xml" />
+    <description>InitialStages</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>InitialStages</title>
+      <link>https://amazeliauskas.github.io/tags/initialstages/</link>
+    </image>
     
     <item>
       <title>Matching of initial conditions to hydro evolution</title>
       <link>https://amazeliauskas.github.io/talk/2019-06-24/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0300</pubDate>
-      
       <guid>https://amazeliauskas.github.io/talk/2019-06-24/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>Smooth matching of pre-equilibrium evolution to hydrodynamics in heavy ion collisions</title>
       <link>https://amazeliauskas.github.io/talk/2017-09-19/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0300</pubDate>
-      
       <guid>https://amazeliauskas.github.io/talk/2017-09-19/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
       <link>https://amazeliauskas.github.io/talk/2016-05-25/</link>
       <pubDate>Wed, 25 May 2016 00:00:00 +0300</pubDate>
-      
       <guid>https://amazeliauskas.github.io/talk/2016-05-25/</guid>
       <description></description>
     </item>

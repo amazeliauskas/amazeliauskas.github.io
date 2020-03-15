@@ -1,69 +1,238 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Aleksas Mazeliauskas</title>
+    <title>Projects | Aleksas Mazeliauskas</title>
     <link>https://amazeliauskas.github.io/project/</link>
-    <description>Recent content in Projects on Aleksas Mazeliauskas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Sat, 27 Apr 2019 19:47:13 +0200</lastBuildDate>
-    
-	<atom:link href="https://amazeliauskas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://amazeliauskas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Tue, 27 Aug 2019 19:47:13 +0200</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>Projects</title>
+      <link>https://amazeliauskas.github.io/project/</link>
+    </image>
     
     <item>
       <title>Effective Kinetic Theory</title>
       <link>https://amazeliauskas.github.io/project/ekt/</link>
-      <pubDate>Sat, 27 Apr 2019 19:47:13 +0200</pubDate>
-      
+      <pubDate>Tue, 27 Aug 2019 19:47:13 +0200</pubDate>
       <guid>https://amazeliauskas.github.io/project/ekt/</guid>
-      <description>Early dynamics with QCD Effective Kinetic Theory</description>
+      <description>&lt;p&gt;How quantum systems behave away from equilibrium is a topic of intensive research across
+many different physics branches from cold atom experiments to hadron collisions. A question
+of fundamental importance in heavy-ion research is the mechanism behind the rapid formation
+of the new state of nuclear matter called the Quark-Gluon Plasma (QGP), which is created in
+relativistic nuclear collisions&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;One of the remarkable properties of the fundamental theory of strong interaction—Quantum
+Chromo-Dynamics (QCD)—is that the interaction becomes stronger at smaller energies (or
+larger distances). Ultimately this property is responsible that no free quarks have been observed. In contrast, at very high temperatures, when coupling becomes
+small and the nuclear matter melts into a soup of quarks and gluons the non-equilibrium QCD
+dynamics is successfully modelled by weakly coupled QCD effective kinetic theory&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. The leading
+order elastic quark and gluon scatterings and thermal medium induced collinear radiation contain the essential microscopic physics necessary to describe the equilibration of a QCD
+plasma in the “bottom up” thermalization scenario&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; (see figure). The existent non-perturbative formulation
+of QCD on a lattice is not well suited to simulate the real time dynamics (due to the so called
+sign problem), therefore weakly coupled effective kinetic theory remains state-of-the-art tool in
+studying non-equilibrium evolution of quark-gluon plasma.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;S. Schlichting and D. Teaney, &lt;em&gt;The First fm/c of Heavy-Ion Collisions&lt;/em&gt;, 
+&lt;a href=&#34;https://doi.org/10.1146/annurev-nucl-101918-023825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann. Rev. Nucl. Part. Sci. 69 (2019)&lt;/a&gt;
+ &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;P.B. Arnold, G.D. Moore and L.G. Yaffe, &lt;em&gt;Effective kinetic theory for high temperature gauge theories&lt;/em&gt;, 
+&lt;a href=&#34;https://doi.org/10.1088/1126-6708/2003/01/030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JHEP 0301, 030 (2003)&lt;/a&gt;
+ &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;R. Baier, A.H. Mueller, D. Schiff, D.T. Son, &lt;em&gt;’Bottom up’ thermalization in heavy-ion collisions&lt;/em&gt;, 
+&lt;a href=&#34;https://doi.org/10.1016/S0370-2693%2801%2900191-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Lett. B 502 (2001)&lt;/a&gt;
+ &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
     </item>
     
     <item>
-      <title>Hydro Kinetics</title>
+      <title>Chemical equilibration</title>
+      <link>https://amazeliauskas.github.io/project/chemeq/</link>
+      <pubDate>Wed, 07 Aug 2019 19:47:13 +0200</pubDate>
+      <guid>https://amazeliauskas.github.io/project/chemeq/</guid>
+      <description>&lt;p&gt;The current hydrodynamical models of heavy-ion collisions use equation of state for the pressure
+and energy relation, which assumes the thermodynamic equilibrium between the three light
+flavour quarks and gluons with the same temperature. However such chemical equilibrium in
+the quark-gluon plasma created in nuclear collisions is by no means guaranteed. This is because
+in the high-energy limit the energy deposition in the central region of the collision is dominated
+by gluonic fields with almost no quarks present initially and which have to be produced later.
+On the other hand, the observed yields of produced hadrons (including strange hadrons) are well
+described by a chemical equilibrium temperature of $T_{\mathrm{chem}} ≈ 156\, \mathrm{MeV}/k_B$ in the largest nucleus-nucleus collisions&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. This is suggestive that chemical equilibrium is reached in the quark-gluon
+plasma at least in the largest collision systems.&lt;/p&gt;
+&lt;p&gt;I have 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-oqw&#34;&gt;recently performed&lt;/a&gt;
+ the first leading order (in coupling constant) QCD kinetic theory
+simulations with both gluon and quark degrees of freedom. We determined the relative ordering
+of important equilibration time-scales between the emergence of fluid-like behaviour, quark
+and gluon chemical equilibration, and the approach to thermal Bose-Einstein and Fermi-Dirac
+equilibrium (see Figure). In the accompanying 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-xxd&#34;&gt;Letter&lt;/a&gt;
+ we demonstrated that the observed hadron chemical
+equilibrium for large number of produced charged particles is indeed consistent with kinetic
+theory results of chemically equilibrating quark-gluon plasma.&lt;/p&gt;
+&lt;!--The dynamical simulations of quark degrees of freedom are important for many non-equilibrium
+QCD phenomena. For example, photon emission is a direct probe of charge content of the
+plasma and in our recent proof-of-principle calculation we studied experimental signals of non-
+equilibrium photon production. Event by event fluctuations of QCD conserved charges might also leave the imprint on the observed experimental signals 8 . I plan to explore this interesting
+dynamics using fully dynamical kinetic theory framework in the future.--&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;A. Andronic, P. Braun-Munzinger, K. Redlich and J. Stachel, &lt;em&gt;Decoding the phase structure of QCD via particle production at high energy&lt;/em&gt;, 
+&lt;a href=&#34;https://doi.org/10.1038/s41586-018-0491-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 561 no. 7723 (2018)&lt;/a&gt;
+ &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event-by-event pre-equilibrium evolution in hadron collisions</title>
+      <link>https://amazeliauskas.github.io/project/fluctuations/</link>
+      <pubDate>Sat, 27 Apr 2019 19:47:13 +0200</pubDate>
+      <guid>https://amazeliauskas.github.io/project/fluctuations/</guid>
+      <description>&lt;p&gt;Extracting the QGP medium properties, like shear or bulk viscosities, is the primary goal of
+heavy-ion research. However choice of initial conditions for the hydrodynamical evolution of
+the plasma is the main source of model uncertainties. Therefore the first principle modelling of
+initial gauge fields, or multi-parameter model-to-data fits have been very important for the
+progress of the field. However, until recently none of the approaches included the pre-equilibrium
+physics, which would naturally lead to hydrodynamical expansion of QGP.&lt;/p&gt;
+&lt;p&gt;In a series of works, we have constructed a linearized response framework based on
+kinetic theory simulations, which propagates initial non-equilibrium energy-momentum tensor
+to the time, when the hydrodynamic constitutive equations are satisfied. Our publicly available
+package 
+&lt;a href=&#34;https://amazeliauskas.github.io/code/kompost/&#34;&gt;KøMPøST&lt;/a&gt;
+ is a practical tool to do event-by-event simulations of heavy-ion collisions
+with realistic pre-equilibrium dynamics.&lt;/p&gt;
+&lt;!--One of the most striking effect of equilibration is entropy production. In the case of nuclear collisions, the produced entropy can be related to the measured particle multiplicities.
+Based on our understanding of equilibration and the concept of hydrodynamic attractors, we
+have derived a simple formula for calculating entropy production in heavy-ion collisions, which
+directly connects the initial state physics and the physically measurable observables.
+
+Finally, the observed signals of collectivity even in proton-proton collisions are challenging
+our understanding of when a system of a few interacting partons can be already described as
+a medium. Therefore the quantitative description of out-of-equilibrium systems will play the
+key role in interpreting such experimental signatures. Currently I am working on extending the
+kinetic theory simulations to small systems with strong radial expansion.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prescaling</title>
+      <link>https://amazeliauskas.github.io/project/prescaling/</link>
+      <pubDate>Sat, 27 Apr 2019 19:47:13 +0200</pubDate>
+      <guid>https://amazeliauskas.github.io/project/prescaling/</guid>
+      <description>&lt;p&gt;In the high energy limit, the colliding heavy-ions act as fast moving colour sources, which generate very strong chromo-electric and chromo-magnetic fields. Due to their large amplitude, the
+fields at the earliest instants of the collision can be described by classical-statistical simulations
+of Yang-Mills equations of motion. Despite weak coupling, this evolution is non-perturbative,
+yet the gluon phase-space density demonstrates remarkably simplified evolution, described by
+self-similar scaling with constant scaling exponents. The pure glue kinetic simulations have
+confirmed such behaviour, as predicted by the “bottom-up” thermalization scenario.&lt;/p&gt;
+&lt;p&gt;Revisiting the scaling behaviour with kinetic simulations, I discovered that the simplified
+self-similar evolution exists at much earlier times, if the scaling exponents are viewed as slowly
+varying effective degrees of freedom. In our 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/&#34;&gt;Letter&lt;/a&gt;
+ we dubbed such behaviour “prescaling”
+and argued that the corresponding scaling exponents can be used to construct a hydrodynamic
+description of the plasma far from equilibrium. In contrast to the actively studied phenomena of
+“hydrodynamic attractors”, our effective loss of information is not based on approach towards
+the equilibrium state.&lt;/p&gt;
+&lt;!--The scaling dynamics of far-from-equilibrium quantum systems is a universal physics phe-
+nomena and it has been experimentally observed in cold atomic gasses. The time dependence
+of scaling behaviour has been seen in computer simulations of non-relativistic Bose gas and
+therefore the prescaling phenomena will be undoubtedly looked for in an experiment. I plan to
+continue exploring the universal dynamics of far-from-equilibrium quark-gluon plasma in various
+settings and, in particular, I want to understand the initial stages of “bottom-up” thermalization
+in terms of pre-scaling phenomena.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hydro-kinetics</title>
       <link>https://amazeliauskas.github.io/project/hydro-kinetics/</link>
       <pubDate>Sat, 27 Apr 2019 19:41:52 +0200</pubDate>
-      
       <guid>https://amazeliauskas.github.io/project/hydro-kinetics/</guid>
-      <description>Thermodynamic fluctuations in out-of-equilibrium hydro expansion</description>
+      <description>&lt;p&gt;The &lt;strong&gt;fluctuation dissipation theorem&lt;/strong&gt; dictates that any dissipative system exhibits &lt;strong&gt;stochastic fluctuations&lt;/strong&gt; thanks to the microscopic degrees of freedom. The remarkable property of QGP
+is that it is well described by macroscopic theory of &lt;strong&gt;viscous hydrodynamics&lt;/strong&gt;, despite its microscopic volume.
+However, &lt;strong&gt;thermal fluctuations&lt;/strong&gt; have been so far neglected in most of
+heavy-ion model studies, because of difficulty of implementing stochastic noise in hydrodynamic
+simulations.&lt;/p&gt;
+&lt;p&gt;A novel approach in describing effect of &lt;strong&gt;hydrodynamic fluctuations&lt;/strong&gt; has been pioneered in our
+papers on &lt;strong&gt;hydro-kinetics&lt;/strong&gt;, where we derived deterministic evolution equations for the &lt;strong&gt;two-point
+correlation functions&lt;/strong&gt; of fluid fields, which are equivalent to
+nonlinear hydrodynamics with noise. We used the hydro-kinetic equations to analyse thermal fluctuations
+for a Bjorken expansion, evaluating the contribution of thermal noise from the earliest moments and at late times.&lt;/p&gt;
+&lt;p&gt;Recently the approach was generalized to arbitrary
+background flows, which could be implemented in realistic heavy-ion simulations. Inclusion
+of such dynamical fluctuations is particularly important for the searches of the &lt;strong&gt;critical point&lt;/strong&gt; in
+QCD phase diagram, with experimental efforts currently underway at Relativistic Heavy Ion
+Collider (RHIC) at BNL.&lt;/p&gt;
+&lt;!--The current status and future challenges of such effort were recently discussed
+at EMMI Rapid Reaction Task Force workshop held in Darmstadt, Germany in April 2019, for
+which I served as a convener.--&gt;
+</description>
     </item>
     
     <item>
-      <title>Principal Component Analysis</title>
+      <title>Machine learning in heavy-ion collisions</title>
       <link>https://amazeliauskas.github.io/project/pca/</link>
       <pubDate>Sat, 27 Apr 2019 19:32:52 +0200</pubDate>
-      
       <guid>https://amazeliauskas.github.io/project/pca/</guid>
-      <description>We analyse harmonic flows using Principal Component Analysis</description>
+      <description>&lt;p&gt;The physics objective of any experimental endeavour is to identify and explain the physics
+mechanisms responsible for the observations. When the number of possible observables is large,
+as is often the case in heavy-ion collisions, it might be challenging to identify the relevant degrees
+of freedom. Therefore data analysis methods based on machine learning can be helpful in
+simplifying this task.&lt;/p&gt;
+&lt;p&gt;In my PhD work I employed the &lt;strong&gt;Principal Component Analysis&lt;/strong&gt; (PCA) to study the triangular and other harmonic flows in a hydrodynamic model of heavy-ion collisions.
+PCA identifies the collective fluctuations in the signal responsible for most of the variance in the data,
+so called &lt;strong&gt;principal components&lt;/strong&gt;. We identified such dominant components (&lt;strong&gt;leading&lt;/strong&gt; and &lt;strong&gt;subleading flows&lt;/strong&gt;) in momentum resolved flow harmonic observables. Our work has been followed by
+several experimental searches and theoretical studies confirming our findings and emphasizing the relevance of subleading flows in studying the small scale structure in heavy-ion
+collisions&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>KøMPøST</title>
-      <link>https://amazeliauskas.github.io/project/kompost/</link>
-      <pubDate>Thu, 25 Apr 2019 23:05:05 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/kompost/</guid>
-      <description>Linear kinetic theory propagator for initial conditions of heavy ion collisions</description>
-    </item>
-    
-    <item>
-      <title>FastReso</title>
-      <link>https://amazeliauskas.github.io/project/fastreso/</link>
+      <title>Hadron formation and resonance decays</title>
+      <link>https://amazeliauskas.github.io/project/hadrons/</link>
       <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/fastreso/</guid>
-      <description>Fast calculation of direct resonance decays</description>
-    </item>
-    
-    <item>
-      <title>RNAVIER</title>
-      <link>https://amazeliauskas.github.io/project/rnavier/</link>
-      <pubDate>Wed, 27 Apr 2016 13:32:27 +0200</pubDate>
-      
-      <guid>https://amazeliauskas.github.io/project/rnavier/</guid>
-      <description>3D viscous relativistic hydrodynamics code.</description>
+      <guid>https://amazeliauskas.github.io/project/hadrons/</guid>
+      <description>&lt;p&gt;How the colour-neutral particles are produced from the &lt;strong&gt;quark-gluon plasma&lt;/strong&gt;, which is a deconfined state of matter with manifest QCD colour degrees of freedom, is a poorly understood
+fundamental physics problem. The current approach, called the &lt;strong&gt;Cooper-Frye procedure&lt;/strong&gt;, converts the fluid fields like temperature and velocity directly to a distribution of hadron resonances
+gas. Remarkably, the measured particle yields are in very good agreement with thermal par-
+ticle production at chemical freeze-out temperature of $T_\text{chem} \approx 156\, \text{MeV}/k_B$ even for a weakly
+bounded hyper-nuclei.&lt;/p&gt;
+&lt;p&gt;Most of the produced hadron resonances are short lived and decay to more stable particles before detection. Therefore comparison to momentum resolved experimental data requires
+numerically costly calculations of &lt;strong&gt;resonance decays&lt;/strong&gt;. We developed a 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt;
+ of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
+Such fast and efficient technique allowed use to easily include the important effect of resonance
+decays in a routine experimental analysis procedure of 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;
+. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt;
+ of
+identified particle spectra at LHC (see figure). We found that there are statistically significant deviations from experimental measured spectra in the low momentum pion spectra, which cannot be
+rectified even within the range of model parameters and even a larger set of primary resonances.&lt;/p&gt;
+&lt;!--Although our technique has neglected some physics effects, namely, the hadronic re-scatterings,
+the overall simplicity of the method allows for a transparent study of other less understood effects, e.g., resonance widths, missing resonance states and new parametrizations of primary
+resonance spectra. Because current hydrodynamic models are not able to reproduce some of
+hadronic observables quantitatively, or even qualitatively, e.g., the sign of longitudinal spin polarization, some new physics effects in fluid to particle conversion might be needed. I plan to
+use the new techniques to discover the missing freeze-out physics and I am currently investigating
+the effect of resonance spectral functions in the fast resonance decay procedure.--&gt;
+</description>
     </item>
     
   </channel>

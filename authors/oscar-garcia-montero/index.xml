@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oscar Garcia-Montero on Aleksas Mazeliauskas</title>
+    <title>Oscar Garcia-Montero | Aleksas Mazeliauskas</title>
     <link>https://amazeliauskas.github.io/authors/oscar-garcia-montero/</link>
-    <description>Recent content in Oscar Garcia-Montero on Aleksas Mazeliauskas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Aleksas Mazelliauskas {year}</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0300</lastBuildDate>
-    
-	<atom:link href="https://amazeliauskas.github.io/authors/oscar-garcia-montero/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://amazeliauskas.github.io/authors/oscar-garcia-montero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oscar Garcia-Montero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>Oscar Garcia-Montero</title>
+      <link>https://amazeliauskas.github.io/authors/oscar-garcia-montero/</link>
+    </image>
     
     <item>
       <title>Probing the evolution of heavy-ion collisions using direct photon interferometry</title>
       <link>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0300</pubDate>
-      
       <guid>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</guid>
       <description></description>
     </item>
