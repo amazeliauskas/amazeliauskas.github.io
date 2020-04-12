@@ -5,7 +5,7 @@
     <link>https://amazeliauskas.github.io/tags/workshop/</link>
       <atom:link href="https://amazeliauskas.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>workshop</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
       <title>workshop</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Pre-equilibrium phenomena in Quark Gluon Plasma</title>
       <link>https://amazeliauskas.github.io/talk/2019-12-06/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2019-12-06/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Pre-scaling, hydrodynamic attractors and entropy production in heavy ion collisions</title>
       <link>https://amazeliauskas.github.io/talk/2019-11-25/</link>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2019-11-25/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
       <link>https://amazeliauskas.github.io/talk/2019-11-01/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2019-11-01/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Fluctuating hydrodynamics with relativistic hydro-kinetic theory</title>
       <link>https://amazeliauskas.github.io/talk/2019-04-19/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0300</pubDate>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2019-04-19/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
       <link>https://amazeliauskas.github.io/talk/2019-04-06/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0300</pubDate>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2019-04-06/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>FastReso – fast resonance decays in nuclear collisions</title>
       <link>https://amazeliauskas.github.io/talk/2019-01-14/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2019-01-14/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Initial conditions for heavy ion collisions</title>
       <link>https://amazeliauskas.github.io/talk/2017-10-02/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2017-10-02/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Kinetic theory equilibration for realistic heavy ion initial conditions</title>
       <link>https://amazeliauskas.github.io/talk/2017-06-15/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0300</pubDate>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0200</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2017-06-15/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
       <link>https://amazeliauskas.github.io/talk/2016-09-19/</link>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0200</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2016-09-19/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Principal Component Analysis and Subleading Flow</title>
       <link>https://amazeliauskas.github.io/talk/2015-03-06/</link>
-      <pubDate>Fri, 06 Mar 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0100</pubDate>
       <guid>https://amazeliauskas.github.io/talk/2015-03-06/</guid>
       <description></description>
     </item>
