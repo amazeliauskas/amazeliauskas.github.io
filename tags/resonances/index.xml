@@ -32,14 +32,11 @@ ticle production at chemical freeze-out temperature of $T_\text{chem} \approx 15
 bounded hyper-nuclei.&lt;/p&gt;
 &lt;p&gt;Most of the produced hadron resonances are short lived and decay to more stable particles before detection. Therefore comparison to momentum resolved experimental data requires
 numerically costly calculations of &lt;strong&gt;resonance decays&lt;/strong&gt;. We developed a 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt;
- of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt; of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
 Such fast and efficient technique allowed use to easily include the important effect of resonance
 decays in a routine experimental analysis procedure of 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;
-. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt;
- of
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt; of
 identified particle spectra at LHC (see figure). We found that there are statistically significant deviations from experimental measured spectra in the low momentum pion spectra, which cannot be
 rectified even within the range of model parameters and even a larger set of primary resonances.&lt;/p&gt;
 &lt;!--Although our technique has neglected some physics effects, namely, the hadronic re-scatterings,

@@ -37,18 +37,15 @@ studying non-equilibrium evolution of quark-gluon plasma.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;S. Schlichting and D. Teaney, &lt;em&gt;The First fm/c of Heavy-Ion Collisions&lt;/em&gt;, 
-&lt;a href=&#34;https://doi.org/10.1146/annurev-nucl-101918-023825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann. Rev. Nucl. Part. Sci. 69 (2019)&lt;/a&gt;
- &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1146/annurev-nucl-101918-023825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann. Rev. Nucl. Part. Sci. 69 (2019)&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;P.B. Arnold, G.D. Moore and L.G. Yaffe, &lt;em&gt;Effective kinetic theory for high temperature gauge theories&lt;/em&gt;, 
-&lt;a href=&#34;https://doi.org/10.1088/1126-6708/2003/01/030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JHEP 0301, 030 (2003)&lt;/a&gt;
- &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1088/1126-6708/2003/01/030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JHEP 0301, 030 (2003)&lt;/a&gt; &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;R. Baier, A.H. Mueller, D. Schiff, D.T. Son, &lt;em&gt;’Bottom up’ thermalization in heavy-ion collisions&lt;/em&gt;, 
-&lt;a href=&#34;https://doi.org/10.1016/S0370-2693%2801%2900191-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Lett. B 502 (2001)&lt;/a&gt;
- &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1016/S0370-2693%2801%2900191-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Lett. B 502 (2001)&lt;/a&gt; &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -70,14 +67,12 @@ On the other hand, the observed yields of produced hadrons (including strange ha
 described by a chemical equilibrium temperature of $T_{\mathrm{chem}} ≈ 156\, \mathrm{MeV}/k_B$ in the largest nucleus-nucleus collisions&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. This is suggestive that chemical equilibrium is reached in the quark-gluon
 plasma at least in the largest collision systems.&lt;/p&gt;
 &lt;p&gt;I have 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-oqw&#34;&gt;recently performed&lt;/a&gt;
- the first leading order (in coupling constant) QCD kinetic theory
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-oqw&#34;&gt;recently performed&lt;/a&gt; the first leading order (in coupling constant) QCD kinetic theory
 simulations with both gluon and quark degrees of freedom. We determined the relative ordering
 of important equilibration time-scales between the emergence of fluid-like behaviour, quark
 and gluon chemical equilibration, and the approach to thermal Bose-Einstein and Fermi-Dirac
 equilibrium (see Figure). In the accompanying 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-xxd&#34;&gt;Letter&lt;/a&gt;
- we demonstrated that the observed hadron chemical
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-xxd&#34;&gt;Letter&lt;/a&gt; we demonstrated that the observed hadron chemical
 equilibrium for large number of produced charged particles is indeed consistent with kinetic
 theory results of chemically equilibrating quark-gluon plasma.&lt;/p&gt;
 &lt;!--The dynamical simulations of quark degrees of freedom are important for many non-equilibrium
@@ -90,8 +85,7 @@ dynamics using fully dynamical kinetic theory framework in the future.--&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;A. Andronic, P. Braun-Munzinger, K. Redlich and J. Stachel, &lt;em&gt;Decoding the phase structure of QCD via particle production at high energy&lt;/em&gt;, 
-&lt;a href=&#34;https://doi.org/10.1038/s41586-018-0491-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 561 no. 7723 (2018)&lt;/a&gt;
- &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.1038/s41586-018-0491-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 561 no. 7723 (2018)&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -113,8 +107,7 @@ physics, which would naturally lead to hydrodynamical expansion of QGP.&lt;/p&gt
 kinetic theory simulations, which propagates initial non-equilibrium energy-momentum tensor
 to the time, when the hydrodynamic constitutive equations are satisfied. Our publicly available
 package 
-&lt;a href=&#34;https://amazeliauskas.github.io/code/kompost/&#34;&gt;KøMPøST&lt;/a&gt;
- is a practical tool to do event-by-event simulations of heavy-ion collisions
+&lt;a href=&#34;https://amazeliauskas.github.io/code/kompost/&#34;&gt;KøMPøST&lt;/a&gt; is a practical tool to do event-by-event simulations of heavy-ion collisions
 with realistic pre-equilibrium dynamics.&lt;/p&gt;
 &lt;!--One of the most striking effect of equilibration is entropy production. In the case of nuclear collisions, the produced entropy can be related to the measured particle multiplicities.
 Based on our understanding of equilibration and the concept of hydrodynamic attractors, we
@@ -144,8 +137,7 @@ confirmed such behaviour, as predicted by the “bottom-up” thermalization sce
 &lt;p&gt;Revisiting the scaling behaviour with kinetic simulations, I discovered that the simplified
 self-similar evolution exists at much earlier times, if the scaling exponents are viewed as slowly
 varying effective degrees of freedom. In our 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/&#34;&gt;Letter&lt;/a&gt;
- we dubbed such behaviour “prescaling”
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/&#34;&gt;Letter&lt;/a&gt; we dubbed such behaviour “prescaling”
 and argued that the corresponding scaling exponents can be used to construct a hydrodynamic
 description of the plasma far from equilibrium. In contrast to the actively studied phenomena of
 “hydrodynamic attractors”, our effective loss of information is not based on approach towards
@@ -216,14 +208,11 @@ ticle production at chemical freeze-out temperature of $T_\text{chem} \approx 15
 bounded hyper-nuclei.&lt;/p&gt;
 &lt;p&gt;Most of the produced hadron resonances are short lived and decay to more stable particles before detection. Therefore comparison to momentum resolved experimental data requires
 numerically costly calculations of &lt;strong&gt;resonance decays&lt;/strong&gt;. We developed a 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt;
- of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt; of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
 Such fast and efficient technique allowed use to easily include the important effect of resonance
 decays in a routine experimental analysis procedure of 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;
-. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed 
-&lt;a href=&#34;https://amazeliauskas.github.io/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt;
- of
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed 
+&lt;a href=&#34;https://amazeliauskas.github.io/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt; of
 identified particle spectra at LHC (see figure). We found that there are statistically significant deviations from experimental measured spectra in the low momentum pion spectra, which cannot be
 rectified even within the range of model parameters and even a larger set of primary resonances.&lt;/p&gt;
 &lt;!--Although our technique has neglected some physics effects, namely, the hadronic re-scatterings,
