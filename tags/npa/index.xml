@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NPA | Aleksas Mazeliauskas</title>
+    <link>https://amazeliauskas.github.io/tags/npa/</link>
+      <atom:link href="https://amazeliauskas.github.io/tags/npa/index.xml" rel="self" type="application/rss+xml" />
+    <description>NPA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <title>NPA</title>
+      <link>https://amazeliauskas.github.io/tags/npa/</link>
+    </image>
+    
+    <item>
+      <title>Dynamics of critical fluctuations: Theory – phenomenology – heavy-ion collisions</title>
+      <link>https://amazeliauskas.github.io/publication/bluhm-2020-mpc/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/bluhm-2020-mpc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

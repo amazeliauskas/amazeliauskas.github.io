@@ -5,12 +5,28 @@
     <link>https://amazeliauskas.github.io/publication_types/2/</link>
       <atom:link href="https://amazeliauskas.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
       <title>2</title>
       <link>https://amazeliauskas.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Discovering partonic rescattering in light nucleus collisions</title>
+      <link>https://amazeliauskas.github.io/publication/huss-2020-dwe/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/huss-2020-dwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting parton energy loss in small collision systems</title>
+      <link>https://amazeliauskas.github.io/publication/huss-2020-whe/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/huss-2020-whe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Thermalization in QCD: theoretical approaches, phenomenological applications, and interdisciplinary connections</title>

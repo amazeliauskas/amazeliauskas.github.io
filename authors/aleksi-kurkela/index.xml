@@ -5,12 +5,28 @@
     <link>https://amazeliauskas.github.io/authors/aleksi-kurkela/</link>
       <atom:link href="https://amazeliauskas.github.io/authors/aleksi-kurkela/index.xml" rel="self" type="application/rss+xml" />
     <description>Aleksi Kurkela</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
       <title>Aleksi Kurkela</title>
       <link>https://amazeliauskas.github.io/authors/aleksi-kurkela/</link>
     </image>
+    
+    <item>
+      <title>Discovering partonic rescattering in light nucleus collisions</title>
+      <link>https://amazeliauskas.github.io/publication/huss-2020-dwe/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/huss-2020-dwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting parton energy loss in small collision systems</title>
+      <link>https://amazeliauskas.github.io/publication/huss-2020-whe/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/huss-2020-whe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
