@@ -5,12 +5,81 @@
     <link>https://amazeliauskas.github.io/post/</link>
       <atom:link href="https://amazeliauskas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Sun, 27 Dec 2020 08:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Fri, 05 Mar 2021 08:00:00 +0200</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
       <title>Posts</title>
       <link>https://amazeliauskas.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>OppOatLHC</title>
+      <link>https://amazeliauskas.github.io/post/2021-03-05/</link>
+      <pubDate>Fri, 05 Mar 2021 08:00:00 +0200</pubDate>
+      <guid>https://amazeliauskas.github.io/post/2021-03-05/</guid>
+      <description>&lt;p&gt;Just five months after it 
+&lt;a href=&#34;https://amazeliauskas.github.io/post/2020-12-27/&#34;&gt;began&lt;/a&gt;, it is the wrap-up time for one of most exciting scientific adventures of my career so far&amp;mdash;my first
+organized physics workshop 
+&lt;a href=&#34;http://cern.ch/OppOatLHC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opportunities of OO and pO collisions at the LHC&lt;/a&gt; or &lt;strong&gt;OppOatLHC&lt;/strong&gt; for short.
+Together with amazing co-organizers Jasmine Brewer and Wilke van der Schee we embarked on a mission to bring the physics community
+to discuss physics opportunities (and challenges) of doing oxygen ion collisions at the LHC.&lt;/p&gt;
+&lt;p&gt;The 5-day workshop took place Feb 4-10, 2021 (with a weekend break). During 27 invited talks and 8 discussion sessions we
+covered a wide range of topics including technological, theoretical and experimental aspects of &lt;strong&gt;OppOatLHC&lt;/strong&gt;.
+From my personal feeling and the feedback received, it seemed to be a very successful workshop. We totaled nearly 400 registrations
+and well over 100 connections per day to workshop talks. It was great feeling that our workshop has attracted
+comparable amount of attention as a major conference in the field.&lt;/p&gt;
+&lt;p&gt;However, our work has not finished with the end of the talks, as just few weeks later we were due to give
+a workshop summary at 
+&lt;a href=&#34;https://indico.cern.ch/event/998052/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;145th LHCC Open session&lt;/a&gt;. 
+&lt;a href=&#34;https://scientific-info.cern/archives/history_CERN/Scientific_committees&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Large Hadron Collider Committee&lt;/a&gt; (LHCC)
+is a scientific committee dedicated to reviewing the progress and plans of LHC program. I was honoured to represent my co-organizers and
+advertise unique opportunities of oxygen collisions to this important scientific panel.
+The accompanying summary document of the &lt;strong&gt;OppOatLHC&lt;/strong&gt; workshop has now been made public on arXiv&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;The entire adventure was a great learning experience. Besides getting to organize a scientific event,
+I certainly became much more knowledgable about the inner workings of CERN and LHC.
+It takes an incredible amount of coordination (and compromise) among many hundreds and even
+thousands of people for ideas on paper to become actual running plans in reality. As a theorist
+working on, well, rather theoretical matters, it was very exciting to get a sense of making a  (even if small) contribution
+to bringing some of such ideas closer to becoming reality. Now, I just look forward to some &lt;strong&gt;OppOatLHC&lt;/strong&gt;.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Jasmine Brewer, Aleksas Mazeliauskas and Wilke van der Schee, &lt;em&gt;Opportunities of OO and pO collisions at the LHC&lt;/em&gt; 
+&lt;a href=&#34;https://arxiv.org/abs/2103.01939&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2103.01939&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NMA@CERN</title>
+      <link>https://amazeliauskas.github.io/post/2021-03-04/</link>
+      <pubDate>Thu, 04 Mar 2021 08:00:00 +0200</pubDate>
+      <guid>https://amazeliauskas.github.io/post/2021-03-04/</guid>
+      <description>&lt;p&gt;During the three days on February 17-19, NMA students participated at virtual NMA winter session with subject lectures in the morning and
+additional activity in the afternoon. This was the first session that I organized for physics students as
+the head of 
+&lt;a href=&#34;https://amazeliauskas.github.io/post/2020-11-15/&#34;&gt;NMA physics section&lt;/a&gt;. In the last half a year I managed the preparion
+and delivery of distant learning problem sets to NMA students (problem sets were mostly written by helper tutors). We studied a large number of rather advanced modern physics topics.
+Similarly, I wanted the physics lectures to be about physics in &amp;ldquo;real world&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Students heard about research in lasers, atmostpheric physics and even microfluids. I contributed
+with hands-on lecture on scientific python programming and introduction to CERN. However, I was most
+pleased about the successfully organised virtual visit to 
+&lt;a href=&#34;https://indico.cern.ch/event/1000541/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMS experiment&lt;/a&gt;, which was one of
+the common school&amp;rsquo;s activities. Thanks to very helpful CMS visitor center team and two great
+Lithuanians Vilius and Andrius working at CERN, the virtual visit was a resounding success.&lt;/p&gt;
+&lt;p&gt;Vilius and I were commenting from CMS control room, while Andrius joined remotely. In the meantime,
+the technical support team showed around the CMS cavern. With over 100 connected attendees we
+were bombarded with a stream of questions and in an intese hour and a half we managed to answer
+over seventy of them.&lt;/p&gt;
+&lt;p&gt;The questions were very interesting and it was great fun to respond  to them. It was especially nice, that Vilius, Andrius and I represented different aspects of CERN work: experimental physics, computer science and theoretical physics.
+This illiustrates that CERN is comprised of many people with often very different skills and interests.
+The visit was recorded and can be viewed 
+&lt;a href=&#34;https://youtu.be/EFqqJeY8yIQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My first organized workshop</title>

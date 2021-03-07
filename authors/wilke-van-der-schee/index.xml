@@ -5,12 +5,20 @@
     <link>https://amazeliauskas.github.io/authors/wilke-van-der-schee/</link>
       <atom:link href="https://amazeliauskas.github.io/authors/wilke-van-der-schee/index.xml" rel="self" type="application/rss+xml" />
     <description>Wilke van der Schee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
       <title>Wilke van der Schee</title>
       <link>https://amazeliauskas.github.io/authors/wilke-van-der-schee/</link>
     </image>
+    
+    <item>
+      <title>Opportunities of OO and $p$O collisions at the LHC</title>
+      <link>https://amazeliauskas.github.io/publication/brewer-2021-kiv/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/brewer-2021-kiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discovering partonic rescattering in light nucleus collisions</title>
