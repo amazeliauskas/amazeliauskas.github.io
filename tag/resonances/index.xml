@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resonances | Aleksas Mazeliauskas</title>
+    <link>https://aleksas.eu/tag/resonances/</link>
+      <atom:link href="https://aleksas.eu/tag/resonances/index.xml" rel="self" type="application/rss+xml" />
+    <description>resonances</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Thu, 25 Apr 2019 22:55:49 +0200</lastBuildDate>
+    <image>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <title>resonances</title>
+      <link>https://aleksas.eu/tag/resonances/</link>
+    </image>
+    
+    <item>
+      <title>FastReso</title>
+      <link>https://aleksas.eu/code/fastreso/</link>
+      <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
+      <guid>https://aleksas.eu/code/fastreso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hadron formation and resonance decays</title>
+      <link>https://aleksas.eu/project/hadrons/</link>
+      <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
+      <guid>https://aleksas.eu/project/hadrons/</guid>
+      <description>&lt;p&gt;How the colour-neutral particles are produced from the &lt;strong&gt;quark-gluon plasma&lt;/strong&gt;, which is a deconfined state of matter with manifest QCD colour degrees of freedom, is a poorly understood
+fundamental physics problem. The current approach, called the &lt;strong&gt;Cooper-Frye procedure&lt;/strong&gt;, converts the fluid fields like temperature and velocity directly to a distribution of hadron resonances
+gas. Remarkably, the measured particle yields are in very good agreement with thermal par-
+ticle production at chemical freeze-out temperature of $T_\text{chem} \approx 156\, \text{MeV}/k_B$ even for a weakly
+bounded hyper-nuclei.&lt;/p&gt;
+&lt;p&gt;Most of the produced hadron resonances are short lived and decay to more stable particles before detection. Therefore comparison to momentum resolved experimental data requires
+numerically costly calculations of &lt;strong&gt;resonance decays&lt;/strong&gt;. We developed a &lt;a href=&#34;https://aleksas.eu/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt; of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
+Such fast and efficient technique allowed use to easily include the important effect of resonance
+decays in a routine experimental analysis procedure of &lt;a href=&#34;https://aleksas.eu/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed &lt;a href=&#34;https://aleksas.eu/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt; of
+identified particle spectra at LHC (see figure). We found that there are statistically significant deviations from experimental measured spectra in the low momentum pion spectra, which cannot be
+rectified even within the range of model parameters and even a larger set of primary resonances.&lt;/p&gt;
+&lt;!--Although our technique has neglected some physics effects, namely, the hadronic re-scatterings,
+the overall simplicity of the method allows for a transparent study of other less understood effects, e.g., resonance widths, missing resonance states and new parametrizations of primary
+resonance spectra. Because current hydrodynamic models are not able to reproduce some of
+hadronic observables quantitatively, or even qualitatively, e.g., the sign of longitudinal spin polarization, some new physics effects in fluid to particle conversion might be needed. I plan to
+use the new techniques to discover the missing freeze-out physics and I am currently investigating
+the effect of resonance spectral functions in the fast resonance decay procedure.--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast resonance decays in nuclear collisions</title>
+      <link>https://aleksas.eu/publication/mazeliauskas-2018-irt/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2018-irt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

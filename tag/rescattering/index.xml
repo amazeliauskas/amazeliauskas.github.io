@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rescattering | Aleksas Mazeliauskas</title>
+    <link>https://aleksas.eu/tag/rescattering/</link>
+      <atom:link href="https://aleksas.eu/tag/rescattering/index.xml" rel="self" type="application/rss+xml" />
+    <description>rescattering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <title>rescattering</title>
+      <link>https://aleksas.eu/tag/rescattering/</link>
+    </image>
+    
+    <item>
+      <title>High-pT partonic rescattering</title>
+      <link>https://aleksas.eu/project/highpt/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://aleksas.eu/project/highpt/</guid>
+      <description>&lt;p&gt;Perhaps the greatest challenge to the consistent understanding of QCD matter formation is the disappearance of the observable energy loss of high momentum hadrons in small collisions systems. As
+the number of participant nucleons in peripheral lead-lead collisions reduces to order 10, the hadronic and
+jet nuclear modification factors approach unity. The large systematic uncertainties are preventing an
+accurate determination of energy loss in centrality selected collisions. However inclusive oxygen-oxygen
+(OO) collisions planned in the next run of LHC are free from such systematic uncertainties. Together with my
+colleagues at CERN, I have been working to quantify and predict the expected energy
+loss signal in OO collisions. We employed state-of-the-art perturbative QCD calculations of jet and
+Z-production cross sections with nuclear parton distribution functions to determine a precise
+theoretical baseline in the absence of medium induced modification. Combined with a number of
+energy loss models in small systems, we were able to conclude that OO collisions have sufficient sensitivity to discover energy loss in a system
+of about 10 colliding nucleons.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

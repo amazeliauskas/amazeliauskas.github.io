@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>harmonic flow | Aleksas Mazeliauskas</title>
+    <link>https://aleksas.eu/tag/harmonic-flow/</link>
+      <atom:link href="https://aleksas.eu/tag/harmonic-flow/index.xml" rel="self" type="application/rss+xml" />
+    <description>harmonic flow</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Sat, 27 Apr 2019 19:32:52 +0200</lastBuildDate>
+    <image>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <title>harmonic flow</title>
+      <link>https://aleksas.eu/tag/harmonic-flow/</link>
+    </image>
+    
+    <item>
+      <title>Machine learning in heavy-ion collisions</title>
+      <link>https://aleksas.eu/project/pca/</link>
+      <pubDate>Sat, 27 Apr 2019 19:32:52 +0200</pubDate>
+      <guid>https://aleksas.eu/project/pca/</guid>
+      <description>&lt;p&gt;The physics objective of any experimental endeavour is to identify and explain the physics
+mechanisms responsible for the observations. When the number of possible observables is large,
+as is often the case in heavy-ion collisions, it might be challenging to identify the relevant degrees
+of freedom. Therefore data analysis methods based on machine learning can be helpful in
+simplifying this task.&lt;/p&gt;
+&lt;p&gt;In my PhD work I employed the &lt;strong&gt;Principal Component Analysis&lt;/strong&gt; (PCA) to study the triangular and other harmonic flows in a hydrodynamic model of heavy-ion collisions.
+PCA identifies the collective fluctuations in the signal responsible for most of the variance in the data,
+so called &lt;strong&gt;principal components&lt;/strong&gt;. We identified such dominant components (&lt;strong&gt;leading&lt;/strong&gt; and &lt;strong&gt;subleading flows&lt;/strong&gt;) in momentum resolved flow harmonic observables. Our work has been followed by
+several experimental searches and theoretical studies confirming our findings and emphasizing the relevance of subleading flows in studying the small scale structure in heavy-ion
+collisions&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

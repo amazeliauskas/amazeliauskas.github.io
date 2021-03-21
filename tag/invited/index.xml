@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>invited | Aleksas Mazeliauskas</title>
+    <link>https://aleksas.eu/tag/invited/</link>
+      <atom:link href="https://aleksas.eu/tag/invited/index.xml" rel="self" type="application/rss+xml" />
+    <description>invited</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <title>invited</title>
+      <link>https://aleksas.eu/tag/invited/</link>
+    </image>
+    
+    <item>
+      <title>Opportunities of OO and pO collisions at the LHC</title>
+      <link>https://aleksas.eu/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://aleksas.eu/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do we learn from small systems about the physics of heavy ion collisions?</title>
+      <link>https://aleksas.eu/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aleksas.eu/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partonic rescattering in light nucleus collions</title>
+      <link>https://aleksas.eu/talk/partonic-rescattering-in-light-nucleus-collions/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/partonic-rescattering-in-light-nucleus-collions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equilibration of QGP in small systems</title>
+      <link>https://aleksas.eu/talk/equilibration-of-qgp-in-small-systems/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/equilibration-of-qgp-in-small-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-equilibrium phenomena in Quark Gluon Plasma</title>
+      <link>https://aleksas.eu/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>https://aleksas.eu/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-scaling, hydrodynamic attractors and entropy production in heavy ion collisions</title>
+      <link>https://aleksas.eu/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+      <guid>https://aleksas.eu/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
+      <link>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      <guid>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equilibration in heavy ion collisions</title>
+      <link>https://aleksas.eu/talk/equilibration-in-heavy-ion-collisions/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/equilibration-in-heavy-ion-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching of initial conditions to hydro evolution</title>
+      <link>https://aleksas.eu/talk/matching-of-initial-conditions-to-hydro-evolution/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/matching-of-initial-conditions-to-hydro-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating hydrodynamics with relativistic hydro-kinetic theory</title>
+      <link>https://aleksas.eu/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical equilibration in hadronic collisions</title>
+      <link>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2&#43;1D simulations of pre-equilibrium stage with QCD kinetic theory</title>
+      <link>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Initial conditions for nuclear collisions: theory overview</title>
+      <link>https://aleksas.eu/talk/initial-conditions-for-nuclear-collisions-theory-overview/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/initial-conditions-for-nuclear-collisions-theory-overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial conditions for heavy ion collisions</title>
+      <link>https://aleksas.eu/talk/initial-conditions-for-heavy-ion-collisions/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/initial-conditions-for-heavy-ion-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetic theory equilibration for realistic heavy ion initial conditions</title>
+      <link>https://aleksas.eu/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis and Subleading Flow</title>
+      <link>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0100</pubDate>
+      <guid>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Codes | Aleksas Mazeliauskas</title>
-    <link>https://amazeliauskas.github.io/code/</link>
-      <atom:link href="https://amazeliauskas.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aleksas.eu/code/</link>
+      <atom:link href="https://aleksas.eu/code/index.xml" rel="self" type="application/rss+xml" />
     <description>Codes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Thu, 25 Apr 2019 23:05:05 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Thu, 25 Apr 2019 23:05:05 +0200</lastBuildDate>
     <image>
-      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
       <title>Codes</title>
-      <link>https://amazeliauskas.github.io/code/</link>
+      <link>https://aleksas.eu/code/</link>
     </image>
     
     <item>
       <title>KøMPøST</title>
-      <link>https://amazeliauskas.github.io/code/kompost/</link>
+      <link>https://aleksas.eu/code/kompost/</link>
       <pubDate>Thu, 25 Apr 2019 23:05:05 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/code/kompost/</guid>
+      <guid>https://aleksas.eu/code/kompost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FastReso</title>
-      <link>https://amazeliauskas.github.io/code/fastreso/</link>
+      <link>https://aleksas.eu/code/fastreso/</link>
       <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/code/fastreso/</guid>
+      <guid>https://aleksas.eu/code/fastreso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RNAVIER</title>
-      <link>https://amazeliauskas.github.io/code/rnavier/</link>
+      <link>https://aleksas.eu/code/rnavier/</link>
       <pubDate>Wed, 27 Apr 2016 13:32:27 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/code/rnavier/</guid>
+      <guid>https://aleksas.eu/code/rnavier/</guid>
       <description>&lt;p&gt;RNAVIER employs second order Israel-Stewart formalism to simulate relativistic hydrodynamics at zero chemical potential in both Cartesian and Bjorken coordinates.&lt;/p&gt;
 </description>
     </item>

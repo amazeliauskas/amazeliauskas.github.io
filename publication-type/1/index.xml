@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Aleksas Mazeliauskas</title>
+    <link>https://aleksas.eu/publication-type/1/</link>
+      <atom:link href="https://aleksas.eu/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://aleksas.eu/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Opportunities of OO and $p$O collisions at the LHC</title>
+      <link>https://aleksas.eu/publication/brewer-2021-kiv/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://aleksas.eu/publication/brewer-2021-kiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial conditions for nuclear collisions: theory overview</title>
+      <link>https://aleksas.eu/publication/mazeliauskas-2018-wam/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2018-wam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plenary | Aleksas Mazeliauskas</title>
+    <link>https://aleksas.eu/tag/plenary/</link>
+      <atom:link href="https://aleksas.eu/tag/plenary/index.xml" rel="self" type="application/rss+xml" />
+    <description>plenary</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <title>plenary</title>
+      <link>https://aleksas.eu/tag/plenary/</link>
+    </image>
+    
+    <item>
+      <title>What do we learn from small systems about the physics of heavy ion collisions?</title>
+      <link>https://aleksas.eu/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://aleksas.eu/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
+      <link>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equilibration in heavy ion collisions</title>
+      <link>https://aleksas.eu/talk/equilibration-in-heavy-ion-collisions/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/equilibration-in-heavy-ion-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching of initial conditions to hydro evolution</title>
+      <link>https://aleksas.eu/talk/matching-of-initial-conditions-to-hydro-evolution/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/matching-of-initial-conditions-to-hydro-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Initial conditions for nuclear collisions: theory overview</title>
+      <link>https://aleksas.eu/talk/initial-conditions-for-nuclear-collisions-theory-overview/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/talk/initial-conditions-for-nuclear-collisions-theory-overview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

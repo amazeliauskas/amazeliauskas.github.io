@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PRL | Aleksas Mazeliauskas</title>
+    <link>https://aleksas.eu/tag/prl/</link>
+      <atom:link href="https://aleksas.eu/tag/prl/index.xml" rel="self" type="application/rss+xml" />
+    <description>PRL</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <title>PRL</title>
+      <link>https://aleksas.eu/tag/prl/</link>
+    </image>
+    
+    <item>
+      <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
+      <link>https://aleksas.eu/publication/giacalone-2019-ldn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/publication/giacalone-2019-ldn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical equilibration in hadronic collisions</title>
+      <link>https://aleksas.eu/publication/kurkela-2018-xxd/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://aleksas.eu/publication/kurkela-2018-xxd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
+      <link>https://aleksas.eu/publication/mazeliauskas-2018-yef/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2018-yef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching the Nonequilibrium Initial Stage of Heavy Ion Collisions to Hydrodynamics with QCD Kinetic Theory</title>
+      <link>https://aleksas.eu/publication/kurkela-2018-wud/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      <guid>https://aleksas.eu/publication/kurkela-2018-wud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

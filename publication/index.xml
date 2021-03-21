@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Aleksas Mazeliauskas</title>
-    <link>https://amazeliauskas.github.io/publication/</link>
-      <atom:link href="https://amazeliauskas.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aleksas.eu/publication/</link>
+      <atom:link href="https://aleksas.eu/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://amazeliauskas.github.io/img/avatar.jpg</url>
+      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://amazeliauskas.github.io/publication/</link>
+      <link>https://aleksas.eu/publication/</link>
     </image>
     
     <item>
       <title>Opportunities of OO and $p$O collisions at the LHC</title>
-      <link>https://amazeliauskas.github.io/publication/brewer-2021-kiv/</link>
+      <link>https://aleksas.eu/publication/brewer-2021-kiv/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/brewer-2021-kiv/</guid>
+      <guid>https://aleksas.eu/publication/brewer-2021-kiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovering partonic rescattering in light nucleus collisions</title>
-      <link>https://amazeliauskas.github.io/publication/huss-2020-dwe/</link>
+      <link>https://aleksas.eu/publication/huss-2020-dwe/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/huss-2020-dwe/</guid>
+      <guid>https://aleksas.eu/publication/huss-2020-dwe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting parton energy loss in small collision systems</title>
-      <link>https://amazeliauskas.github.io/publication/huss-2020-whe/</link>
+      <link>https://aleksas.eu/publication/huss-2020-whe/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/huss-2020-whe/</guid>
+      <guid>https://aleksas.eu/publication/huss-2020-whe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermalization in QCD: theoretical approaches, phenomenological applications, and interdisciplinary connections</title>
-      <link>https://amazeliauskas.github.io/publication/berges-2020-fwq/</link>
+      <link>https://aleksas.eu/publication/berges-2020-fwq/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/berges-2020-fwq/</guid>
+      <guid>https://aleksas.eu/publication/berges-2020-fwq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QCD Challenges from pp to A-A Collisions</title>
-      <link>https://amazeliauskas.github.io/publication/adolfsson-2020-dhm/</link>
+      <link>https://aleksas.eu/publication/adolfsson-2020-dhm/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/adolfsson-2020-dhm/</guid>
+      <guid>https://aleksas.eu/publication/adolfsson-2020-dhm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamics of critical fluctuations: Theory – phenomenology – heavy-ion collisions</title>
-      <link>https://amazeliauskas.github.io/publication/bluhm-2020-mpc/</link>
+      <link>https://aleksas.eu/publication/bluhm-2020-mpc/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/bluhm-2020-mpc/</guid>
+      <guid>https://aleksas.eu/publication/bluhm-2020-mpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global fluid fits to identified particle transverse momentum spectra from heavy-ion collisions at the Large Hadron Collider</title>
-      <link>https://amazeliauskas.github.io/publication/devetak-2019-lsk/</link>
+      <link>https://aleksas.eu/publication/devetak-2019-lsk/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/devetak-2019-lsk/</guid>
+      <guid>https://aleksas.eu/publication/devetak-2019-lsk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probing the evolution of heavy-ion collisions using direct photon interferometry</title>
-      <link>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</link>
+      <link>https://aleksas.eu/publication/garcia-montero-2019-kjk/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</guid>
+      <guid>https://aleksas.eu/publication/garcia-montero-2019-kjk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy production in pp and Pb-Pb collisions at the LHC</title>
-      <link>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</link>
+      <link>https://aleksas.eu/publication/hanus-2019-fnc/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</guid>
+      <guid>https://aleksas.eu/publication/hanus-2019-fnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
-      <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
+      <link>https://aleksas.eu/publication/giacalone-2019-ldn/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
+      <guid>https://aleksas.eu/publication/giacalone-2019-ldn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temperature and fluid velocity on the freeze-out surface from $π$, $K$, $p$ spectra in pp, p-Pb and Pb-Pb collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</link>
+      <link>https://aleksas.eu/publication/mazeliauskas-2019-ifr/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</guid>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2019-ifr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal spin polarization in a thermal model</title>
-      <link>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</link>
+      <link>https://aleksas.eu/publication/florkowski-2019-voj/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</guid>
+      <guid>https://aleksas.eu/publication/florkowski-2019-voj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</link>
+      <link>https://aleksas.eu/publication/kurkela-2018-xxd/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</guid>
+      <guid>https://aleksas.eu/publication/kurkela-2018-xxd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration in weakly coupled QCD</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-oqw/</link>
+      <link>https://aleksas.eu/publication/kurkela-2018-oqw/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-oqw/</guid>
+      <guid>https://aleksas.eu/publication/kurkela-2018-oqw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</link>
+      <link>https://aleksas.eu/publication/mazeliauskas-2018-yef/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</guid>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2018-yef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast resonance decays in nuclear collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/</link>
+      <link>https://aleksas.eu/publication/mazeliauskas-2018-irt/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/</guid>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2018-irt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for nuclear collisions: theory overview</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-wam/</link>
+      <link>https://aleksas.eu/publication/mazeliauskas-2018-wam/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-wam/</guid>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2018-wam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective kinetic description of event-by-event pre-equilibrium dynamics in high-energy heavy-ion collisions</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</link>
+      <link>https://aleksas.eu/publication/kurkela-2018-vqr/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</guid>
+      <guid>https://aleksas.eu/publication/kurkela-2018-vqr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matching the Nonequilibrium Initial Stage of Heavy Ion Collisions to Hydrodynamics with QCD Kinetic Theory</title>
-      <link>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</link>
+      <link>https://aleksas.eu/publication/kurkela-2018-wud/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</guid>
+      <guid>https://aleksas.eu/publication/kurkela-2018-wud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bulk viscosity from hydrodynamic fluctuations with relativistic hydrokinetic theory</title>
-      <link>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</link>
+      <link>https://aleksas.eu/publication/akamatsu-2017-rdu/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</guid>
+      <guid>https://aleksas.eu/publication/akamatsu-2017-rdu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuations in ultra-relativistic heavy ion collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2017-ibm/</link>
+      <link>https://aleksas.eu/publication/mazeliauskas-2017-ibm/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2017-ibm/</guid>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2017-ibm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A kinetic regime of hydrodynamic fluctuations and long time tails for a Bjorken expansion</title>
-      <link>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</link>
+      <link>https://aleksas.eu/publication/akamatsu-2016-llw/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</guid>
+      <guid>https://aleksas.eu/publication/akamatsu-2016-llw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</link>
+      <link>https://aleksas.eu/publication/keegan-2016-cpi/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</guid>
+      <guid>https://aleksas.eu/publication/keegan-2016-cpi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuations of harmonic and radial flow in heavy ion collisions with principal components</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</link>
+      <link>https://aleksas.eu/publication/mazeliauskas-2015-efa/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</guid>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2015-efa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subleading harmonic flows in hydrodynamic simulations of heavy ion collisions</title>
-      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</link>
+      <link>https://aleksas.eu/publication/mazeliauskas-2015-vea/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</guid>
+      <guid>https://aleksas.eu/publication/mazeliauskas-2015-vea/</guid>
       <description></description>
     </item>
     
