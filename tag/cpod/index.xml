@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CPOD | Aleksas Mazeliauskas</title>
-    <link>https://aleksas.eu/tag/cpod/</link>
-      <atom:link href="https://aleksas.eu/tag/cpod/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amazeliauskas.github.io/tag/cpod/</link>
+      <atom:link href="https://amazeliauskas.github.io/tag/cpod/index.xml" rel="self" type="application/rss+xml" />
     <description>CPOD</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Tue, 08 Aug 2017 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
       <title>CPOD</title>
-      <link>https://aleksas.eu/tag/cpod/</link>
+      <link>https://amazeliauskas.github.io/tag/cpod/</link>
     </image>
     
     <item>
       <title>Out-of-equilibrium hydrodynamic fluctuations in the expanding QGP</title>
-      <link>https://aleksas.eu/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</link>
+      <link>https://amazeliauskas.github.io/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</link>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</guid>
+      <guid>https://amazeliauskas.github.io/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</guid>
       <description></description>
     </item>
     

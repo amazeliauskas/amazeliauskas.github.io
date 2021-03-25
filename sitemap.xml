@@ -1,851 +1,408 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://aleksas.eu/</loc>
+    <loc>https://amazeliauskas.github.io/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2021-03-21/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2021-03-21/</loc>
     <lastmod>2020-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/highpt/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/highpt/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/</loc>
     <lastmod>2021-03-05T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/rescattering/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/rescattering/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tags/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tags/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/parton-rescattering-in-nuclear-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/parton-rescattering-in-nuclear-collisions/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/event/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/event/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2021-03-05/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2021-03-05/</loc>
     <lastmod>2021-03-05T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2021-03-04/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2021-03-04/</loc>
     <lastmod>2021-03-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/invited/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/invited/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication-type/1/</loc>
     <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication-type/1/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/brewer-2021-kiv/</loc>
     <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication_types/</loc>
     <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/</loc>
     <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/brewer-2021-kiv/</loc>
-    <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication_types/</loc>
-    <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/</loc>
-    <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-03-07T16:37:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/initialstages/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/initialstages/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/plenary/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/plenary/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-12-27/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-12-27/</loc>
     <lastmod>2020-12-27T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-11-15/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-11-15/</loc>
     <lastmod>2020-11-15T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/principal-component-analysis-and-related-methods/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/principal-component-analysis-and-related-methods/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/seminar/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/seminar/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-10-04/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-10-04/</loc>
     <lastmod>2020-10-04T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/partonic-rescattering-in-light-nucleus-collions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/partonic-rescattering-in-light-nucleus-collions/</loc>
     <lastmod>2020-09-24T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/workshop/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/workshop/</loc>
     <lastmod>2020-09-24T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-07-29/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-07-29/</loc>
     <lastmod>2020-07-29T08:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication-type/2/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication-type/2/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/huss-2020-dwe/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/huss-2020-whe/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/huss-2020-dwe/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/huss-2020-whe/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</loc>
     <lastmod>2020-06-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/hardprobes/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/hardprobes/</loc>
     <lastmod>2020-06-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/parrallel/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/parrallel/</loc>
     <lastmod>2020-06-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/equilibration-of-qgp-in-small-systems/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/equilibration-of-qgp-in-small-systems/</loc>
     <lastmod>2020-05-28T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</loc>
     <lastmod>2020-05-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/berges-2020-fwq/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/berges-2020-fwq/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-05-19/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-05-19/</loc>
     <lastmod>2020-04-19T21:41:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-04-12/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-04-12/</loc>
     <lastmod>2020-04-12T09:00:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/adolfsson-2020-dhm/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/adolfsson-2020-dhm/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-02-05/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-02-05/</loc>
     <lastmod>2020-02-05T09:00:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/post/2020-01-18/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2020-01-18/</loc>
     <lastmod>2020-01-18T13:51:01+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/bluhm-2020-mpc/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/bluhm-2020-mpc/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/npa/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/npa/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</loc>
     <lastmod>2019-12-06T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</loc>
     <lastmod>2019-11-25T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/a-theorists-impression-from-quark-matter-2019-physics-of-low-momentum-hadron-spectra-and-flow/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/a-theorists-impression-from-quark-matter-2019-physics-of-low-momentum-hadron-spectra-and-flow/</loc>
     <lastmod>2019-11-22T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/parallel/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/parallel/</loc>
     <lastmod>2019-11-06T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</loc>
     <lastmod>2019-11-06T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</loc>
     <lastmod>2019-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</loc>
     <lastmod>2019-09-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/equilibration-in-heavy-ion-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/equilibration-in-heavy-ion-collisions/</loc>
     <lastmod>2019-09-13T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/devetak-2019-lsk/</loc>
     <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/jhep/</loc>
     <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/prc/</loc>
     <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/devetak-2019-lsk/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</loc>
     <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/jhep/</loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/prc/</loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/garcia-montero-2019-kjk/</loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/ekt/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/ekt/</loc>
     <lastmod>2019-08-27T19:47:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/chemeq/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/chemeq/</loc>
     <lastmod>2019-08-07T19:47:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/hanus-2019-fnc/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</loc>
     <lastmod>2019-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</loc>
     <lastmod>2019-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/giacalone-2019-ldn/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/prl/</loc>
     <lastmod>2019-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/prl/</loc>
-    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/mazeliauskas-2019-ifr/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</loc>
     <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-07-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/matching-of-initial-conditions-to-hydro-evolution/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/matching-of-initial-conditions-to-hydro-evolution/</loc>
     <lastmod>2019-06-24T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</loc>
     <lastmod>2019-06-10T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/sqm/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/sqm/</loc>
     <lastmod>2019-06-10T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/programme/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/programme/</loc>
     <lastmod>2019-05-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/the-pre-equilibrium-dynamics-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/the-pre-equilibrium-dynamics-with-qcd-kinetic-theory/</loc>
     <lastmod>2019-05-23T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/fluctuations/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/fluctuations/</loc>
     <lastmod>2019-04-27T19:47:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/prescaling/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/prescaling/</loc>
     <lastmod>2019-04-27T19:47:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/hydro-kinetics/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/hydro-kinetics/</loc>
     <lastmod>2019-04-27T19:41:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/harmonic-flow/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/harmonic-flow/</loc>
     <lastmod>2019-04-27T19:32:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/pca/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/pca/</loc>
     <lastmod>2019-04-27T19:32:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/machine-learning/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/machine-learning/</loc>
     <lastmod>2019-04-27T19:32:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/pca/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/pca/</loc>
     <lastmod>2019-04-27T19:32:52+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/code/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/code/</loc>
     <lastmod>2019-04-25T23:05:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/ekt/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/ekt/</loc>
     <lastmod>2019-04-25T23:05:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/fluctuations/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/fluctuations/</loc>
     <lastmod>2019-04-25T23:05:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/kinetic-theory/</loc>
     <lastmod>2019-04-25T23:05:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/code/kompost/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/code/kompost/</loc>
     <lastmod>2019-04-25T23:05:05+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/code/fastreso/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/code/fastreso/</loc>
     <lastmod>2019-04-25T22:55:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/project/hadrons/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/project/hadrons/</loc>
     <lastmod>2019-04-25T22:55:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/resonances/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/resonances/</loc>
     <lastmod>2019-04-25T22:55:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</loc>
     <lastmod>2019-04-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</loc>
     <lastmod>2019-04-06T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</loc>
     <lastmod>2019-04-05T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/florkowski-2019-voj/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</loc>
     <lastmod>2019-02-21T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/slides/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/slides/example/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</loc>
     <lastmod>2019-01-22T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</loc>
     <lastmod>2019-01-14T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/reliatyvistines-navje-stokso-lygtys-sunkiuju-jonu-susidurimu-fizikoje/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/reliatyvistines-navje-stokso-lygtys-sunkiuju-jonu-susidurimu-fizikoje/</loc>
     <lastmod>2018-12-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/kurkela-2018-xxd/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</loc>
     <lastmod>2018-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/kurkela-2018-oqw/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/kurkela-2018-oqw/</loc>
     <lastmod>2018-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/prd/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/prd/</loc>
     <lastmod>2018-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
     <lastmod>2018-10-29T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
     <lastmod>2018-10-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
     <lastmod>2018-10-17T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</loc>
     <lastmod>2018-10-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</loc>
     <lastmod>2018-10-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/mazeliauskas-2018-yef/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</loc>
     <lastmod>2018-10-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/epjc/</loc>
     <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/epjc/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/</loc>
     <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/mazeliauskas-2018-irt/</loc>
-    <lastmod>2018-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/pre-equilibrium-stages-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/pre-equilibrium-stages-with-qcd-kinetic-theory/</loc>
     <lastmod>2018-08-27T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</loc>
     <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/confinement/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/confinement/</loc>
     <lastmod>2018-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/mazeliauskas-2018-wam/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2018-wam/</loc>
     <lastmod>2018-07-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/initial-conditions-for-nuclear-collisions-theory-overview/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/initial-conditions-for-nuclear-collisions-theory-overview/</loc>
     <lastmod>2018-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/quarkmatter/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/quarkmatter/</loc>
     <lastmod>2018-05-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/kurkela-2018-vqr/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</loc>
     <lastmod>2018-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</loc>
     <lastmod>2018-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/kurkela-2018-wud/</loc>
-    <lastmod>2018-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/initial-conditions-for-heavy-ion-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/initial-conditions-for-heavy-ion-collisions/</loc>
     <lastmod>2017-10-02T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/smooth-matching-of-pre-equilibrium-evolution-to-hydrodynamics-in-heavy-ion-collisions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/smooth-matching-of-pre-equilibrium-evolution-to-hydrodynamics-in-heavy-ion-collisions/</loc>
     <lastmod>2017-09-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/cpod/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/cpod/</loc>
     <lastmod>2017-08-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</loc>
     <lastmod>2017-08-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/akamatsu-2017-rdu/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</loc>
     <lastmod>2017-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2017-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</loc>
     <lastmod>2017-06-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-kinetic-theory-equilibration/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-kinetic-theory-equilibration/</loc>
     <lastmod>2017-02-07T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication-type/7/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication-type/7/</loc>
     <lastmod>2017-02-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/mazeliauskas-2017-ibm/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2017-ibm/</loc>
     <lastmod>2017-02-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</loc>
     <lastmod>2016-09-19T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</loc>
     <lastmod>2016-06-15T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/akamatsu-2016-llw/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</loc>
     <lastmod>2016-06-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</loc>
     <lastmod>2016-05-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/keegan-2016-cpi/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</loc>
     <lastmod>2016-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2016-05-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/tag/hydrodynamics/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/hydrodynamics/</loc>
     <lastmod>2016-04-27T13:32:27+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/code/rnavier/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/code/rnavier/</loc>
     <lastmod>2016-04-27T13:32:27+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/fluctuations-of-harmonic-and-radial-flow-in-heavy-ion-collisions-with-principal-components/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/fluctuations-of-harmonic-and-radial-flow-in-heavy-ion-collisions-with-principal-components/</loc>
     <lastmod>2015-11-12T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/mazeliauskas-2015-efa/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</loc>
     <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</loc>
     <lastmod>2015-07-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</loc>
     <lastmod>2015-03-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</loc>
     <lastmod>2015-03-06T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/publication/mazeliauskas-2015-vea/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</loc>
     <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/admin/</loc>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://aleksas.eu/admin/</loc>
-  </url>
-  
-  <url>
-    <loc></loc>
-  </url>
-  
-  <url>
-    <loc></loc>
-  </url>
-  
-  <url>
-    <loc>https://aleksas.eu/categories/</loc>
-  </url>
-  
 </urlset>

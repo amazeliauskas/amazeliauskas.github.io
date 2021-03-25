@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aleksas Mazeliauskas</title>
-    <link>https://aleksas.eu/</link>
-      <atom:link href="https://aleksas.eu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amazeliauskas.github.io/</link>
+      <atom:link href="https://amazeliauskas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Aleksas Mazeliauskas</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
       <title>Aleksas Mazeliauskas</title>
-      <link>https://aleksas.eu/</link>
+      <link>https://amazeliauskas.github.io/</link>
     </image>
     
     <item>
       <title>First Lithuanian Particle Physics Meeting</title>
-      <link>https://aleksas.eu/post/2021-03-21/</link>
+      <link>https://amazeliauskas.github.io/post/2021-03-21/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/post/2021-03-21/</guid>
+      <guid>https://amazeliauskas.github.io/post/2021-03-21/</guid>
       <description>&lt;p&gt;On the 9th of March over 30 Lithuanian scientists with interest in particle physics
 gathered virtually for the first &lt;a href=&#34;http://cern.ch/LPPM2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lithuanian Particle Physics Meeting&lt;/a&gt; (LPPM2021).
 I was very happy to help organise this one day event, which brought together small, but growing
@@ -39,9 +39,9 @@ I think the meeting was a great success and I hope it will become a yearly tradi
     
     <item>
       <title>High-pT partonic rescattering</title>
-      <link>https://aleksas.eu/project/highpt/</link>
+      <link>https://amazeliauskas.github.io/project/highpt/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/project/highpt/</guid>
+      <guid>https://amazeliauskas.github.io/project/highpt/</guid>
       <description>&lt;p&gt;Perhaps the greatest challenge to the consistent understanding of QCD matter formation is the disappearance of the observable energy loss of high momentum hadrons in small collisions systems. As
 the number of participant nucleons in peripheral lead-lead collisions reduces to order 10, the hadronic and
 jet nuclear modification factors approach unity. The large systematic uncertainties are preventing an
@@ -58,18 +58,18 @@ of about 10 colliding nucleons.&lt;/p&gt;
     
     <item>
       <title>Parton rescattering in nuclear collisions</title>
-      <link>https://aleksas.eu/talk/parton-rescattering-in-nuclear-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/parton-rescattering-in-nuclear-collisions/</link>
       <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/talk/parton-rescattering-in-nuclear-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/parton-rescattering-in-nuclear-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OppOatLHC</title>
-      <link>https://aleksas.eu/post/2021-03-05/</link>
+      <link>https://amazeliauskas.github.io/post/2021-03-05/</link>
       <pubDate>Fri, 05 Mar 2021 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2021-03-05/</guid>
-      <description>&lt;p&gt;Just five months after it &lt;a href=&#34;https://aleksas.eu/post/2020-12-27/&#34;&gt;began&lt;/a&gt;, it is the wrap-up time for one of most exciting scientific adventures of my career so far&amp;mdash;my first
+      <guid>https://amazeliauskas.github.io/post/2021-03-05/</guid>
+      <description>&lt;p&gt;Just five months after it &lt;a href=&#34;https://amazeliauskas.github.io/post/2020-12-27/&#34;&gt;began&lt;/a&gt;, it is the wrap-up time for one of most exciting scientific adventures of my career so far&amp;mdash;my first
 organized physics workshop &lt;a href=&#34;http://cern.ch/OppOatLHC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opportunities of OO and pO collisions at the LHC&lt;/a&gt; or &lt;strong&gt;OppOatLHC&lt;/strong&gt; for short.
 Together with amazing co-organizers Jasmine Brewer and Wilke van der Schee we embarked on a mission to bring the physics community
 to discuss physics opportunities (and challenges) of doing oxygen ion collisions at the LHC.&lt;/p&gt;
@@ -102,12 +102,12 @@ to bringing some of such ideas closer to becoming reality. Now, I just look forw
     
     <item>
       <title>NMA@CERN</title>
-      <link>https://aleksas.eu/post/2021-03-04/</link>
+      <link>https://amazeliauskas.github.io/post/2021-03-04/</link>
       <pubDate>Thu, 04 Mar 2021 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2021-03-04/</guid>
+      <guid>https://amazeliauskas.github.io/post/2021-03-04/</guid>
       <description>&lt;p&gt;During the three days on February 17-19, NMA students participated at virtual NMA winter session with subject lectures in the morning and
 additional activity in the afternoon. This was the first session that I organized for physics students as
-the head of &lt;a href=&#34;https://aleksas.eu/post/2020-11-15/&#34;&gt;NMA physics section&lt;/a&gt;. In the last half a year I managed the preparion
+the head of &lt;a href=&#34;https://amazeliauskas.github.io/post/2020-11-15/&#34;&gt;NMA physics section&lt;/a&gt;. In the last half a year I managed the preparion
 and delivery of distant learning problem sets to NMA students (problem sets were mostly written by helper tutors). We studied a large number of rather advanced modern physics topics.
 Similarly, I wanted the physics lectures to be about physics in &amp;ldquo;real world&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Students heard about research in lasers, atmostpheric physics and even microfluids. I contributed
@@ -127,38 +127,38 @@ The visit was recorded and can be viewed &lt;a href=&#34;https://youtu.be/EFqqJe
     
     <item>
       <title>Opportunities of OO and pO collisions at the LHC</title>
-      <link>https://aleksas.eu/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</link>
+      <link>https://amazeliauskas.github.io/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</guid>
+      <guid>https://amazeliauskas.github.io/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opportunities of OO and $p$O collisions at the LHC</title>
-      <link>https://aleksas.eu/publication/brewer-2021-kiv/</link>
+      <link>https://amazeliauskas.github.io/publication/brewer-2021-kiv/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/publication/brewer-2021-kiv/</guid>
+      <guid>https://amazeliauskas.github.io/publication/brewer-2021-kiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What do we learn from small systems about the physics of heavy ion collisions?</title>
-      <link>https://aleksas.eu/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My first organized workshop</title>
-      <link>https://aleksas.eu/post/2020-12-27/</link>
+      <link>https://amazeliauskas.github.io/post/2020-12-27/</link>
       <pubDate>Sun, 27 Dec 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-12-27/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-12-27/</guid>
       <description>&lt;p&gt;One month ago my CERN colleagues Jasmine Brewer, Wilke van der Schee and I launched the organization of our first big scientific event&amp;mdash;a physics workshop to discuss the future opportunities with oxygen ions at the LHC.
 I had no previous experience in organizing such events and I was therefore a bit unsure about the success of our endeavour. However, now I am proud to announce that with over 20 scheduled talks and over 100 registered participants our virtual 5-day workshop  &lt;a href=&#34;cern.ch/OppOatLHC&#34;&gt;Opportunities of OO and pO collisions at the LHC&lt;/a&gt; is going to take place Feb 4-5 and 8-10, 2021.&lt;/p&gt;
 &lt;p&gt;First, I want to thank my co-organisers, Jasmine and Wilke, which made the workshop organization a breeze.
 True, we had to draft and send endless number of emails, but it was a pleasure to have such enthusiastic and reliable teammates. Organizing a virtual event has a benefit that there is no need to worry about travel, physical rooms, accommodation and coffee delivery. However, we will certainly miss seeing each other in person, having small discussions and being in the same place and &lt;em&gt;time-zone&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;2018 CERN Yellow Report on &lt;a href=&#34;https://doi.org/10.23731/CYRM-2019-007.1159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Future physics opportunities for high-density QCD at the LHC with heavy-ion and proton beams&lt;/em&gt;&lt;/a&gt; discussed a possibility of injecting LHC with oxygen (O) ions during Run 3. Recently, my collaborators and I proposed how OO collisions could be used to &lt;a href=&#34;https://aleksas.eu/post/2020-07-29/&#34;&gt;discover partonic rescattering&lt;/a&gt; in small collision systems. Other groups have also started to look more systematically at the physics opportunities of light ion runs.
+&lt;p&gt;2018 CERN Yellow Report on &lt;a href=&#34;https://doi.org/10.23731/CYRM-2019-007.1159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Future physics opportunities for high-density QCD at the LHC with heavy-ion and proton beams&lt;/em&gt;&lt;/a&gt; discussed a possibility of injecting LHC with oxygen (O) ions during Run 3. Recently, my collaborators and I proposed how OO collisions could be used to &lt;a href=&#34;https://amazeliauskas.github.io/post/2020-07-29/&#34;&gt;discover partonic rescattering&lt;/a&gt; in small collision systems. Other groups have also started to look more systematically at the physics opportunities of light ion runs.
 Currently LHC is preparing to restart for Run 3 after the Long Shutdown 2, therefore our timely workshop will bring together the physics community to discuss the unique opportunities with oxygen ions at the LHC.&lt;/p&gt;
 &lt;p&gt;Normally the LHC complex accelerates hydrogen and lead ions. The hydrogen ion, i.e. proton (p), collisions were used to discover the Higgs boson, while lead ion (Pb) collisions create extremely dense lumps of nuclear matter, which is the object of study in my area of condensed QCD physics. Because ${}^{208}_{82}$Pb ions have 208 nucleons (protons plus neutrons), one PbPb collision can concentrate much more energy in a rather small volume of space and time, than a single pp collision. Similarly, gold nuclei are used in US hadron collider&amp;ndash;RHIC. Consequently this area of particle physics was traditionally called &lt;em&gt;heavy-ion physics&lt;/em&gt;. However, surprisingly many signatures of the formation of dense QCD matter have been observed at the LHC in pPb and pp collisions, the so called  &lt;em&gt;small systems&lt;/em&gt;, and the correct interpretation of these signatures is one of the most debated issue in the field.&lt;/p&gt;
 &lt;p&gt;Oxygen is used as a carrier gas for Pb and is readily available at the CERN heavy-ion source. Because of its smaller electric charge,  ${}^{16}_{8}$O experience significantly smaller electromagnetic losses and therefore oxygen beams can reach much higher luminosities than Pb. This allows even a short run with oxygen to collect a meaningful amount of experimental data. The charge-mass ratio of 1/2 dictates that OO center-of-mass energy (per nucleon pair) is half of that of pp.&lt;/p&gt;
@@ -168,9 +168,9 @@ Currently LHC is preparing to restart for Run 3 after the Long Shutdown 2, there
     
     <item>
       <title>Reaching out to students in Lithuania</title>
-      <link>https://aleksas.eu/post/2020-11-15/</link>
+      <link>https://amazeliauskas.github.io/post/2020-11-15/</link>
       <pubDate>Sun, 15 Nov 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-11-15/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-11-15/</guid>
       <description>&lt;p&gt;There are two pieces of news. First, I recently gave an interview about myself to
 Jonas Jurgaitis, the founder of the informal biology training school &lt;a href=&#34;http://eruditai.lt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ERUDITAS&lt;/a&gt;.
 The interview can be found &lt;a href=&#34;https://www.eruditai.lt/lietuvis-mokslininkas-nuo-mokyklos-laiku-as-nesitaiksciau-su-nezinojimu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here (in Lithuanian)&lt;/a&gt;.&lt;/p&gt;
@@ -192,17 +192,17 @@ engage with university professors, superb teachers and a large number of well-kn
     
     <item>
       <title>Principal Component Analysis and related methods</title>
-      <link>https://aleksas.eu/talk/principal-component-analysis-and-related-methods/</link>
+      <link>https://amazeliauskas.github.io/talk/principal-component-analysis-and-related-methods/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/talk/principal-component-analysis-and-related-methods/</guid>
+      <guid>https://amazeliauskas.github.io/talk/principal-component-analysis-and-related-methods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A one year anniversary</title>
-      <link>https://aleksas.eu/post/2020-10-04/</link>
+      <link>https://amazeliauskas.github.io/post/2020-10-04/</link>
       <pubDate>Sun, 04 Oct 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-10-04/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-10-04/</guid>
       <description>&lt;p&gt;October 1st marked my first year work anniversary at CERN.
 It was certainly an exceptional year, but here I want to focus only on the positive aspects.&lt;/p&gt;
 &lt;p&gt;At CERN Theoretical Physics Department, I got to meet, talk and collaborate with many brilliant scientists and colleagues. Perhaps one of my favourite things about CERN TH is the absence of hierarchy &amp;mdash; we might have different length contracts, but all of us are researchers and experts in our own right. Even as a newcomer, I did not feel separated and was able to quickly make friends thanks to chats over coffee breaks or hangouts in CERN restaurant on Friday evenings. Even during the lockdown, the social interactions were able to continue thanks to
@@ -215,17 +215,17 @@ the enthusiasm of my colleagues, who organised weekly virtual trivia quizzes.&lt
     
     <item>
       <title>Partonic rescattering in light nucleus collions</title>
-      <link>https://aleksas.eu/talk/partonic-rescattering-in-light-nucleus-collions/</link>
+      <link>https://amazeliauskas.github.io/talk/partonic-rescattering-in-light-nucleus-collions/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/partonic-rescattering-in-light-nucleus-collions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/partonic-rescattering-in-light-nucleus-collions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From discussion to publication</title>
-      <link>https://aleksas.eu/post/2020-07-29/</link>
+      <link>https://amazeliauskas.github.io/post/2020-07-29/</link>
       <pubDate>Wed, 29 Jul 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-07-29/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-07-29/</guid>
       <description>&lt;p&gt;Today is a publication day! Our companion papers (short&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and long&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;) just appeared on &lt;a href=&#34;https://en.wikipedia.org/wiki/ArXiv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In this work we discuss how collisions of oxygen nuclei could be used to discover
 an important signature of the formation of very hot and dense nuclear matter even in very small collision systems.
@@ -253,57 +253,57 @@ effect on the running of the largest scientific machine in the world, the &lt;a 
     
     <item>
       <title>Discovering partonic rescattering in light nucleus collisions</title>
-      <link>https://aleksas.eu/publication/huss-2020-dwe/</link>
+      <link>https://amazeliauskas.github.io/publication/huss-2020-dwe/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/publication/huss-2020-dwe/</guid>
+      <guid>https://amazeliauskas.github.io/publication/huss-2020-dwe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting parton energy loss in small collision systems</title>
-      <link>https://aleksas.eu/publication/huss-2020-whe/</link>
+      <link>https://amazeliauskas.github.io/publication/huss-2020-whe/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/publication/huss-2020-whe/</guid>
+      <guid>https://amazeliauskas.github.io/publication/huss-2020-whe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration of QGP in hadronic collisions</title>
-      <link>https://aleksas.eu/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equilibration of QGP in small systems</title>
-      <link>https://aleksas.eu/talk/equilibration-of-qgp-in-small-systems/</link>
+      <link>https://amazeliauskas.github.io/talk/equilibration-of-qgp-in-small-systems/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/equilibration-of-qgp-in-small-systems/</guid>
+      <guid>https://amazeliauskas.github.io/talk/equilibration-of-qgp-in-small-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
-      <link>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thermalization in QCD: theoretical approaches, phenomenological applications, and interdisciplinary connections</title>
-      <link>https://aleksas.eu/publication/berges-2020-fwq/</link>
+      <link>https://amazeliauskas.github.io/publication/berges-2020-fwq/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/publication/berges-2020-fwq/</guid>
+      <guid>https://amazeliauskas.github.io/publication/berges-2020-fwq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Remote talks and reopening</title>
-      <link>https://aleksas.eu/post/2020-05-19/</link>
+      <link>https://amazeliauskas.github.io/post/2020-05-19/</link>
       <pubDate>Sun, 19 Apr 2020 21:41:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-05-19/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-05-19/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://home.cern/news/news/cern/gradual-restart-plan-cerns-site-activities&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On May 18 CERN&lt;/a&gt;
 has initiated a gradual restart of operations. There are many
 weeks before I will be able to resume working normally. However today I had a chance to go back to my office for the first
@@ -336,9 +336,9 @@ I think this is perhaps one of a few positive ways the research will be impacted
     
     <item>
       <title>Doing physics research from home</title>
-      <link>https://aleksas.eu/post/2020-04-12/</link>
+      <link>https://amazeliauskas.github.io/post/2020-04-12/</link>
       <pubDate>Sun, 12 Apr 2020 09:00:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-04-12/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-04-12/</guid>
       <description>&lt;p&gt;Today is Easter. Today is also a month since the last time I was at CERN and met
 my colleagues in person. Like the rest of the world, CERN is in a safe mode with
 the site shut-down to non-essential activities and the majority of personnel staying at home.
@@ -366,17 +366,17 @@ what are the costs of acting too late.&lt;/p&gt;
     
     <item>
       <title>QCD Challenges from pp to A-A Collisions</title>
-      <link>https://aleksas.eu/publication/adolfsson-2020-dhm/</link>
+      <link>https://amazeliauskas.github.io/publication/adolfsson-2020-dhm/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/publication/adolfsson-2020-dhm/</guid>
+      <guid>https://amazeliauskas.github.io/publication/adolfsson-2020-dhm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visit to ATLAS underground cavern</title>
-      <link>https://aleksas.eu/post/2020-02-05/</link>
+      <link>https://amazeliauskas.github.io/post/2020-02-05/</link>
       <pubDate>Wed, 05 Feb 2020 09:00:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-02-05/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-02-05/</guid>
       <description>&lt;p&gt;One of the privileges of working at CERN is the opportunity to see the particle experiments up close.&lt;/p&gt;
 &lt;p&gt;On Wednesday, Feb 5th, a group of CERN theorists was given a private underground tour of &lt;a href=&#34;https://home.cern/science/experiments/atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ATLAS&lt;/a&gt; detector.
 The above the ground building has a very colourful picture of the detector, which is actually done
@@ -406,8 +406,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090012227_HDR.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090012227_HDR_hudced8bcfe22292ced2a3e4887c9f0f23_274211_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090012227_HDR.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090012227_HDR.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090012227_HDR_hudced8bcfe22292ced2a3e4887c9f0f23_274211_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090012227_HDR.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -415,8 +415,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090558852.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090558852_hudced8bcfe22292ced2a3e4887c9f0f23_251848_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090558852.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090558852.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090558852_hudced8bcfe22292ced2a3e4887c9f0f23_251848_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090558852.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -424,8 +424,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091235250.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091235250_hudced8bcfe22292ced2a3e4887c9f0f23_200968_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091235250.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091235250.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091235250_hudced8bcfe22292ced2a3e4887c9f0f23_200968_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091235250.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -433,8 +433,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091904378.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091904378_hudced8bcfe22292ced2a3e4887c9f0f23_269265_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091904378.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091904378.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091904378_hudced8bcfe22292ced2a3e4887c9f0f23_269265_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091904378.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -442,8 +442,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093015338.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093015338_hudced8bcfe22292ced2a3e4887c9f0f23_337481_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093015338.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093015338.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093015338_hudced8bcfe22292ced2a3e4887c9f0f23_337481_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093015338.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -451,8 +451,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093021073.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093021073_hudced8bcfe22292ced2a3e4887c9f0f23_423426_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093021073.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093021073.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093021073_hudced8bcfe22292ced2a3e4887c9f0f23_423426_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093021073.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -460,8 +460,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093035937.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093035937_hudced8bcfe22292ced2a3e4887c9f0f23_285812_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093035937.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093035937.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093035937_hudced8bcfe22292ced2a3e4887c9f0f23_285812_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093035937.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -469,8 +469,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093125602.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093125602_hudced8bcfe22292ced2a3e4887c9f0f23_365429_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093125602.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093125602.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093125602_hudced8bcfe22292ced2a3e4887c9f0f23_365429_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093125602.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -478,8 +478,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093142665.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093142665_hu667230c3c9574c2f2d9b2122b445c210_2723548_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093142665.jpg&#34; width=&#34;81&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093142665.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093142665_hu667230c3c9574c2f2d9b2122b445c210_2723548_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093142665.jpg&#34; width=&#34;81&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -487,8 +487,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_094604105.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_094604105_hudced8bcfe22292ced2a3e4887c9f0f23_382946_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_094604105.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_094604105.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_094604105_hudced8bcfe22292ced2a3e4887c9f0f23_382946_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_094604105.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -499,9 +499,9 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     <item>
       <title>Science outreach in Lithuania</title>
-      <link>https://aleksas.eu/post/2020-01-18/</link>
+      <link>https://amazeliauskas.github.io/post/2020-01-18/</link>
       <pubDate>Sat, 18 Jan 2020 13:51:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-01-18/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-01-18/</guid>
       <description>&lt;p&gt;During my long vacations in Lithuania, I decided to
 do some science outreach and I gave three presentations on my work at &lt;strong&gt;CERN&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;First, on Saturday Jan 11th, I visited additional training physics school &lt;strong&gt;Fizikos Olimpas&lt;/strong&gt; during its
@@ -522,89 +522,89 @@ Afterwards, I was given a tour of school by deputy-head and my former physics te
     
     <item>
       <title>Dynamics of critical fluctuations: Theory – phenomenology – heavy-ion collisions</title>
-      <link>https://aleksas.eu/publication/bluhm-2020-mpc/</link>
+      <link>https://amazeliauskas.github.io/publication/bluhm-2020-mpc/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/publication/bluhm-2020-mpc/</guid>
+      <guid>https://amazeliauskas.github.io/publication/bluhm-2020-mpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pre-equilibrium phenomena in Quark Gluon Plasma</title>
-      <link>https://aleksas.eu/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</link>
+      <link>https://amazeliauskas.github.io/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</link>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</guid>
+      <guid>https://amazeliauskas.github.io/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pre-scaling, hydrodynamic attractors and entropy production in heavy ion collisions</title>
-      <link>https://aleksas.eu/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A theorist’s impression from Quark Matter 2019: physics of low momentum hadron spectra and flow</title>
-      <link>https://aleksas.eu/talk/a-theorists-impression-from-quark-matter-2019-physics-of-low-momentum-hadron-spectra-and-flow/</link>
+      <link>https://amazeliauskas.github.io/talk/a-theorists-impression-from-quark-matter-2019-physics-of-low-momentum-hadron-spectra-and-flow/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/a-theorists-impression-from-quark-matter-2019-physics-of-low-momentum-hadron-spectra-and-flow/</guid>
+      <guid>https://amazeliauskas.github.io/talk/a-theorists-impression-from-quark-matter-2019-physics-of-low-momentum-hadron-spectra-and-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
-      <link>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</link>
+      <link>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</link>
       <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</guid>
+      <guid>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
-      <link>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
-      <link>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</link>
+      <link>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</guid>
+      <guid>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equilibration in heavy ion collisions</title>
-      <link>https://aleksas.eu/talk/equilibration-in-heavy-ion-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/equilibration-in-heavy-ion-collisions/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/equilibration-in-heavy-ion-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/equilibration-in-heavy-ion-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global fluid fits to identified particle transverse momentum spectra from heavy-ion collisions at the Large Hadron Collider</title>
-      <link>https://aleksas.eu/publication/devetak-2019-lsk/</link>
+      <link>https://amazeliauskas.github.io/publication/devetak-2019-lsk/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/devetak-2019-lsk/</guid>
+      <guid>https://amazeliauskas.github.io/publication/devetak-2019-lsk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probing the evolution of heavy-ion collisions using direct photon interferometry</title>
-      <link>https://aleksas.eu/publication/garcia-montero-2019-kjk/</link>
+      <link>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/garcia-montero-2019-kjk/</guid>
+      <guid>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective Kinetic Theory</title>
-      <link>https://aleksas.eu/project/ekt/</link>
+      <link>https://amazeliauskas.github.io/project/ekt/</link>
       <pubDate>Tue, 27 Aug 2019 19:47:13 +0200</pubDate>
-      <guid>https://aleksas.eu/project/ekt/</guid>
+      <guid>https://amazeliauskas.github.io/project/ekt/</guid>
       <description>&lt;p&gt;How quantum systems behave away from equilibrium is a topic of intensive research across
 many different physics branches from cold atom experiments to hadron collisions. A question
 of fundamental importance in heavy-ion research is the mechanism behind the rapid formation
@@ -639,9 +639,9 @@ studying non-equilibrium evolution of quark-gluon plasma.&lt;/p&gt;
     
     <item>
       <title>Chemical equilibration</title>
-      <link>https://aleksas.eu/project/chemeq/</link>
+      <link>https://amazeliauskas.github.io/project/chemeq/</link>
       <pubDate>Wed, 07 Aug 2019 19:47:13 +0200</pubDate>
-      <guid>https://aleksas.eu/project/chemeq/</guid>
+      <guid>https://amazeliauskas.github.io/project/chemeq/</guid>
       <description>&lt;p&gt;The current hydrodynamical models of heavy-ion collisions use equation of state for the pressure
 and energy relation, which assumes the thermodynamic equilibrium between the three light
 flavour quarks and gluons with the same temperature. However such chemical equilibrium in
@@ -651,11 +651,11 @@ by gluonic fields with almost no quarks present initially and which have to be p
 On the other hand, the observed yields of produced hadrons (including strange hadrons) are well
 described by a chemical equilibrium temperature of $T_{\mathrm{chem}} ≈ 156\, \mathrm{MeV}/k_B$ in the largest nucleus-nucleus collisions&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. This is suggestive that chemical equilibrium is reached in the quark-gluon
 plasma at least in the largest collision systems.&lt;/p&gt;
-&lt;p&gt;I have &lt;a href=&#34;https://aleksas.eu/publication/kurkela-2018-oqw&#34;&gt;recently performed&lt;/a&gt; the first leading order (in coupling constant) QCD kinetic theory
+&lt;p&gt;I have &lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-oqw&#34;&gt;recently performed&lt;/a&gt; the first leading order (in coupling constant) QCD kinetic theory
 simulations with both gluon and quark degrees of freedom. We determined the relative ordering
 of important equilibration time-scales between the emergence of fluid-like behaviour, quark
 and gluon chemical equilibration, and the approach to thermal Bose-Einstein and Fermi-Dirac
-equilibrium (see Figure). In the accompanying &lt;a href=&#34;https://aleksas.eu/publication/kurkela-2018-xxd&#34;&gt;Letter&lt;/a&gt; we demonstrated that the observed hadron chemical
+equilibrium (see Figure). In the accompanying &lt;a href=&#34;https://amazeliauskas.github.io/publication/kurkela-2018-xxd&#34;&gt;Letter&lt;/a&gt; we demonstrated that the observed hadron chemical
 equilibrium for large number of produced charged particles is indeed consistent with kinetic
 theory results of chemically equilibrating quark-gluon plasma.&lt;/p&gt;
 &lt;!--The dynamical simulations of quark degrees of freedom are important for many non-equilibrium
@@ -676,57 +676,57 @@ dynamics using fully dynamical kinetic theory framework in the future.--&gt;
     
     <item>
       <title>Entropy production in pp and Pb-Pb collisions at the LHC</title>
-      <link>https://aleksas.eu/publication/hanus-2019-fnc/</link>
+      <link>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/hanus-2019-fnc/</guid>
+      <guid>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
-      <link>https://aleksas.eu/publication/giacalone-2019-ldn/</link>
+      <link>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/giacalone-2019-ldn/</guid>
+      <guid>https://amazeliauskas.github.io/publication/giacalone-2019-ldn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temperature and fluid velocity on the freeze-out surface from $π$, $K$, $p$ spectra in pp, p-Pb and Pb-Pb collisions</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2019-ifr/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2019-ifr/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matching of initial conditions to hydro evolution</title>
-      <link>https://aleksas.eu/talk/matching-of-initial-conditions-to-hydro-evolution/</link>
+      <link>https://amazeliauskas.github.io/talk/matching-of-initial-conditions-to-hydro-evolution/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/matching-of-initial-conditions-to-hydro-evolution/</guid>
+      <guid>https://amazeliauskas.github.io/talk/matching-of-initial-conditions-to-hydro-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration of QGP in hadronic collisions</title>
-      <link>https://aleksas.eu/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/chemical-equilibration-of-qgp-in-hadronic-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The pre-equilibrium dynamics with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/the-pre-equilibrium-dynamics-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/the-pre-equilibrium-dynamics-with-qcd-kinetic-theory/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/the-pre-equilibrium-dynamics-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/the-pre-equilibrium-dynamics-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event-by-event pre-equilibrium evolution in hadron collisions</title>
-      <link>https://aleksas.eu/project/fluctuations/</link>
+      <link>https://amazeliauskas.github.io/project/fluctuations/</link>
       <pubDate>Sat, 27 Apr 2019 19:47:13 +0200</pubDate>
-      <guid>https://aleksas.eu/project/fluctuations/</guid>
+      <guid>https://amazeliauskas.github.io/project/fluctuations/</guid>
       <description>&lt;p&gt;Extracting the QGP medium properties, like shear or bulk viscosities, is the primary goal of
 heavy-ion research. However choice of initial conditions for the hydrodynamical evolution of
 the plasma is the main source of model uncertainties. Therefore the first principle modelling of
@@ -736,7 +736,7 @@ physics, which would naturally lead to hydrodynamical expansion of QGP.&lt;/p&gt
 &lt;p&gt;In a series of works, we have constructed a linearized response framework based on
 kinetic theory simulations, which propagates initial non-equilibrium energy-momentum tensor
 to the time, when the hydrodynamic constitutive equations are satisfied. Our publicly available
-package &lt;a href=&#34;https://aleksas.eu/code/kompost/&#34;&gt;KøMPøST&lt;/a&gt; is a practical tool to do event-by-event simulations of heavy-ion collisions
+package &lt;a href=&#34;https://amazeliauskas.github.io/code/kompost/&#34;&gt;KøMPøST&lt;/a&gt; is a practical tool to do event-by-event simulations of heavy-ion collisions
 with realistic pre-equilibrium dynamics.&lt;/p&gt;
 &lt;!--One of the most striking effect of equilibration is entropy production. In the case of nuclear collisions, the produced entropy can be related to the measured particle multiplicities.
 Based on our understanding of equilibration and the concept of hydrodynamic attractors, we
@@ -754,9 +754,9 @@ kinetic theory simulations to small systems with strong radial expansion.
     
     <item>
       <title>Prescaling</title>
-      <link>https://aleksas.eu/project/prescaling/</link>
+      <link>https://amazeliauskas.github.io/project/prescaling/</link>
       <pubDate>Sat, 27 Apr 2019 19:47:13 +0200</pubDate>
-      <guid>https://aleksas.eu/project/prescaling/</guid>
+      <guid>https://amazeliauskas.github.io/project/prescaling/</guid>
       <description>&lt;p&gt;In the high energy limit, the colliding heavy-ions act as fast moving colour sources, which generate very strong chromo-electric and chromo-magnetic fields. Due to their large amplitude, the
 fields at the earliest instants of the collision can be described by classical-statistical simulations
 of Yang-Mills equations of motion. Despite weak coupling, this evolution is non-perturbative,
@@ -765,7 +765,7 @@ self-similar scaling with constant scaling exponents. The pure glue kinetic simu
 confirmed such behaviour, as predicted by the “bottom-up” thermalization scenario.&lt;/p&gt;
 &lt;p&gt;Revisiting the scaling behaviour with kinetic simulations, I discovered that the simplified
 self-similar evolution exists at much earlier times, if the scaling exponents are viewed as slowly
-varying effective degrees of freedom. In our &lt;a href=&#34;https://aleksas.eu/publication/mazeliauskas-2018-yef/&#34;&gt;Letter&lt;/a&gt; we dubbed such behaviour “prescaling”
+varying effective degrees of freedom. In our &lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/&#34;&gt;Letter&lt;/a&gt; we dubbed such behaviour “prescaling”
 and argued that the corresponding scaling exponents can be used to construct a hydrodynamic
 description of the plasma far from equilibrium. In contrast to the actively studied phenomena of
 “hydrodynamic attractors”, our effective loss of information is not based on approach towards
@@ -782,9 +782,9 @@ in terms of pre-scaling phenomena.--&gt;
     
     <item>
       <title>Hydro-kinetics</title>
-      <link>https://aleksas.eu/project/hydro-kinetics/</link>
+      <link>https://amazeliauskas.github.io/project/hydro-kinetics/</link>
       <pubDate>Sat, 27 Apr 2019 19:41:52 +0200</pubDate>
-      <guid>https://aleksas.eu/project/hydro-kinetics/</guid>
+      <guid>https://amazeliauskas.github.io/project/hydro-kinetics/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;fluctuation dissipation theorem&lt;/strong&gt; dictates that any dissipative system exhibits &lt;strong&gt;stochastic fluctuations&lt;/strong&gt; thanks to the microscopic degrees of freedom. The remarkable property of QGP
 is that it is well described by macroscopic theory of &lt;strong&gt;viscous hydrodynamics&lt;/strong&gt;, despite its microscopic volume.
 However, &lt;strong&gt;thermal fluctuations&lt;/strong&gt; have been so far neglected in most of
@@ -808,9 +808,9 @@ which I served as a convener.--&gt;
     
     <item>
       <title>Machine learning in heavy-ion collisions</title>
-      <link>https://aleksas.eu/project/pca/</link>
+      <link>https://amazeliauskas.github.io/project/pca/</link>
       <pubDate>Sat, 27 Apr 2019 19:32:52 +0200</pubDate>
-      <guid>https://aleksas.eu/project/pca/</guid>
+      <guid>https://amazeliauskas.github.io/project/pca/</guid>
       <description>&lt;p&gt;The physics objective of any experimental endeavour is to identify and explain the physics
 mechanisms responsible for the observations. When the number of possible observables is large,
 as is often the case in heavy-ion collisions, it might be challenging to identify the relevant degrees
@@ -826,34 +826,34 @@ collisions&lt;/p&gt;
     
     <item>
       <title>KøMPøST</title>
-      <link>https://aleksas.eu/code/kompost/</link>
+      <link>https://amazeliauskas.github.io/code/kompost/</link>
       <pubDate>Thu, 25 Apr 2019 23:05:05 +0200</pubDate>
-      <guid>https://aleksas.eu/code/kompost/</guid>
+      <guid>https://amazeliauskas.github.io/code/kompost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FastReso</title>
-      <link>https://aleksas.eu/code/fastreso/</link>
+      <link>https://amazeliauskas.github.io/code/fastreso/</link>
       <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
-      <guid>https://aleksas.eu/code/fastreso/</guid>
+      <guid>https://amazeliauskas.github.io/code/fastreso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hadron formation and resonance decays</title>
-      <link>https://aleksas.eu/project/hadrons/</link>
+      <link>https://amazeliauskas.github.io/project/hadrons/</link>
       <pubDate>Thu, 25 Apr 2019 22:55:49 +0200</pubDate>
-      <guid>https://aleksas.eu/project/hadrons/</guid>
+      <guid>https://amazeliauskas.github.io/project/hadrons/</guid>
       <description>&lt;p&gt;How the colour-neutral particles are produced from the &lt;strong&gt;quark-gluon plasma&lt;/strong&gt;, which is a deconfined state of matter with manifest QCD colour degrees of freedom, is a poorly understood
 fundamental physics problem. The current approach, called the &lt;strong&gt;Cooper-Frye procedure&lt;/strong&gt;, converts the fluid fields like temperature and velocity directly to a distribution of hadron resonances
 gas. Remarkably, the measured particle yields are in very good agreement with thermal par-
 ticle production at chemical freeze-out temperature of $T_\text{chem} \approx 156\, \text{MeV}/k_B$ even for a weakly
 bounded hyper-nuclei.&lt;/p&gt;
 &lt;p&gt;Most of the produced hadron resonances are short lived and decay to more stable particles before detection. Therefore comparison to momentum resolved experimental data requires
-numerically costly calculations of &lt;strong&gt;resonance decays&lt;/strong&gt;. We developed a &lt;a href=&#34;https://aleksas.eu/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt; of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
+numerically costly calculations of &lt;strong&gt;resonance decays&lt;/strong&gt;. We developed a &lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt&#34;&gt;novel way&lt;/a&gt; of directly calculating the observed particle spectra by pre-calculating the final spectra in the fluid rest-frame.
 Such fast and efficient technique allowed use to easily include the important effect of resonance
-decays in a routine experimental analysis procedure of &lt;a href=&#34;https://aleksas.eu/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed &lt;a href=&#34;https://aleksas.eu/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt; of
+decays in a routine experimental analysis procedure of &lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2019-ifr&#34;&gt;blast-wave fit&lt;/a&gt;. In addition, we integrated the fast resonance calculation in a hydrodynamic heavy-ion model and performed a detailed &lt;a href=&#34;https://amazeliauskas.github.io/publication/devetak-2019-lsk/&#34;&gt;analysis&lt;/a&gt; of
 identified particle spectra at LHC (see figure). We found that there are statistically significant deviations from experimental measured spectra in the low momentum pion spectra, which cannot be
 rectified even within the range of model parameters and even a larger set of primary resonances.&lt;/p&gt;
 &lt;!--Although our technique has neglected some physics effects, namely, the hadronic re-scatterings,
@@ -867,49 +867,49 @@ the effect of resonance spectral functions in the fast resonance decay procedure
     
     <item>
       <title>Fluctuating hydrodynamics with relativistic hydro-kinetic theory</title>
-      <link>https://aleksas.eu/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prescaling and Far-from-Equilibrium Hydrodynamics in the Quark-Gluon Plasma</title>
-      <link>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</link>
+      <link>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</guid>
+      <guid>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal spin polarization in a thermal model</title>
-      <link>https://aleksas.eu/publication/florkowski-2019-voj/</link>
+      <link>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/florkowski-2019-voj/</guid>
+      <guid>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://aleksas.eu/slides/example/</link>
+      <link>https://amazeliauskas.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/slides/example/</guid>
+      <guid>https://amazeliauskas.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1036,306 +1036,306 @@ Three
     
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</link>
       <pubDate>Tue, 22 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/chemical-equilibration-in-hadronic-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FastReso – fast resonance decays in nuclear collisions</title>
-      <link>https://aleksas.eu/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reliatyvistinės Navjė-Stokso lygtys sunkiųjų jonų susidūrimų fizikoje</title>
-      <link>https://aleksas.eu/talk/reliatyvistines-navje-stokso-lygtys-sunkiuju-jonu-susidurimu-fizikoje/</link>
+      <link>https://amazeliauskas.github.io/talk/reliatyvistines-navje-stokso-lygtys-sunkiuju-jonu-susidurimu-fizikoje/</link>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/reliatyvistines-navje-stokso-lygtys-sunkiuju-jonu-susidurimu-fizikoje/</guid>
+      <guid>https://amazeliauskas.github.io/talk/reliatyvistines-navje-stokso-lygtys-sunkiuju-jonu-susidurimu-fizikoje/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
-      <link>https://aleksas.eu/publication/kurkela-2018-xxd/</link>
+      <link>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/publication/kurkela-2018-xxd/</guid>
+      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-xxd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical equilibration in weakly coupled QCD</title>
-      <link>https://aleksas.eu/publication/kurkela-2018-oqw/</link>
+      <link>https://amazeliauskas.github.io/publication/kurkela-2018-oqw/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/publication/kurkela-2018-oqw/</guid>
+      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-oqw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
       <pubDate>Fri, 19 Oct 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Out-of-equilibrium Quark-Gluon Plasma dynamics with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/out-of-equilibrium-quark-gluon-plasma-dynamics-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2&#43;1D simulations of pre-equilibrium stage with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prescaling and far-from-equilibrium hydrodynamics in the quark-gluon plasma</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2018-yef/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2018-yef/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-yef/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast resonance decays in nuclear collisions</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2018-irt/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2018-irt/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pre-equilibrium stages with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/pre-equilibrium-stages-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/pre-equilibrium-stages-with-qcd-kinetic-theory/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/pre-equilibrium-stages-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/pre-equilibrium-stages-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2&#43;1D simulations of pre-equilibrium stage with QCD kinetic theory</title>
-      <link>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</link>
+      <link>https://amazeliauskas.github.io/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</guid>
+      <guid>https://amazeliauskas.github.io/talk/2-1d-simulations-of-pre-equilibrium-stage-with-qcd-kinetic-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for nuclear collisions: theory overview</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2018-wam/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2018-wam/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2018-wam/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2018-wam/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Initial conditions for nuclear collisions: theory overview</title>
-      <link>https://aleksas.eu/talk/initial-conditions-for-nuclear-collisions-theory-overview/</link>
+      <link>https://amazeliauskas.github.io/talk/initial-conditions-for-nuclear-collisions-theory-overview/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/initial-conditions-for-nuclear-collisions-theory-overview/</guid>
+      <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-nuclear-collisions-theory-overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective kinetic description of event-by-event pre-equilibrium dynamics in high-energy heavy-ion collisions</title>
-      <link>https://aleksas.eu/publication/kurkela-2018-vqr/</link>
+      <link>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/kurkela-2018-vqr/</guid>
+      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matching the Nonequilibrium Initial Stage of Heavy Ion Collisions to Hydrodynamics with QCD Kinetic Theory</title>
-      <link>https://aleksas.eu/publication/kurkela-2018-wud/</link>
+      <link>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/kurkela-2018-wud/</guid>
+      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-wud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for heavy ion collisions</title>
-      <link>https://aleksas.eu/talk/initial-conditions-for-heavy-ion-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/initial-conditions-for-heavy-ion-collisions/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/initial-conditions-for-heavy-ion-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-heavy-ion-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smooth matching of pre-equilibrium evolution to hydrodynamics in heavy ion collisions</title>
-      <link>https://aleksas.eu/talk/smooth-matching-of-pre-equilibrium-evolution-to-hydrodynamics-in-heavy-ion-collisions/</link>
+      <link>https://amazeliauskas.github.io/talk/smooth-matching-of-pre-equilibrium-evolution-to-hydrodynamics-in-heavy-ion-collisions/</link>
       <pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/smooth-matching-of-pre-equilibrium-evolution-to-hydrodynamics-in-heavy-ion-collisions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/smooth-matching-of-pre-equilibrium-evolution-to-hydrodynamics-in-heavy-ion-collisions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Out-of-equilibrium hydrodynamic fluctuations in the expanding QGP</title>
-      <link>https://aleksas.eu/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</link>
+      <link>https://amazeliauskas.github.io/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</link>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</guid>
+      <guid>https://amazeliauskas.github.io/talk/out-of-equilibrium-hydrodynamic-fluctuations-in-the-expanding-qgp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bulk viscosity from hydrodynamic fluctuations with relativistic hydrokinetic theory</title>
-      <link>https://aleksas.eu/publication/akamatsu-2017-rdu/</link>
+      <link>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/akamatsu-2017-rdu/</guid>
+      <guid>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinetic theory equilibration for realistic heavy ion initial conditions</title>
-      <link>https://aleksas.eu/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</link>
+      <link>https://amazeliauskas.github.io/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</guid>
+      <guid>https://amazeliauskas.github.io/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for hydrodynamics from kinetic theory equilibration</title>
-      <link>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-kinetic-theory-equilibration/</link>
+      <link>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-kinetic-theory-equilibration/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-kinetic-theory-equilibration/</guid>
+      <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-kinetic-theory-equilibration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuations in ultra-relativistic heavy ion collisions</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2017-ibm/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2017-ibm/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2017-ibm/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2017-ibm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</link>
+      <link>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</link>
       <pubDate>Mon, 19 Sep 2016 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</guid>
+      <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</link>
+      <link>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</link>
       <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</guid>
+      <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A kinetic regime of hydrodynamic fluctuations and long time tails for a Bjorken expansion</title>
-      <link>https://aleksas.eu/publication/akamatsu-2016-llw/</link>
+      <link>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/akamatsu-2016-llw/</guid>
+      <guid>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</link>
+      <link>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</link>
       <pubDate>Wed, 25 May 2016 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</guid>
+      <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://aleksas.eu/publication/keegan-2016-cpi/</link>
+      <link>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/keegan-2016-cpi/</guid>
+      <guid>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RNAVIER</title>
-      <link>https://aleksas.eu/code/rnavier/</link>
+      <link>https://amazeliauskas.github.io/code/rnavier/</link>
       <pubDate>Wed, 27 Apr 2016 13:32:27 +0200</pubDate>
-      <guid>https://aleksas.eu/code/rnavier/</guid>
+      <guid>https://amazeliauskas.github.io/code/rnavier/</guid>
       <description>&lt;p&gt;RNAVIER employs second order Israel-Stewart formalism to simulate relativistic hydrodynamics at zero chemical potential in both Cartesian and Bjorken coordinates.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fluctuations of harmonic and radial flow in heavy ion collisions with principal components</title>
-      <link>https://aleksas.eu/talk/fluctuations-of-harmonic-and-radial-flow-in-heavy-ion-collisions-with-principal-components/</link>
+      <link>https://amazeliauskas.github.io/talk/fluctuations-of-harmonic-and-radial-flow-in-heavy-ion-collisions-with-principal-components/</link>
       <pubDate>Thu, 12 Nov 2015 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/fluctuations-of-harmonic-and-radial-flow-in-heavy-ion-collisions-with-principal-components/</guid>
+      <guid>https://amazeliauskas.github.io/talk/fluctuations-of-harmonic-and-radial-flow-in-heavy-ion-collisions-with-principal-components/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuations of harmonic and radial flow in heavy ion collisions with principal components</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2015-efa/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2015-efa/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Principal Component Analysis and Subleading Flow</title>
-      <link>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</link>
+      <link>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</link>
       <pubDate>Wed, 22 Jul 2015 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</guid>
+      <guid>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Principal Component Analysis and Subleading Flow</title>
-      <link>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</link>
+      <link>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</link>
       <pubDate>Fri, 27 Mar 2015 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</guid>
+      <guid>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Principal Component Analysis and Subleading Flow</title>
-      <link>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</link>
+      <link>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</link>
       <pubDate>Fri, 06 Mar 2015 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/talk/principal-component-analysis-and-subleading-flow/</guid>
+      <guid>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subleading harmonic flows in hydrodynamic simulations of heavy ion collisions</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2015-vea/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2015-vea/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://aleksas.eu/admin/config.yml</link>
+      <link>https://amazeliauskas.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/admin/config.yml</guid>
+      <guid>https://amazeliauskas.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

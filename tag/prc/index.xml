@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PRC | Aleksas Mazeliauskas</title>
-    <link>https://aleksas.eu/tag/prc/</link>
-      <atom:link href="https://aleksas.eu/tag/prc/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amazeliauskas.github.io/tag/prc/</link>
+      <atom:link href="https://amazeliauskas.github.io/tag/prc/index.xml" rel="self" type="application/rss+xml" />
     <description>PRC</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
       <title>PRC</title>
-      <link>https://aleksas.eu/tag/prc/</link>
+      <link>https://amazeliauskas.github.io/tag/prc/</link>
     </image>
     
     <item>
       <title>Probing the evolution of heavy-ion collisions using direct photon interferometry</title>
-      <link>https://aleksas.eu/publication/garcia-montero-2019-kjk/</link>
+      <link>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/garcia-montero-2019-kjk/</guid>
+      <guid>https://amazeliauskas.github.io/publication/garcia-montero-2019-kjk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entropy production in pp and Pb-Pb collisions at the LHC</title>
-      <link>https://aleksas.eu/publication/hanus-2019-fnc/</link>
+      <link>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/hanus-2019-fnc/</guid>
+      <guid>https://amazeliauskas.github.io/publication/hanus-2019-fnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Longitudinal spin polarization in a thermal model</title>
-      <link>https://aleksas.eu/publication/florkowski-2019-voj/</link>
+      <link>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/florkowski-2019-voj/</guid>
+      <guid>https://amazeliauskas.github.io/publication/florkowski-2019-voj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effective kinetic description of event-by-event pre-equilibrium dynamics in high-energy heavy-ion collisions</title>
-      <link>https://aleksas.eu/publication/kurkela-2018-vqr/</link>
+      <link>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/kurkela-2018-vqr/</guid>
+      <guid>https://amazeliauskas.github.io/publication/kurkela-2018-vqr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bulk viscosity from hydrodynamic fluctuations with relativistic hydrokinetic theory</title>
-      <link>https://aleksas.eu/publication/akamatsu-2017-rdu/</link>
+      <link>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/akamatsu-2017-rdu/</guid>
+      <guid>https://amazeliauskas.github.io/publication/akamatsu-2017-rdu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A kinetic regime of hydrodynamic fluctuations and long time tails for a Bjorken expansion</title>
-      <link>https://aleksas.eu/publication/akamatsu-2016-llw/</link>
+      <link>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/akamatsu-2016-llw/</guid>
+      <guid>https://amazeliauskas.github.io/publication/akamatsu-2016-llw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuations of harmonic and radial flow in heavy ion collisions with principal components</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2015-efa/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2015-efa/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-efa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subleading harmonic flows in hydrodynamic simulations of heavy ion collisions</title>
-      <link>https://aleksas.eu/publication/mazeliauskas-2015-vea/</link>
+      <link>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>https://aleksas.eu/publication/mazeliauskas-2015-vea/</guid>
+      <guid>https://amazeliauskas.github.io/publication/mazeliauskas-2015-vea/</guid>
       <description></description>
     </item>
     

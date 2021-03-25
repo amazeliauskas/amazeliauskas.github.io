@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JHEP | Aleksas Mazeliauskas</title>
-    <link>https://aleksas.eu/tag/jhep/</link>
-      <atom:link href="https://aleksas.eu/tag/jhep/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amazeliauskas.github.io/tag/jhep/</link>
+      <atom:link href="https://amazeliauskas.github.io/tag/jhep/index.xml" rel="self" type="application/rss+xml" />
     <description>JHEP</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
       <title>JHEP</title>
-      <link>https://aleksas.eu/tag/jhep/</link>
+      <link>https://amazeliauskas.github.io/tag/jhep/</link>
     </image>
     
     <item>
       <title>Global fluid fits to identified particle transverse momentum spectra from heavy-ion collisions at the Large Hadron Collider</title>
-      <link>https://aleksas.eu/publication/devetak-2019-lsk/</link>
+      <link>https://amazeliauskas.github.io/publication/devetak-2019-lsk/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/devetak-2019-lsk/</guid>
+      <guid>https://amazeliauskas.github.io/publication/devetak-2019-lsk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
-      <link>https://aleksas.eu/publication/keegan-2016-cpi/</link>
+      <link>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/publication/keegan-2016-cpi/</guid>
+      <guid>https://amazeliauskas.github.io/publication/keegan-2016-cpi/</guid>
       <description></description>
     </item>
     

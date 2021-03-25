@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Aleksas Mazeliauskas</title>
-    <link>https://aleksas.eu/post/</link>
-      <atom:link href="https://aleksas.eu/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amazeliauskas.github.io/post/</link>
+      <atom:link href="https://amazeliauskas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aleksas.eu/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://aleksas.eu/post/</link>
+      <link>https://amazeliauskas.github.io/post/</link>
     </image>
     
     <item>
       <title>First Lithuanian Particle Physics Meeting</title>
-      <link>https://aleksas.eu/post/2021-03-21/</link>
+      <link>https://amazeliauskas.github.io/post/2021-03-21/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://aleksas.eu/post/2021-03-21/</guid>
+      <guid>https://amazeliauskas.github.io/post/2021-03-21/</guid>
       <description>&lt;p&gt;On the 9th of March over 30 Lithuanian scientists with interest in particle physics
 gathered virtually for the first &lt;a href=&#34;http://cern.ch/LPPM2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lithuanian Particle Physics Meeting&lt;/a&gt; (LPPM2021).
 I was very happy to help organise this one day event, which brought together small, but growing
@@ -39,10 +39,10 @@ I think the meeting was a great success and I hope it will become a yearly tradi
     
     <item>
       <title>OppOatLHC</title>
-      <link>https://aleksas.eu/post/2021-03-05/</link>
+      <link>https://amazeliauskas.github.io/post/2021-03-05/</link>
       <pubDate>Fri, 05 Mar 2021 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2021-03-05/</guid>
-      <description>&lt;p&gt;Just five months after it &lt;a href=&#34;https://aleksas.eu/post/2020-12-27/&#34;&gt;began&lt;/a&gt;, it is the wrap-up time for one of most exciting scientific adventures of my career so far&amp;mdash;my first
+      <guid>https://amazeliauskas.github.io/post/2021-03-05/</guid>
+      <description>&lt;p&gt;Just five months after it &lt;a href=&#34;https://amazeliauskas.github.io/post/2020-12-27/&#34;&gt;began&lt;/a&gt;, it is the wrap-up time for one of most exciting scientific adventures of my career so far&amp;mdash;my first
 organized physics workshop &lt;a href=&#34;http://cern.ch/OppOatLHC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Opportunities of OO and pO collisions at the LHC&lt;/a&gt; or &lt;strong&gt;OppOatLHC&lt;/strong&gt; for short.
 Together with amazing co-organizers Jasmine Brewer and Wilke van der Schee we embarked on a mission to bring the physics community
 to discuss physics opportunities (and challenges) of doing oxygen ion collisions at the LHC.&lt;/p&gt;
@@ -75,12 +75,12 @@ to bringing some of such ideas closer to becoming reality. Now, I just look forw
     
     <item>
       <title>NMA@CERN</title>
-      <link>https://aleksas.eu/post/2021-03-04/</link>
+      <link>https://amazeliauskas.github.io/post/2021-03-04/</link>
       <pubDate>Thu, 04 Mar 2021 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2021-03-04/</guid>
+      <guid>https://amazeliauskas.github.io/post/2021-03-04/</guid>
       <description>&lt;p&gt;During the three days on February 17-19, NMA students participated at virtual NMA winter session with subject lectures in the morning and
 additional activity in the afternoon. This was the first session that I organized for physics students as
-the head of &lt;a href=&#34;https://aleksas.eu/post/2020-11-15/&#34;&gt;NMA physics section&lt;/a&gt;. In the last half a year I managed the preparion
+the head of &lt;a href=&#34;https://amazeliauskas.github.io/post/2020-11-15/&#34;&gt;NMA physics section&lt;/a&gt;. In the last half a year I managed the preparion
 and delivery of distant learning problem sets to NMA students (problem sets were mostly written by helper tutors). We studied a large number of rather advanced modern physics topics.
 Similarly, I wanted the physics lectures to be about physics in &amp;ldquo;real world&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Students heard about research in lasers, atmostpheric physics and even microfluids. I contributed
@@ -100,14 +100,14 @@ The visit was recorded and can be viewed &lt;a href=&#34;https://youtu.be/EFqqJe
     
     <item>
       <title>My first organized workshop</title>
-      <link>https://aleksas.eu/post/2020-12-27/</link>
+      <link>https://amazeliauskas.github.io/post/2020-12-27/</link>
       <pubDate>Sun, 27 Dec 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-12-27/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-12-27/</guid>
       <description>&lt;p&gt;One month ago my CERN colleagues Jasmine Brewer, Wilke van der Schee and I launched the organization of our first big scientific event&amp;mdash;a physics workshop to discuss the future opportunities with oxygen ions at the LHC.
 I had no previous experience in organizing such events and I was therefore a bit unsure about the success of our endeavour. However, now I am proud to announce that with over 20 scheduled talks and over 100 registered participants our virtual 5-day workshop  &lt;a href=&#34;cern.ch/OppOatLHC&#34;&gt;Opportunities of OO and pO collisions at the LHC&lt;/a&gt; is going to take place Feb 4-5 and 8-10, 2021.&lt;/p&gt;
 &lt;p&gt;First, I want to thank my co-organisers, Jasmine and Wilke, which made the workshop organization a breeze.
 True, we had to draft and send endless number of emails, but it was a pleasure to have such enthusiastic and reliable teammates. Organizing a virtual event has a benefit that there is no need to worry about travel, physical rooms, accommodation and coffee delivery. However, we will certainly miss seeing each other in person, having small discussions and being in the same place and &lt;em&gt;time-zone&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;2018 CERN Yellow Report on &lt;a href=&#34;https://doi.org/10.23731/CYRM-2019-007.1159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Future physics opportunities for high-density QCD at the LHC with heavy-ion and proton beams&lt;/em&gt;&lt;/a&gt; discussed a possibility of injecting LHC with oxygen (O) ions during Run 3. Recently, my collaborators and I proposed how OO collisions could be used to &lt;a href=&#34;https://aleksas.eu/post/2020-07-29/&#34;&gt;discover partonic rescattering&lt;/a&gt; in small collision systems. Other groups have also started to look more systematically at the physics opportunities of light ion runs.
+&lt;p&gt;2018 CERN Yellow Report on &lt;a href=&#34;https://doi.org/10.23731/CYRM-2019-007.1159&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Future physics opportunities for high-density QCD at the LHC with heavy-ion and proton beams&lt;/em&gt;&lt;/a&gt; discussed a possibility of injecting LHC with oxygen (O) ions during Run 3. Recently, my collaborators and I proposed how OO collisions could be used to &lt;a href=&#34;https://amazeliauskas.github.io/post/2020-07-29/&#34;&gt;discover partonic rescattering&lt;/a&gt; in small collision systems. Other groups have also started to look more systematically at the physics opportunities of light ion runs.
 Currently LHC is preparing to restart for Run 3 after the Long Shutdown 2, therefore our timely workshop will bring together the physics community to discuss the unique opportunities with oxygen ions at the LHC.&lt;/p&gt;
 &lt;p&gt;Normally the LHC complex accelerates hydrogen and lead ions. The hydrogen ion, i.e. proton (p), collisions were used to discover the Higgs boson, while lead ion (Pb) collisions create extremely dense lumps of nuclear matter, which is the object of study in my area of condensed QCD physics. Because ${}^{208}_{82}$Pb ions have 208 nucleons (protons plus neutrons), one PbPb collision can concentrate much more energy in a rather small volume of space and time, than a single pp collision. Similarly, gold nuclei are used in US hadron collider&amp;ndash;RHIC. Consequently this area of particle physics was traditionally called &lt;em&gt;heavy-ion physics&lt;/em&gt;. However, surprisingly many signatures of the formation of dense QCD matter have been observed at the LHC in pPb and pp collisions, the so called  &lt;em&gt;small systems&lt;/em&gt;, and the correct interpretation of these signatures is one of the most debated issue in the field.&lt;/p&gt;
 &lt;p&gt;Oxygen is used as a carrier gas for Pb and is readily available at the CERN heavy-ion source. Because of its smaller electric charge,  ${}^{16}_{8}$O experience significantly smaller electromagnetic losses and therefore oxygen beams can reach much higher luminosities than Pb. This allows even a short run with oxygen to collect a meaningful amount of experimental data. The charge-mass ratio of 1/2 dictates that OO center-of-mass energy (per nucleon pair) is half of that of pp.&lt;/p&gt;
@@ -117,9 +117,9 @@ Currently LHC is preparing to restart for Run 3 after the Long Shutdown 2, there
     
     <item>
       <title>Reaching out to students in Lithuania</title>
-      <link>https://aleksas.eu/post/2020-11-15/</link>
+      <link>https://amazeliauskas.github.io/post/2020-11-15/</link>
       <pubDate>Sun, 15 Nov 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-11-15/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-11-15/</guid>
       <description>&lt;p&gt;There are two pieces of news. First, I recently gave an interview about myself to
 Jonas Jurgaitis, the founder of the informal biology training school &lt;a href=&#34;http://eruditai.lt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ERUDITAS&lt;/a&gt;.
 The interview can be found &lt;a href=&#34;https://www.eruditai.lt/lietuvis-mokslininkas-nuo-mokyklos-laiku-as-nesitaiksciau-su-nezinojimu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here (in Lithuanian)&lt;/a&gt;.&lt;/p&gt;
@@ -141,9 +141,9 @@ engage with university professors, superb teachers and a large number of well-kn
     
     <item>
       <title>A one year anniversary</title>
-      <link>https://aleksas.eu/post/2020-10-04/</link>
+      <link>https://amazeliauskas.github.io/post/2020-10-04/</link>
       <pubDate>Sun, 04 Oct 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-10-04/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-10-04/</guid>
       <description>&lt;p&gt;October 1st marked my first year work anniversary at CERN.
 It was certainly an exceptional year, but here I want to focus only on the positive aspects.&lt;/p&gt;
 &lt;p&gt;At CERN Theoretical Physics Department, I got to meet, talk and collaborate with many brilliant scientists and colleagues. Perhaps one of my favourite things about CERN TH is the absence of hierarchy &amp;mdash; we might have different length contracts, but all of us are researchers and experts in our own right. Even as a newcomer, I did not feel separated and was able to quickly make friends thanks to chats over coffee breaks or hangouts in CERN restaurant on Friday evenings. Even during the lockdown, the social interactions were able to continue thanks to
@@ -156,9 +156,9 @@ the enthusiasm of my colleagues, who organised weekly virtual trivia quizzes.&lt
     
     <item>
       <title>From discussion to publication</title>
-      <link>https://aleksas.eu/post/2020-07-29/</link>
+      <link>https://amazeliauskas.github.io/post/2020-07-29/</link>
       <pubDate>Wed, 29 Jul 2020 08:00:00 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-07-29/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-07-29/</guid>
       <description>&lt;p&gt;Today is a publication day! Our companion papers (short&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and long&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;) just appeared on &lt;a href=&#34;https://en.wikipedia.org/wiki/ArXiv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In this work we discuss how collisions of oxygen nuclei could be used to discover
 an important signature of the formation of very hot and dense nuclear matter even in very small collision systems.
@@ -186,9 +186,9 @@ effect on the running of the largest scientific machine in the world, the &lt;a 
     
     <item>
       <title>Remote talks and reopening</title>
-      <link>https://aleksas.eu/post/2020-05-19/</link>
+      <link>https://amazeliauskas.github.io/post/2020-05-19/</link>
       <pubDate>Sun, 19 Apr 2020 21:41:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-05-19/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-05-19/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://home.cern/news/news/cern/gradual-restart-plan-cerns-site-activities&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On May 18 CERN&lt;/a&gt;
 has initiated a gradual restart of operations. There are many
 weeks before I will be able to resume working normally. However today I had a chance to go back to my office for the first
@@ -221,9 +221,9 @@ I think this is perhaps one of a few positive ways the research will be impacted
     
     <item>
       <title>Doing physics research from home</title>
-      <link>https://aleksas.eu/post/2020-04-12/</link>
+      <link>https://amazeliauskas.github.io/post/2020-04-12/</link>
       <pubDate>Sun, 12 Apr 2020 09:00:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-04-12/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-04-12/</guid>
       <description>&lt;p&gt;Today is Easter. Today is also a month since the last time I was at CERN and met
 my colleagues in person. Like the rest of the world, CERN is in a safe mode with
 the site shut-down to non-essential activities and the majority of personnel staying at home.
@@ -251,9 +251,9 @@ what are the costs of acting too late.&lt;/p&gt;
     
     <item>
       <title>Visit to ATLAS underground cavern</title>
-      <link>https://aleksas.eu/post/2020-02-05/</link>
+      <link>https://amazeliauskas.github.io/post/2020-02-05/</link>
       <pubDate>Wed, 05 Feb 2020 09:00:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-02-05/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-02-05/</guid>
       <description>&lt;p&gt;One of the privileges of working at CERN is the opportunity to see the particle experiments up close.&lt;/p&gt;
 &lt;p&gt;On Wednesday, Feb 5th, a group of CERN theorists was given a private underground tour of &lt;a href=&#34;https://home.cern/science/experiments/atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ATLAS&lt;/a&gt; detector.
 The above the ground building has a very colourful picture of the detector, which is actually done
@@ -283,8 +283,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090012227_HDR.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090012227_HDR_hudced8bcfe22292ced2a3e4887c9f0f23_274211_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090012227_HDR.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090012227_HDR.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090012227_HDR_hudced8bcfe22292ced2a3e4887c9f0f23_274211_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090012227_HDR.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -292,8 +292,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090558852.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_090558852_hudced8bcfe22292ced2a3e4887c9f0f23_251848_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090558852.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090558852.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_090558852_hudced8bcfe22292ced2a3e4887c9f0f23_251848_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_090558852.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -301,8 +301,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091235250.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091235250_hudced8bcfe22292ced2a3e4887c9f0f23_200968_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091235250.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091235250.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091235250_hudced8bcfe22292ced2a3e4887c9f0f23_200968_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091235250.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -310,8 +310,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091904378.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_091904378_hudced8bcfe22292ced2a3e4887c9f0f23_269265_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091904378.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091904378.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_091904378_hudced8bcfe22292ced2a3e4887c9f0f23_269265_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_091904378.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -319,8 +319,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093015338.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093015338_hudced8bcfe22292ced2a3e4887c9f0f23_337481_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093015338.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093015338.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093015338_hudced8bcfe22292ced2a3e4887c9f0f23_337481_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093015338.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -328,8 +328,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093021073.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093021073_hudced8bcfe22292ced2a3e4887c9f0f23_423426_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093021073.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093021073.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093021073_hudced8bcfe22292ced2a3e4887c9f0f23_423426_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093021073.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -337,8 +337,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093035937.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093035937_hudced8bcfe22292ced2a3e4887c9f0f23_285812_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093035937.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093035937.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093035937_hudced8bcfe22292ced2a3e4887c9f0f23_285812_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093035937.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -346,8 +346,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093125602.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093125602_hudced8bcfe22292ced2a3e4887c9f0f23_365429_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093125602.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093125602.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093125602_hudced8bcfe22292ced2a3e4887c9f0f23_365429_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093125602.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -355,8 +355,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093142665.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_093142665_hu667230c3c9574c2f2d9b2122b445c210_2723548_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093142665.jpg&#34; width=&#34;81&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093142665.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_093142665_hu667230c3c9574c2f2d9b2122b445c210_2723548_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_093142665.jpg&#34; width=&#34;81&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -364,8 +364,8 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_094604105.jpg&#34; &gt;
-      &lt;img src=&#34;https://aleksas.eu/post/2020-02-05/img/IMG_20200205_094604105_hudced8bcfe22292ced2a3e4887c9f0f23_382946_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_094604105.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-img&#34; href=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_094604105.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2020-02-05/img/IMG_20200205_094604105_hudced8bcfe22292ced2a3e4887c9f0f23_382946_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;IMG_20200205_094604105.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -376,9 +376,9 @@ over distances of meters with micrometer precision.&lt;/p&gt;
     
     <item>
       <title>Science outreach in Lithuania</title>
-      <link>https://aleksas.eu/post/2020-01-18/</link>
+      <link>https://amazeliauskas.github.io/post/2020-01-18/</link>
       <pubDate>Sat, 18 Jan 2020 13:51:01 +0200</pubDate>
-      <guid>https://aleksas.eu/post/2020-01-18/</guid>
+      <guid>https://amazeliauskas.github.io/post/2020-01-18/</guid>
       <description>&lt;p&gt;During my long vacations in Lithuania, I decided to
 do some science outreach and I gave three presentations on my work at &lt;strong&gt;CERN&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;First, on Saturday Jan 11th, I visited additional training physics school &lt;strong&gt;Fizikos Olimpas&lt;/strong&gt; during its
