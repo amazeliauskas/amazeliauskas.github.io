@@ -5,9 +5,9 @@
     <link>https://amazeliauskas.github.io/tag/workshop/</link>
       <atom:link href="https://amazeliauskas.github.io/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>workshop</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_2.png</url>
+      <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>workshop</title>
       <link>https://amazeliauskas.github.io/tag/workshop/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Partonic rescattering in light nucleus collions</title>
       <link>https://amazeliauskas.github.io/talk/partonic-rescattering-in-light-nucleus-collions/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/partonic-rescattering-in-light-nucleus-collions/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Pre-equilibrium phenomena in Quark Gluon Plasma</title>
       <link>https://amazeliauskas.github.io/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/pre-equilibrium-phenomena-in-quark-gluon-plasma/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Pre-scaling, hydrodynamic attractors and entropy production in heavy ion collisions</title>
       <link>https://amazeliauskas.github.io/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</link>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/pre-scaling-hydrodynamic-attractors-and-entropy-production-in-heavy-ion-collisions/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Hydrodynamic attractors, initial state energy and particle production in relativistic nuclear collisions</title>
       <link>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/hydrodynamic-attractors-initial-state-energy-and-particle-production-in-relativistic-nuclear-collisions/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Fluctuating hydrodynamics with relativistic hydro-kinetic theory</title>
       <link>https://amazeliauskas.github.io/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/fluctuating-hydrodynamics-with-relativistic-hydro-kinetic-theory/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Chemical equilibration in hadronic collisions</title>
       <link>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/chemical-equilibration-in-hadronic-collisions/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>FastReso – fast resonance decays in nuclear collisions</title>
       <link>https://amazeliauskas.github.io/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/fastreso-fast-resonance-decays-in-nuclear-collisions/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Initial conditions for heavy ion collisions</title>
       <link>https://amazeliauskas.github.io/talk/initial-conditions-for-heavy-ion-collisions/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-heavy-ion-collisions/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>Kinetic theory equilibration for realistic heavy ion initial conditions</title>
       <link>https://amazeliauskas.github.io/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/kinetic-theory-equilibration-for-realistic-heavy-ion-initial-conditions/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Initial conditions for hydrodynamics from weakly coupled pre-equilibrium evolution</title>
       <link>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</link>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/initial-conditions-for-hydrodynamics-from-weakly-coupled-pre-equilibrium-evolution/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>Principal Component Analysis and Subleading Flow</title>
       <link>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</link>
-      <pubDate>Fri, 06 Mar 2015 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/talk/principal-component-analysis-and-subleading-flow/</guid>
       <description></description>
     </item>
