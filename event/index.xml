@@ -5,12 +5,76 @@
     <link>https://amazeliauskas.github.io/event/</link>
       <atom:link href="https://amazeliauskas.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://amazeliauskas.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Dalelių fizikos tyrimai CERN: naujų fundamentalių reiškinių ir dalelių paieškos</title>
+      <link>https://amazeliauskas.github.io/talk/daleliu-fizikos-tyrimai-cern-nauju-fundamentaliu-reiskiniu-ir-daleliu-paieskos/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/daleliu-fizikos-tyrimai-cern-nauju-fundamentaliu-reiskiniu-ir-daleliu-paieskos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jet and hadron spectra modifications in oxygen-oxygen collisions at the LHC</title>
+      <link>https://amazeliauskas.github.io/talk/jet-and-hadron-spectra-modifications-in-oxygen-oxygen-collisions-at-the-lhc/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/jet-and-hadron-spectra-modifications-in-oxygen-oxygen-collisions-at-the-lhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical overview on space-time evolution of heavy-ion collisions and QGP temperature</title>
+      <link>https://amazeliauskas.github.io/talk/theoretical-overview-on-space-time-evolution-of-heavy-ion-collisions-and-qgp-temperature/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/theoretical-overview-on-space-time-evolution-of-heavy-ion-collisions-and-qgp-temperature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Partonic Rescattering in Light Ion Collisions</title>
+      <link>https://amazeliauskas.github.io/talk/discovering-partonic-rescattering-in-light-ion-collisions/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/discovering-partonic-rescattering-in-light-ion-collisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Density QCD with Proton &amp; Ion Beam (I and II)</title>
+      <link>https://amazeliauskas.github.io/talk/high-density-qcd-with-proton-ion-beam-i-and-ii/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/high-density-qcd-with-proton-ion-beam-i-and-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equilibration and collective effects in QCD kinetic theory</title>
+      <link>https://amazeliauskas.github.io/talk/equilibration-and-collective-effects-in-qcd-kinetic-theory/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/equilibration-and-collective-effects-in-qcd-kinetic-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-energy QCD Matter Theory</title>
+      <link>https://amazeliauskas.github.io/talk/high-energy-qcd-matter-theory/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/high-energy-qcd-matter-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching glasma to hydro via kinetic theory</title>
+      <link>https://amazeliauskas.github.io/talk/matching-glasma-to-hydro-via-kinetic-theory/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/matching-glasma-to-hydro-via-kinetic-theory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Parton rescattering in nuclear collisions</title>

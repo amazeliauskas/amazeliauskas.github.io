@@ -2,20 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amazeliauskas.github.io/publication-type/2/</loc>
-    <lastmod>2021-09-01T22:37:25+02:00</lastmod>
-  </url><url>
     <loc>https://amazeliauskas.github.io/</loc>
-    <lastmod>2021-09-01T22:37:25+02:00</lastmod>
+    <lastmod>2022-05-17T06:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/daleliu-fizikos-tyrimai-cern-nauju-fundamentaliu-reiskiniu-ir-daleliu-paieskos/</loc>
+    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/invited/</loc>
+    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/plenary/</loc>
+    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/event/</loc>
+    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tags/</loc>
+    <lastmod>2022-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2022-04-11/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/jet-and-hadron-spectra-modifications-in-oxygen-oxygen-collisions-at-the-lhc/</loc>
+    <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/post/2022-04-04/</loc>
+    <lastmod>2022-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication-type/2/</loc>
+    <lastmod>2022-05-17T06:59:24+02:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/publication_types/</loc>
-    <lastmod>2021-09-01T22:37:25+02:00</lastmod>
+    <lastmod>2022-05-17T06:59:24+02:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/publication/</loc>
-    <lastmod>2021-09-01T22:37:25+02:00</lastmod>
+    <lastmod>2022-05-17T06:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/mikheev-2022-fdl/</loc>
+    <lastmod>2022-05-17T06:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/attems-2022-ubu/</loc>
+    <lastmod>2022-05-17T06:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/publication/florkowski-2021-xvy/</loc>
+    <lastmod>2022-05-17T06:59:24+02:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/theoretical-overview-on-space-time-evolution-of-heavy-ion-collisions-and-qgp-temperature/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/workshop/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/discovering-partonic-rescattering-in-light-ion-collisions/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/parallel/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/high-density-qcd-with-proton-ion-beam-i-and-ii/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/school/</loc>
+    <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/publication/brewer-2021-tyv/</loc>
     <lastmod>2021-09-01T22:37:25+02:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/equilibration-and-collective-effects-in-qcd-kinetic-theory/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/tag/programme/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/high-energy-qcd-matter-theory/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amazeliauskas.github.io/talk/matching-glasma-to-hydro-via-kinetic-theory/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/publication/duhr-2021-mfd/</loc>
     <lastmod>2021-07-29T16:45:14+02:00</lastmod>
@@ -29,22 +95,13 @@
     <loc>https://amazeliauskas.github.io/project/highpt/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://amazeliauskas.github.io/post/</loc>
-    <lastmod>2021-03-05T08:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://amazeliauskas.github.io/project/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/tag/rescattering/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://amazeliauskas.github.io/tags/</loc>
-    <lastmod>2021-07-29T16:45:14+02:00</lastmod>
-  </url><url>
     <loc>https://amazeliauskas.github.io/talk/parton-rescattering-in-nuclear-collisions/</loc>
-    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://amazeliauskas.github.io/event/</loc>
     <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/post/2021-03-05/</loc>
@@ -52,9 +109,6 @@
   </url><url>
     <loc>https://amazeliauskas.github.io/post/2021-03-04/</loc>
     <lastmod>2021-03-04T08:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://amazeliauskas.github.io/tag/invited/</loc>
-    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/talk/opportunities-of-oo-and-po-collisions-at-the-lhc/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
@@ -66,9 +120,6 @@
     <lastmod>2021-03-07T16:37:00+01:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/tag/initialstages/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://amazeliauskas.github.io/tag/plenary/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/talk/what-do-we-learn-from-small-systems-about-the-physics-of-heavy-ion-collisions/</loc>
@@ -96,9 +147,6 @@
     <lastmod>2020-10-04T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/talk/partonic-rescattering-in-light-nucleus-collions/</loc>
-    <lastmod>2020-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://amazeliauskas.github.io/tag/workshop/</loc>
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/post/2020-07-29/</loc>
@@ -170,9 +218,6 @@
     <loc>https://amazeliauskas.github.io/talk/a-theorists-impression-from-quark-matter-2019-physics-of-low-momentum-hadron-spectra-and-flow/</loc>
     <lastmod>2019-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://amazeliauskas.github.io/tag/parallel/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://amazeliauskas.github.io/talk/prescaling-and-far-from-equilibrium-hydrodynamics-in-the-quark-gluon-plasma/</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -214,9 +259,6 @@
   </url><url>
     <loc>https://amazeliauskas.github.io/tag/sqm/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://amazeliauskas.github.io/tag/programme/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amazeliauskas.github.io/talk/the-pre-equilibrium-dynamics-with-qcd-kinetic-theory/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>

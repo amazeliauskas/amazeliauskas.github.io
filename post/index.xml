@@ -5,12 +5,81 @@
     <link>https://amazeliauskas.github.io/post/</link>
       <atom:link href="https://amazeliauskas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://amazeliauskas.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Second Lithuanian Particle Physics Meeting</title>
+      <link>https://amazeliauskas.github.io/post/2022-04-11/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/post/2022-04-11/</guid>
+      <description>&lt;p&gt;On the 11th of April, 2022 around 30 Lithuanian scientists with interest in particle physics
+gathered virtually for the second time in &lt;a href=&#34;http://cern.ch/LPPM2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lithuanian Particle Physics Meeting&lt;/a&gt; (LPPM2022). The meeting had also a large number of invited guests from Lithuanian universities and
+government institutions.&lt;/p&gt;
+&lt;p&gt;The meeting started with a round of short introductions. As many of participants gave talks
+last year, the introductions allowed to refresh each other&amp;rsquo;s memories and advertise
+any future plans. Next, we had the pleasure to listen to the presentation by
+Mario Pimenta from Portugal. Mario is the direction of LIP &amp;mdash; Portuguese particle labaratory
+and he gave a short account how LIP and particle physics community was created in Portugal
+nearly 40 years ago. Portugal&amp;rsquo;s experience is relevant to Lithuania, where particle physics
+was almost nearly non-existent before Lithuania joined CERN in 2018.&lt;/p&gt;
+&lt;p&gt;After the guest&amp;rsquo;s presentation, we started the discussion of particle physics
+in Lithuania. It was particularly welcoming that representatives from Foreign and Education
+Ministries, Vilnius and Kaunas Universities attended LPPM2022 and contributed to the discussion.
+Participants were able to raise their concerns directly to the people responsible
+for shaping the particle physics initiatives in Lithuania.
+LPPM2022 also hosted three scientists from Lithuania, who have returned from abroad. Their
+experience returning to the homeland are very relevant to many of the meeting attendants.
+Finally, we discussed how to make particle physics more accessible to students in Lithuania
+and decided to create a dedicated Discord server.&lt;/p&gt;
+&lt;p&gt;I was very happy that our meeting and community gained certain level of visibility.
+Hopefully, this will result in stronger support of particle physics needs in Lithuania.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quark Matter conference in Krakow</title>
+      <link>https://amazeliauskas.github.io/post/2022-04-04/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/post/2022-04-04/</guid>
+      <description>&lt;p&gt;From the 4th to 10th of April, 2022 the &lt;a href=&#34;https://qm2021.syskonf.pl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XXIX Quark Matter&lt;/a&gt; conference took place
+in Krakow, Poland. It was the first major conference for me and many of my colleagues
+after the 2019 Quark Matter conference in the fateful Wuhan, China.
+Although it looked like the world was emerging from the pandemic restrictions,
+many people were prevented from attending the conference due to Russian invasion of
+neighbouring Ukraine. Scientists with Russian affiliations were expelled from
+participating at the conference, while some western physicists were concerned about
+going to Poland, which is hosting a large number of Ukrainian refugees.&lt;/p&gt;
+&lt;p&gt;Because I am Lithuanian, Krakow for me is a very special city. As the ancient capital
+of Polish-Lithuanian commonwealth, Krakow has many connections with Lithuanian history.
+It is always a pleasure for me to visit this beautiful city. I made sure to come a couple days in advance to do more sightseeing.
+Despite the looming war, I found the city unchanged, with the same majestic town square, gorgeous churches and
+throngs of tourists. The only notable change were the displayed messages of support for Ukraine.&lt;/p&gt;
+&lt;p&gt;I missed attending the in-person conference. Nowhere else, you can grab 2-3 physicists from
+different institutions and have a quick spontaneous discussion. Also, seeing hundreds of
+other heavy-ion physicists brings the sense of community, which is crucial
+for moving forward as a field. There were many exciting talks
+and I was proud to present my own work or see it presented by my co-authors.
+I was especially thrilled to see my friend and colleague Sören Schlichting being awarded &lt;a href=&#34;https://wigner.hu/en/zimanyi-medal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zimányi medal&lt;/a&gt; for&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;For his groundbreaking work on turbulence in Yang-Mill
+fluids and its implications for thermalization in heavy ion collisions, and his important
+contribution to matching the nonequilibrium initial stage of heavy ion collisions to
+hydrodynamics with QCD kinetic theory&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Unfortunately, there were also some unpleasant incidents at the conference. A great many
+of conference participants became infected with COVID during or after the conference. After two years of successfully avoiding
+the illness, I also tested positive a couple days after the conference. Thanks to vaccines,
+the symptoms were mild and I have since fully recovered. In another sort of incident,
+one conference participant was expelled from the conference for breaking the
+code of conduct. Bad as such things are, I can only hope that after this our immunity
+to both COVID and improper behaviour will only grow stronger.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First Lithuanian Particle Physics Meeting</title>

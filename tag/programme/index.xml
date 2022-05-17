@@ -5,12 +5,20 @@
     <link>https://amazeliauskas.github.io/tag/programme/</link>
       <atom:link href="https://amazeliauskas.github.io/tag/programme/index.xml" rel="self" type="application/rss+xml" />
     <description>programme</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2021</copyright><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>programme</title>
       <link>https://amazeliauskas.github.io/tag/programme/</link>
     </image>
+    
+    <item>
+      <title>Equilibration and collective effects in QCD kinetic theory</title>
+      <link>https://amazeliauskas.github.io/talk/equilibration-and-collective-effects-in-qcd-kinetic-theory/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/talk/equilibration-and-collective-effects-in-qcd-kinetic-theory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The pre-equilibrium dynamics with QCD kinetic theory</title>
