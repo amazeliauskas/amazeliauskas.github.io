@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 75.283949 39.429215"
+   height="35.486294mm"
+   width="67.755554mm"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="featured.png"
+   inkscape:export-xdpi="299.01"
+   inkscape:export-ydpi="299.01"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4155">
+      <stop
+         style="stop-color:#fcfc03;stop-opacity:1;"
+         offset="0"
+         id="stop4151" />
+      <stop
+         style="stop-color:#c4c43b;stop-opacity:1;"
+         offset="1"
+         id="stop4153" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4155"
+       id="linearGradient4157"
+       x1="36.060871"
+       y1="41.413673"
+       x2="34.852722"
+       y2="-8.2889843"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4351"
+       x="-0.039132158"
+       y="-0.097795892"
+       width="1.0782643"
+       height="1.1955918">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.9806462"
+         id="feGaussianBlur4353" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="87.079754"
+     inkscape:cx="138.90209"
+     inkscape:zoom="3.2900874"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="1920"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-6.7785283,-9.4849538)">
+    <g
+       id="g248"
+       transform="translate(5.4030195,2.8178757)">
+      <path
+         id="path4349"
+         style="opacity:0.428973;mix-blend-mode:normal;fill:#000000;stroke-width:0.469181;filter:url(#filter4351);stop-color:#000000"
+         transform="matrix(0.99437237,-0.1059414,0.10436815,0.99453873,2.8527058,1.8936887)"
+         d="M 5.0139089,17.177998 H 64.680668 c 0.727645,8.099494 0.536957,16.101164 0,24.065948 H 5.0139089 c 0.5057487,-6.588318 0.5730474,-14.419527 0,-24.065948 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect232"
+         style="fill:url(#linearGradient4157);stroke-width:0.469181;stop-color:#000000"
+         transform="matrix(0.99437237,-0.1059414,0.10436815,0.99453873,0,0)"
+         d="M 5.0139089,17.177998 H 64.680668 c 0.727645,8.099494 0.536957,16.101164 0,24.065948 H 5.0139089 c 0.5057487,-6.588318 0.5730474,-14.419527 0,-24.065948 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.256646px;word-spacing:-0.656167px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="8.1459131"
+         y="32.525574"
+         id="text1092"
+         transform="rotate(-7.8186125)"><tspan
+           sodipodi:role="line"
+           id="tspan1090"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:TSCu_Comic;-inkscape-font-specification:TSCu_Comic;stroke-width:0.264583"
+           x="8.1459131"
+           y="32.525574">OPEN POSITION </tspan></text>
+    </g>
+  </g>
+</svg>

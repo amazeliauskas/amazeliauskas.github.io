@@ -5,12 +5,29 @@
     <link>https://amazeliauskas.github.io/tag/rescattering/</link>
       <atom:link href="https://amazeliauskas.github.io/tag/rescattering/index.xml" rel="self" type="application/rss+xml" />
     <description>rescattering</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>rescattering</title>
       <link>https://amazeliauskas.github.io/tag/rescattering/</link>
     </image>
+    
+    <item>
+      <title>Many-body QCD phenomena in high-energy proton and nuclear collisions</title>
+      <link>https://amazeliauskas.github.io/emmy/project/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/emmy/project/</guid>
+      <description>&lt;p&gt;The emergence of &lt;strong&gt;macroscopic medium&lt;/strong&gt; properties over distances much smaller than a single atom is a fascinating and non-trivial manifestation of &lt;strong&gt;many-body physics&lt;/strong&gt; of Quantum Chromodynamics (QCD) in high-energy nuclear collisions.&lt;/p&gt;
+&lt;p&gt;The observation of &lt;strong&gt;collective particle behaviour&lt;/strong&gt; in collisions of heavy ions (gold or lead) at the &lt;strong&gt;Relativistic Heavy Ion Collider&lt;/strong&gt; (RHIC) at &lt;strong&gt;BNL&lt;/strong&gt; and the &lt;strong&gt;Large Hadron Collider&lt;/strong&gt; (LHC) at &lt;strong&gt;CERN&lt;/strong&gt; is strong evidence that a new exotic phase of matter called the &lt;strong&gt;Quark-Gluon Plasma&lt;/strong&gt; (QGP) is created in these large collision systems. However, the striking discovery of the very same collective phenomena in much &lt;strong&gt;smaller systems&lt;/strong&gt; of proton-proton and proton-lead collisions at the LHC has confounded heavy-ion physics (HIP) expectations and it is not predicted by the conventional high-energy physics (HEP) picture of elementary collisions.&lt;/p&gt;
+&lt;p&gt;In 2019 the community recommendation for the &lt;strong&gt;European Strategy for Particle Physics&lt;/strong&gt; emphasized that the main physics goal of future experiments with heavy-ion and proton beams at the LHC is a detailed, experimentally tested dynamical understanding of how &lt;strong&gt;out-of-equilibrium evolution occurs&lt;/strong&gt; and equilibrium properties arise in a non-Abelian quantum field theory.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Uncovering the physical origins of collective behaviour in all hadronic collisions and explaining their dependence on the size of the collision system is the main goal of this project.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A)&lt;/strong&gt; As the core part of the project, I will use my expertise on QCD thermalisation and, in particular, &lt;strong&gt;QCD effective kinetic theory&lt;/strong&gt; to build a comprehensive model of emergent phenomena in small systems. My group will then model and predict the rich set of kinematic (integrated and momentum differential), chemical, and electromagnetic signals of collective phenomena that have been observed at the LHC in collision systems with different size.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B)&lt;/strong&gt; In parallel I will do next-to-leading order &lt;strong&gt;perturbative QCD calculations&lt;/strong&gt; of high momentum transfer processes in nuclear collisions to design sensitive tests for yet undiscovered medium-induced phenomena in small systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As the result of these activities my group will construct a &lt;strong&gt;detailed theoretical picture of microscopic QCD equilibration in proton and nuclear collisions&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>High-pT partonic rescattering</title>

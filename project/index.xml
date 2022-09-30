@@ -5,12 +5,35 @@
     <link>https://amazeliauskas.github.io/project/</link>
       <atom:link href="https://amazeliauskas.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://amazeliauskas.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Theory uncertainties of perturbative calculations</title>
+      <link>https://amazeliauskas.github.io/project/miho/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/project/miho/</guid>
+      <description>&lt;p&gt;With current high precision collider data, the reliable estimation of theoretical
+uncertainties due to missing higher orders (MHOs) in perturbation theory has become a
+pressing issue for collider phenomenology. Traditionally, the size of the MHOs is estimated
+through scale variation, a simple but ad hoc method without probabilistic interpretation.&lt;/p&gt;
+&lt;p&gt;Bayesian approaches provide a compelling alternative to estimate the size of the MHOs,
+but it is not clear how to interpret the perturbative scales, like the factorisation and renormalisation scales, in a Bayesian framework. Recently, it was proposed that the scales can
+be incorporated as hidden parameters into a Bayesian model. In this paper, we thoroughly
+scrutinise Bayesian approaches to MHO estimation and systematically study the performance of different models on an extensive set of high-order calculations.&lt;/p&gt;
+&lt;p&gt;We extend the framework in two significant ways. First, we define a new model that allows for asymmetric
+probability distributions. Second, we introduce a prescription to incorporate information on
+perturbative scales without interpreting them as hidden model parameters. We clarify how
+the two scale prescriptions bias the result towards specific scale choice, and we discuss and
+compare different Bayesian MHO estimates among themselves and to the traditional scale
+variation approach. Finally, we provide a practical prescription of how existing perturbative results at the standard scale variation points can be converted to 68%/95% credibility
+intervals in the Bayesian approach using the new public code MiHO.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>High-pT partonic rescattering</title>
@@ -51,20 +74,20 @@ plasma in the “bottom up” thermalization scenario&lt;sup id=&#34;fnref:3&#34
 of QCD on a lattice is not well suited to simulate the real time dynamics (due to the so called
 sign problem), therefore weakly coupled effective kinetic theory remains state-of-the-art tool in
 studying non-equilibrium evolution of quark-gluon plasma.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;S. Schlichting and D. Teaney, &lt;em&gt;The First fm/c of Heavy-Ion Collisions&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1146/annurev-nucl-101918-023825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ann. Rev. Nucl. Part. Sci. 69 (2019)&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;P.B. Arnold, G.D. Moore and L.G. Yaffe, &lt;em&gt;Effective kinetic theory for high temperature gauge theories&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1088/1126-6708/2003/01/030&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JHEP 0301, 030 (2003)&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;R. Baier, A.H. Mueller, D. Schiff, D.T. Son, &lt;em&gt;’Bottom up’ thermalization in heavy-ion collisions&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1016/S0370-2693%2801%2900191-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Lett. B 502 (2001)&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -94,14 +117,14 @@ QCD phenomena. For example, photon emission is a direct probe of charge content 
 plasma and in our recent proof-of-principle calculation we studied experimental signals of non-
 equilibrium photon production. Event by event fluctuations of QCD conserved charges might also leave the imprint on the observed experimental signals 8 . I plan to explore this interesting
 dynamics using fully dynamical kinetic theory framework in the future.--&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;A. Andronic, P. Braun-Munzinger, K. Redlich and J. Stachel, &lt;em&gt;Decoding the phase structure of QCD via particle production at high energy&lt;/em&gt;, &lt;a href=&#34;https://doi.org/10.1038/s41586-018-0491-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature 561 no. 7723 (2018)&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     

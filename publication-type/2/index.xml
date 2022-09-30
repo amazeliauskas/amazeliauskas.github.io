@@ -5,7 +5,7 @@
     <link>https://amazeliauskas.github.io/publication-type/2/</link>
       <atom:link href="https://amazeliauskas.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2022</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Stability analysis of non-thermal fixed points in longitudinally expanding kinetic theory</title>
-      <link>https://amazeliauskas.github.io/publication/mikheev-2022-fdl/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/mikheev-2022-fdl/</guid>
+      <title>Medium-enhanced $c\bar{c}$ radiation</title>
+      <link>https://amazeliauskas.github.io/publication/attems-2022-otp/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/attems-2022-otp/</guid>
       <description></description>
     </item>
     
@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Ratios of jet and hadron spectra at LHC energies: Measuring high-pT suppression without a pp reference</title>
+      <link>https://amazeliauskas.github.io/publication/brewer-2021-tyv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/brewer-2021-tyv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability analysis of nonthermal fixed points in longitudinally expanding kinetic theory</title>
+      <link>https://amazeliauskas.github.io/publication/mikheev-2022-fdl/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/mikheev-2022-fdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effect of thermal shear on longitudinal spin polarization in a thermal model</title>
       <link>https://amazeliauskas.github.io/publication/florkowski-2021-xvy/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -37,17 +53,9 @@
     </item>
     
     <item>
-      <title>Ratios of jet and hadron spectra at LHC energies: measuring high-$p_T$ suppression without a $pp$ reference</title>
-      <link>https://amazeliauskas.github.io/publication/brewer-2021-tyv/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://amazeliauskas.github.io/publication/brewer-2021-tyv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An analysis of Bayesian estimates for missing higher orders in perturbative calculations</title>
       <link>https://amazeliauskas.github.io/publication/duhr-2021-mfd/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/publication/duhr-2021-mfd/</guid>
       <description></description>
     </item>
@@ -55,7 +63,7 @@
     <item>
       <title>Collective flow in single-hit QCD kinetic theory</title>
       <link>https://amazeliauskas.github.io/publication/kurkela-2021-ctp/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/publication/kurkela-2021-ctp/</guid>
       <description></description>
     </item>
