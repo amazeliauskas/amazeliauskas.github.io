@@ -5,12 +5,28 @@
     <link>https://amazeliauskas.github.io/publication-type/2/</link>
       <atom:link href="https://amazeliauskas.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2023</copyright><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2023</copyright><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://amazeliauskas.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Prescaling relaxation to nonthermal attractors</title>
+      <link>https://amazeliauskas.github.io/publication/heller-2023-mah/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/heller-2023-mah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian uncertainty quantification of perturbative QCD input to the neutron-star equation of state</title>
+      <link>https://amazeliauskas.github.io/publication/gorda-2023-usm/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/publication/gorda-2023-usm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Medium-enhanced $c\bar{c}$ radiation</title>
