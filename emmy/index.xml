@@ -5,12 +5,48 @@
     <link>https://amazeliauskas.github.io/emmy/</link>
       <atom:link href="https://amazeliauskas.github.io/emmy/index.xml" rel="self" type="application/rss+xml" />
     <description>Emmies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2023</copyright><lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2023</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>Emmies</title>
       <link>https://amazeliauskas.github.io/emmy/</link>
     </image>
+    
+    <item>
+      <title>Bachelor project</title>
+      <link>https://amazeliauskas.github.io/emmy/open/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/emmy/open/</guid>
+      <description>&lt;p&gt;I am looking for an enthusiastic student at Heidelberg University to do a bachelor project in theoretical physics.&lt;/p&gt;
+&lt;p&gt;Our offer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;research-oriented project in the field of heavy-ion physics.&lt;/li&gt;
+&lt;li&gt;topic: particle spectra analysis in heavy-ion collisions using &lt;a href=&#34;https://amazeliauskas.github.io/#codes&#34;&gt;FastReso&lt;/a&gt; framework&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;hands-on supervision and close collaboration throughout the project.&lt;/li&gt;
+&lt;li&gt;lively and inclusive group atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your profile:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;interest in particle physics.&lt;/li&gt;
+&lt;li&gt;commitment to teamwork.&lt;/li&gt;
+&lt;li&gt;experience or &lt;strong&gt;wilingness to learn&lt;/strong&gt; C++/Python.&lt;/li&gt;
+&lt;li&gt;ability to start in the first half of 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How to apply:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;email &lt;a href=&#34;mailto:a.mazeliauskas@thphys.uni-heidelberg.de&#34;&gt;a.mazeliauskas@thphys.uni-heidelberg.de&lt;/a&gt; with a brief description of your motivation and relevant experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Female candidates are especially encouraged to apply.&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/&#34;&gt;Mazeliauskas et al., &lt;em&gt;Fast resonance decays in nuclear collisions&lt;/em&gt;, Eur. Phys. J. C79&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Many-body QCD phenomena in high-energy proton and nuclear collisions</title>

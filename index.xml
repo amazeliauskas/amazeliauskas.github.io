@@ -5,12 +5,118 @@
     <link>https://amazeliauskas.github.io/</link>
       <atom:link href="https://amazeliauskas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Aleksas Mazeliauskas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2023</copyright><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2023</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>Aleksas Mazeliauskas</title>
       <link>https://amazeliauskas.github.io/</link>
     </image>
+    
+    <item>
+      <title>Bachelor project</title>
+      <link>https://amazeliauskas.github.io/emmy/open/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/emmy/open/</guid>
+      <description>&lt;p&gt;I am looking for an enthusiastic student at Heidelberg University to do a bachelor project in theoretical physics.&lt;/p&gt;
+&lt;p&gt;Our offer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;research-oriented project in the field of heavy-ion physics.&lt;/li&gt;
+&lt;li&gt;topic: particle spectra analysis in heavy-ion collisions using &lt;a href=&#34;https://amazeliauskas.github.io/#codes&#34;&gt;FastReso&lt;/a&gt; framework&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;hands-on supervision and close collaboration throughout the project.&lt;/li&gt;
+&lt;li&gt;lively and inclusive group atmosphere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your profile:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;interest in particle physics.&lt;/li&gt;
+&lt;li&gt;commitment to teamwork.&lt;/li&gt;
+&lt;li&gt;experience or &lt;strong&gt;wilingness to learn&lt;/strong&gt; C++/Python.&lt;/li&gt;
+&lt;li&gt;ability to start in the first half of 2024.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How to apply:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;email &lt;a href=&#34;mailto:a.mazeliauskas@thphys.uni-heidelberg.de&#34;&gt;a.mazeliauskas@thphys.uni-heidelberg.de&lt;/a&gt; with a brief description of your motivation and relevant experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Female candidates are especially encouraged to apply.&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://amazeliauskas.github.io/publication/mazeliauskas-2018-irt/&#34;&gt;Mazeliauskas et al., &lt;em&gt;Fast resonance decays in nuclear collisions&lt;/em&gt;, Eur. Phys. J. C79&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First year of my Emmy Noether group</title>
+      <link>https://amazeliauskas.github.io/post/2023-12-26/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://amazeliauskas.github.io/post/2023-12-26/</guid>
+      <description>&lt;p&gt;As of October 2023, I have completed my first year (out of a maximum of six) as an &lt;a href=&#34;https://amazeliauskas.github.io/emmy/project&#34;&gt;Emmy Noether Research Group Leader&lt;/a&gt; at the Institute for Theoretical Physics. Overall, it was a great and enjoyable year working with my group and other colleagues at Heidelberg University.&lt;/p&gt;
+&lt;h3 id=&#34;emmy-group&#34;&gt;Emmy group&lt;/h3&gt;
+&lt;p&gt;In spring, &lt;a href=&#34;https://amazeliauskas.github.io/#people&#34;&gt;Jannis&lt;/a&gt; joined my group as a master student. In August &lt;a href=&#34;https://amazeliauskas.github.io/#people&#34;&gt;Adam&lt;/a&gt;
+started his first postdoctoral position at the University of Heidelberg. With &lt;a href=&#34;https://amazeliauskas.github.io/#people&#34;&gt;Fabian&lt;/a&gt; as a PhD student, now I only need a &lt;a href=&#34;https://amazeliauskas.github.io/emmy/open/&#34;&gt;bachelor student&lt;/a&gt; to have the full academic ladder. The transition from spending most of the time working on research to mostly managing others doing research was surprisingly swift. However, I truly enjoy mentoring and teaching, so I like this new way of doing research. It is a great feeling to develop new research ideas in discussions with my group members.&lt;/p&gt;
+&lt;p&gt;2023 has been a busy year all round. Fabian produced exciting results on mini-jet quenching, which he has already presented at multiple conferences: &lt;a href=&#34;https://arxiv.org/abs/2308.01177&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hard Probes in Aschaffenburg&lt;/a&gt;, Initial Stages in Copenhagen and Zimanyi School in Budapest. We are currently writing these results up as his first paper. Jannis has been progressing on baseline calculations of semi-inclusive observables for oxygen-oxygen collisions. He attended the MCnet Summer School in Durham and quickly became an expert on running MadGraph (next-to-leading-order Monte-Carlo event generator). Adam came to Heidelberg only recently, but we already started working on a joint project. Independently, he has just finished a great collaborative project on isolating perturbative QCD splittings in heavy-ion collisions, which he recently presented at the Quark Matter conference in Houston and a jet workshop at INT Seattle.&lt;/p&gt;
+&lt;p&gt;During my first year in Heidelberg, I had a hectic travel schedule with at least one travel per month (see, for example, my post about &lt;a href=&#34;https://amazeliauskas.github.io/post/2023-07-16&#34;&gt;Emmy Noether meeting in Potsdam&lt;/a&gt;). Therefore, I promised myself not to travel in the last couple of months before Christmas. I wanted to spend more time with my group and settle into a routine in Heidelberg.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-conf&#34; href=&#34;https://amazeliauskas.github.io/post/2023-12-26/conf/Initial_Stages_Conference_Coppenhagen_2023_June_2.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2023-12-26/conf/Initial_Stages_Conference_Coppenhagen_2023_June_2_hu2ebf695e65897f099d4ff2b5ba167b70_1070736_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Initial_Stages_Conference_Coppenhagen_2023_June_2.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-conf&#34; href=&#34;https://amazeliauskas.github.io/post/2023-12-26/conf/Initial_Stages_Conference_Coppenhagen_2023_June_3.jpg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2023-12-26/conf/Initial_Stages_Conference_Coppenhagen_2023_June_3_hu31cbb3decd1b9925fafddf19ecb83328_4037835_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Initial_Stages_Conference_Coppenhagen_2023_June_3.jpg&#34; width=&#34;143&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-conf&#34; href=&#34;https://amazeliauskas.github.io/post/2023-12-26/conf/Quark_Matter_conference_Huston_2023_Sep.jpeg&#34; &gt;
+      &lt;img src=&#34;https://amazeliauskas.github.io/post/2023-12-26/conf/Quark_Matter_conference_Huston_2023_Sep_hu45af1964113223005c90dd1736cd6fa3_303395_0x190_resize_q75_lanczos.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Quark_Matter_conference_Huston_2023_Sep.jpeg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;h3 id=&#34;berges-group&#34;&gt;Berges group&lt;/h3&gt;
+&lt;p&gt;As a newly established group, I am happy to benefit from close integration with &lt;a href=&#34;https://www.thphys.uni-heidelberg.de/~berges/people.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;prof. Jürgen Berges group&lt;/a&gt;. We share the office space for students, run group seminars and have group lunches. The bigger group makes it easier to have a lively group atmosphere.&lt;/p&gt;
+&lt;p&gt;We also collaborate closely on various projects. One example is my recent paper with Michal Heller (Gent University) and Thimo Preis (Jürgen&amp;rsquo;s PhD student) on &lt;a href=&#34;publication/heller-2023-mah/&#34;&gt;prescaling relaxation to nonthermal attractors&lt;/a&gt;. Jürgen and I introduced this phenomenon during my postdoc time in Heidelberg. Recently, it has been &lt;a href=&#34;https://arxiv.org/abs/2312.09248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;experimentally confirmed&lt;/a&gt; by the cold-atom group in Cambridge. This is arguably the first time my theoretical work has been confirmed experimentally!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Berges.jpg&#34; alt=&#34;group photo&#34; title=&#34;with Berges group&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;isoquant&#34;&gt;ISOQUANT&lt;/h3&gt;
+&lt;p&gt;Although I travelled less, October-November was a crunch time for the renewal proposal of our Collaborative Research Center &lt;a href=&#34;www.isoquant-heidelberg.de&#34;&gt;ISOQUANT&lt;/a&gt;. If the third (and final) ISOQUANT 4-year extension is granted, I will be a project leader on two exciting research projects. CRC is a perfect place to start interdisciplinary collaborations, and I am very excited about a joint project between cold-atom and heavy-ion researchers. In addition, I have joined the equal opportunities team and have been supporting various Diversity, Equity and Inclusion activities at CRC.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;In summary, 2023 was an excellent year for me and I look forward to 2024.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Emmy Noether meeting in Potsdam</title>
