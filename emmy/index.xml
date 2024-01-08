@@ -5,7 +5,7 @@
     <link>https://amazeliauskas.github.io/emmy/</link>
       <atom:link href="https://amazeliauskas.github.io/emmy/index.xml" rel="self" type="application/rss+xml" />
     <description>Emmies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2023</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Aleksas Mazelliauskas 2024</copyright><lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://amazeliauskas.github.io/media/icon_hu70b6de678c3422ca7e1abb3aceb93074_395_512x512_fill_lanczos_center_3.png</url>
       <title>Emmies</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Bachelor project</title>
+      <title>Bachelor/Master project</title>
       <link>https://amazeliauskas.github.io/emmy/open/</link>
       <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://amazeliauskas.github.io/emmy/open/</guid>
-      <description>&lt;p&gt;I am looking for an enthusiastic student at Heidelberg University to do a bachelor project in theoretical physics.&lt;/p&gt;
+      <description>&lt;p&gt;I am looking for an enthusiastic student at Heidelberg University to do a bachelor or master project in theoretical physics.&lt;/p&gt;
 &lt;p&gt;Our offer:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;research-oriented project in the field of heavy-ion physics.&lt;/li&gt;
