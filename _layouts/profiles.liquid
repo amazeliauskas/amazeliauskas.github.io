@@ -20,7 +20,16 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
+    <!-- Social -->
+    {% if profile.social %}
+      <div class="social">
+        <div class="contact-icons">{% include profile_social.liquid %}</div>
+      </div>
+    {% endif %}
+
         </div>
+
+
 
         <div class="clearfix">
           {% if profile.content %}

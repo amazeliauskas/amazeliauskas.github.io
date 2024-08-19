@@ -1,0 +1,3 @@
+sudo docker compose pull
+sudo docker compose up
+systemctl start docker

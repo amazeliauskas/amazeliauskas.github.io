@@ -190,7 +190,20 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-
+  .address {
+    .name {
+      font-size: 1.2rem;
+    }
+    .post {
+      font-size: .8rem;
+    }
+    margin-bottom: 5px;
+    margin-top: 5px;
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
     p {
       display: inline-block;
       margin: 0;

@@ -5,5 +5,23 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"Phys. Rev. Lett.":
+  url: https://journals.aps.org/prl/
+  color: "#00369f"
+
+"Phys. Rev. D":
+  url: https://journals.aps.org/prd/
+  color: "#009f36"
+
+"Phys. Rev. C":
+  url: https://journals.aps.org/prc/
+  color: "#ff335d"
+
 "Vision":
   color: "#009f36"
+
+"JHEP":
+  url: https://jhep.sissa.it/jhep/
+  color: "#BD9207"
+
+

@@ -1,25 +1,66 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+displaytitle: Mazeliauskas Group 
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    name: Dr. Aleksas Mazeliauskas
+    position: Group leader
+    align: right
+    image: aleksas.jpg
+    email: a.mazeliauskas@thphys.uni-heidelberg.de
+    website: aleksas.eu
+    address: >
+        Institute for Theoretical Physics<br />
+        R 108, Philosophenweg 12<br />
+        Heidelberg<br />
+    image_circular: yes # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+projects: false # includes a tile list of projects
+images:
+  compare: true
+  slider: true
+
+#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#
+#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+> <i class="fas fa-quote-left"></i>
+> What we observe is not nature in itself but nature exposed to our method of questioning.
+> <i class="fas fa-quote-right"></i><br />
+> —&nbsp; Werner Heisenberg
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello, my name is Aleksas Mazeliauskas. I am a **theoretical physicist** working on **many-body phenomena** emerging from interactions of a small number of particles in **high-energy hadron collisions** and **ultracold quantum gases**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Since 2022 I am leading an **Emmy Noether Reasearch Group** at the [Institute for Theoretical Physics](http://www.thphys.uni-heidelberg.de) at **Heidelberg University**. As of 2024, I am a **project leader** at the Collaborative Research Center [ISOQUANT](https://www.isoquant-heidelberg.de/). 
+
+[My group](/people)'s [research](/projects) focuses on the microscopic understanding of the **emergent collective phenomena** in systems of **varying sizes** and at **varying energy scales**. I am especially interested in the question of **thermalisation** and **hydrodynamic behaviour** in isolated quantum systems.
+
+Check out my [research projects](/projects), [publications](/publications) and [group members](/people). See the [news announcements](/news) for open positions and [my blog](/blog) for occasional posts about my life as a researcher.
+
+<div class="d-flex flex-row mt-3 justify-content-center align-items-center">
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/emmy-noether">
+        {% include figure.liquid loading="eager" path="assets/img/emmy.jpg" class="img-fluid rounded z-depth-1" %}
+     </a>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+    <a href="https://www.isoquant-heidelberg.de/">
+        {% include figure.liquid loading="eager" path="assets/img/isoquant.png" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        <a href="https://www.uni-heidelberg.de/en">
+        {% include figure.liquid loading="eager" path="assets/img/hd_logo.png" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+
