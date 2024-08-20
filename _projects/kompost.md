@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: my_project
 title: KøMPøST
 description: Event-by-event pre-equilibrium evolution in hadron collisions
 img: kompost.png

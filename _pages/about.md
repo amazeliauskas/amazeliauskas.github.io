@@ -9,12 +9,9 @@ profile:
     position: Group leader
     align: right
     image: aleksas.jpg
-    email: a.mazeliauskas@thphys.uni-heidelberg.de
-    website: aleksas.eu
+    href: /cv/
     address: >
         Institute for Theoretical Physics<br />
-        R 108, Philosophenweg 12<br />
-        Heidelberg<br />
     image_circular: yes # crops the image to make it circular
 
 news: true # includes a list of news items
@@ -42,9 +39,9 @@ Hello, my name is Aleksas Mazeliauskas. I am a **theoretical physicist** working
 
 Since 2022 I am leading an **Emmy Noether Reasearch Group** at the [Institute for Theoretical Physics](http://www.thphys.uni-heidelberg.de) at **Heidelberg University**. As of 2024, I am a **project leader** at the Collaborative Research Center [ISOQUANT](https://www.isoquant-heidelberg.de/). 
 
-[My group](/people)'s [research](/projects) focuses on the microscopic understanding of the **emergent collective phenomena** in systems of **varying sizes** and at **varying energy scales**. I am especially interested in the question of **thermalisation** and **hydrodynamic behaviour** in isolated quantum systems.
+My group's research focuses on the microscopic understanding of the **emergent collective phenomena** in systems of **varying sizes** and at **varying energy scales**. I am especially interested in the question of **thermalisation** and **hydrodynamic behaviour** in isolated quantum systems.
 
-Check out my [research projects](/projects), [publications](/publications) and [group members](/people). See the [news announcements](/news) for open positions and [my blog](/blog) for occasional posts about my life as a researcher.
+Check out my [research projects](/projects), [publications](/publications) and [profiles](/people) of my group members. See the [news announcements](/news) for open positions and [my blog](/blog) for occasional posts about my life as a researcher.
 
 <div class="d-flex flex-row mt-3 justify-content-center align-items-center">
     <div class="col-sm mt-2 mt-md-0">
