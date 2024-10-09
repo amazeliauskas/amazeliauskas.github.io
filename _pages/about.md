@@ -6,12 +6,10 @@ displaytitle: Mazeliauskas Group
 
 profile:
     name: Dr. Aleksas Mazeliauskas
-    position: Group leader
+    description: Group leader
     align: right
     image: aleksas.jpg
     href: /cv/
-    address: >
-        Institute for Theoretical Physics<br />
     image_circular: yes # crops the image to make it circular
 
 news: true # includes a list of news items
