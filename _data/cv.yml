@@ -4,9 +4,9 @@
     - name: Full Name
       value: Aleksas Mazeliauskas
     - name: Pronounciation
-      value:  [AH-lexas ma-zeh-LYOW-skas]
+      value:  "[AH-lexas ma-zeh-LYOW-skas]"
     - name: IPA
-      value:  [ˈaːlɛksɐs mɐzɛˈlʲæuˑskɐs]
+      value:  "[ˈaːlɛksɐs mɐzɛˈlʲæuˑskɐs]"
     - name: Nationality
       value: lithuanian
 
@@ -17,9 +17,10 @@
       institution:  Stony Brook University, Department of Physics and Astronomy, United States
       year: 2012 - 2017
       description:
-        - Fluctuations in ultra-relativistic heavy ion collisions 
-        - advisor Prof. Derek Teaney
+        - Title&#58; <i>Fluctuations in ultra-relativistic heavy ion collisions </i>
+        - Advisor&#58 Prof. Derek Teaney
         - Max Dresden Prize for outstanding theoretical thesis
+
     - title: Master of Mathematics (Part III Maths)
       institution: University of Cambridge, United Kingdom
       year: 2011 - 2012

@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+title: Team
 description: Members of Mazeliauskas research group
 nav: true
 nav_order: 1

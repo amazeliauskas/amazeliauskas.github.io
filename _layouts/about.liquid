@@ -42,6 +42,7 @@ layout: default
 
   <article>
     {% if page.profile %}
+ {% if page.profile.href %}<a href="{{ page.profile.href | relative_url }}">{% endif %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/people/' %}
@@ -58,6 +59,12 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
+
+      <div class="address">
+        <h4>{{ page.profile.name }}</h4>
+        <p>{{ page.profile.description }}</p>
+      </div>
+
       {% if page.profile.address %}
         <div class="address">
           <p>
@@ -77,6 +84,7 @@ layout: default
         </div>
       {% endif %}
       </div>
+            {% if page.profile.href %}</a>{% endif %}
     {% endif %}
 
 
