@@ -37,14 +37,14 @@
   contents:
     - title: Project leader
       institution: Collaborative Research Center ISOQUANT, Heidelberg University
-      year: 2024 -
+      year: 2024 - now
       description:
         - Project A01. Thermalisation dynamics and infrared phenomena in heavy-ion collisions with J. Berges and K. Reygers
         - Project ABC. Origins of collectivity in few-body systems with T. Enss, S. Joachim and S. Masciocchi
         - Member of the Diversity, Equity and Inclusion team at CRC ISOQUANT
     - title: Emmy Noether research group leader
       institution: Institute for Theoretical Physics, Heidelberg University
-      year: 2022 -
+      year: 2022 - now
       description:
         - Six-year research project on Many-body QCD phenomena in high-energy proton and nuclear collisions.
         
@@ -64,37 +64,13 @@
       institution: Nuclear Theory Group, Stony Brook University
       year: 2014 - 2017
 
-- title: Open Source Projects
+- title: Outreach projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Girls' Day
+      year: 2023-now
+      description: Co-organiser of Girls' Day at Heidelberg Physics and Astronomy Department.
+    - title: National Student Academy (NMA)
+      year: 2020-now
+      description: Head of Physics section at additional training school for gifted high-school children in Lithuania.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Chess, pottery
