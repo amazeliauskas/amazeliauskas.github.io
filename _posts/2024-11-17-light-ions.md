@@ -10,9 +10,9 @@ thumbnail: assets/img/posts/PosterLightIonCollisions.jpg
 ---
 
 
-November 11-15, 2024, I and my group (Adam, Fabian and Jannis) attended [CERN TH workshop on Light ion collisions](cern.ch/lightions). It was a very exciting
+November 11-15, 2024, I and my group (Adam, Fabian and Jannis) attended [CERN TH workshop on Light ion collisions](https://cern.ch/lightions). It was a very exciting
 week of the latest predictions and perspectives of light ion collisions at the LHC. A couple years ago, I co-organised a similar
-workshop on [opportunities of oxygen-oxygen and proton-oxygen runs at the LHC](cern.ch/OppOatLHC). According to the latest scheduling,
+workshop on [opportunities of oxygen-oxygen and proton-oxygen runs at the LHC](https://cern.ch/OppOatLHC). According to the latest scheduling,
 the exciting 1-week program will take place in summer 2025. Just in time for the workshop we published Jannis's master work on no-quenching
 baseline calculations for minimum bias oxygen-oxygen collisions {% cite Gebhard:2024flv %}. We showed that nuclear parton distribution functions is one of dominant
 limiting factors in ascertaining small energy loss signal. However, we showed that in some kinematic range the semi-inclusive observables jet-triggered hadron measurments can achieve a percent level accuracy.
