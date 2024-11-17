@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Hydro-kinetics
-description: Stochastic fluctuations in out-of-equilibrium systems
+layout: my_project
+title: Hydro-kinetics of noise
+caption: Stochastic fluctuations in out-of-equilibrium systems
 img: hydro-kinetics.png
-importance: 1
-category: inactive
+importance: 3
+category: past
 related_publications: true
 ---
 
@@ -17,10 +17,10 @@ simulations.
 A novel approach in describing effect of **hydrodynamic fluctuations** has been pioneered in our
 papers on **hydro-kinetics**, where we derived deterministic evolution equations for the **two-point
 correlation functions** of fluid fields, which are equivalent to 
-nonlinear hydrodynamics with noise. We used the hydro-kinetic equations to analyse thermal fluctuations
+nonlinear hydrodynamics with noise {% cite Akamatsu:2016llw Akamatsu:2017rdu %}. We used the hydro-kinetic equations to analyse thermal fluctuations
  for a Bjorken expansion, evaluating the contribution of thermal noise from the earliest moments and at late times.
 
-Recently the approach was generalized to arbitrary
+The approach was generalized to arbitrary
 background flows, which could be implemented in realistic heavy-ion simulations. Inclusion
 of such dynamical fluctuations is particularly important for the searches of the **critical point** in
 QCD phase diagram, with experimental efforts currently underway at Relativistic Heavy Ion

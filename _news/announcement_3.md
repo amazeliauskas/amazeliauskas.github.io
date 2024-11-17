@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[An open postdoc position in my group!](https://inspirehep.net/jobs/2846988)
+[An open postdoc position in my group!](https://inspirehep.net/jobs/2846988) Please share with suitable candidates.

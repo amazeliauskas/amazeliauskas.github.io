@@ -2,11 +2,11 @@
 layout: profiles
 permalink: /people/
 title: Team
-description: Members of Mazeliauskas research group
+description:
 nav: true
 nav_order: 1
 horizontal: false
-display_status: [current, former]
+display_status: [current, past]
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
@@ -28,6 +28,7 @@ profiles:
     importance: 2
     social: true # includes social icons at the bottom of the page
     email: a.takacs@thphys.uni-heidelberg.de
+    url: https://adam-takacs.github.io/
     from: 2023
   - name: Fabian Zhou
     description: PhD student
@@ -60,9 +61,9 @@ profiles:
     description: Master student
     image: jannis.jpg
     image_circular: true # crops the image to make it circular
-    status: former
+    status: past
     importance: 4
-    social: true # includes social icons at the bottom of the page
+    social: false # includes social icons at the bottom of the page
     email: gebhard@thphys.uni-heidelberg.de 
     from: 2023
     to: 2024

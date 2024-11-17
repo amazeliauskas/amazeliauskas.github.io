@@ -1,6 +1,6 @@
 <div class="col">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card h-100 mx-2 hoverable">
+    <div class="card mx-2 hoverable">
                         <div class="card-header">
       {% if project.img %}
         {% assign my_path = project.img | prepend: 'assets/img/projects/' %}
