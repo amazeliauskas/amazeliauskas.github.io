@@ -8,7 +8,7 @@ layout: default
 {% if page._styles %}
   <!-- Page/Post style -->
   <style type="text/css">
-    {{ page._styles }}
+{{ page._styles }}
   </style>
 {% endif %}
 
@@ -18,60 +18,58 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
-      Created in {{ page.date | date: '%B %d, %Y' }}
-      {% if page.author %}by {{ page.author }}{% endif %}
-      {% if page.last_updated %}, last updated in {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
-      {% if page.meta %}• {{ page.meta }}{% endif %}
+    Created in {{ page.date | date: '%B %d, %Y' }}
+    {% if page.author %}by {{ page.author }}{% endif %}
+    {% if page.last_updated %}, last updated in {{ page.last_updated | date: '%B %d, %Y' }}{% endif %}
+    {% if page.meta %}• {{ page.meta }}{% endif %}
     </p>
     <p class="post-tags">
-      {% if url_beginning == '/blog/' %}
-        <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
-      {% else %}
-        <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
-      {% endif %}
-      {% if tags != '' %}
-        &nbsp; &middot; &nbsp;
-        {% for tag in page.tags %}
-          {% if url_beginning == '/blog/' %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
-          {% else %}
-            <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}
-          {% endif %}
-          {% unless forloop.last %}
-            &nbsp;
-          {% endunless %}
-        {% endfor %}
-      {% endif %}
+    {% if url_beginning == '/blog/' %}
+      <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
+    {% else %}
+      <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}
+    {% endif %}
+    {% if tags != '' %}
+      &nbsp; &middot; &nbsp;
+      {% for tag in page.tags %}
+        {% if url_beginning == '/blog/' %}
+          <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
+        {% else %}
+          <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}
+        {% endif %}
+        {% unless forloop.last %}
+          &nbsp;
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
 
-      {% if categories != '' %}
-        &nbsp; &middot; &nbsp;
-        {% for category in page.categories %}
-          {% if url_beginning == '/blog/' %}
-            <a href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">
-              <i class="fa-solid fa-tag fa-sm"></i> {{ category -}}
-            </a>
-          {% else %}
-            <i class="fa-solid fa-tag fa-sm"></i> {{ category }}
-          {% endif %}
-          {% unless forloop.last %}
-            &nbsp;
-          {% endunless %}
-        {% endfor %}
-      {% endif %}
+    {% if categories != '' %}
+      &nbsp; &middot; &nbsp;
+      {% for category in page.categories %}
+        {% if url_beginning == '/blog/' %}
+          <a href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">
+            <i class="fa-solid fa-tag fa-sm"></i> {{ category -}}
+          </a>
+        {% else %}
+          <i class="fa-solid fa-tag fa-sm"></i> {{ category }}
+        {% endif %}
+        {% unless forloop.last %}
+          &nbsp;
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
     </p>
-{% if page.thumbnail %}
+    {% if page.thumbnail %}
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
-    <img class="card-img" src="{{page.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
-    </div>
-  </div>
-<div class="caption">
-	{{ page.caption }}
-</div>
-{% endif %}
-</div>
-
+      <div class="row justify-content-sm-center">
+        <div class="col-sm mt-3 mt-md-0">
+          <img class="card-img" src="{{page.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+        </div>
+      </div>
+      <div class="caption">
+        {{ page.caption }}
+      </div>
+    {% endif %}
   </header>
 
   <article class="post-content">
