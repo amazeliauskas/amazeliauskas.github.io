@@ -13,7 +13,7 @@ title: My first organized workshop
 ---
 
 One month ago my CERN colleagues Jasmine Brewer, Wilke van der Schee and I launched the organization of our first big scientific event---a physics workshop to discuss the future opportunities with oxygen ions at the LHC.
-I had no previous experience in organizing such events and I was therefore a bit unsure about the success of our endeavour. However, now I am proud to announce that with over 20 scheduled talks and over 100 registered participants our virtual 5-day workshop  [Opportunities of OO and pO collisions at the LHC](cern.ch/OppOatLHC) is going to take place Feb 4-5 and 8-10, 2021.
+I had no previous experience in organizing such events and I was therefore a bit unsure about the success of our endeavour. However, now I am proud to announce that with over 20 scheduled talks and over 100 registered participants our virtual 5-day workshop  [Opportunities of OO and pO collisions at the LHC](https://cern.ch/OppOatLHC) is going to take place Feb 4-5 and 8-10, 2021.
 
 First, I want to thank my co-organisers, Jasmine and Wilke, which made the workshop organization a breeze.
 True, we had to draft and send endless number of emails, but it was a pleasure to have such enthusiastic and reliable teammates. Organizing a virtual event has a benefit that there is no need to worry about travel, physical rooms, accommodation and coffee delivery. However, we will certainly miss seeing each other in person, having small discussions and being in the same place and _time-zone_.
