@@ -10,11 +10,11 @@ thumbnail: assets/img/posts/office.jpg
 ---
 
 
-It has been nearly four months since my start at Heidelberg as an [Emmy Noether Group leader](/emmy/project). 
+It has been nearly four months since my start at Heidelberg as an Emmy Noether Group leader. 
 The transition has been smooth, and I feel almost completely settled in. I have successfully filled PhD and postdoc positions in my group.
 My office is now furnished, and I have made it cosy with various decorations. The only outstanding issue is finding permanent accommodation, but anyone who tried searching in Heidelberg can attest it is not an easy task. :)
 
-One of the privileges of Emmy Noether's position is being able to supervise PhD students. I am delighted that my PhD student [Fabian](/#people) got off to a good start. He produced exciting results with QCD kinetic theory code in the first couple of months. He will present our work at his first major conference---[Hard Probes](https://wwuindico.uni-muenster.de/event/1409/)--in March. On the one hand, I am anxious about being the _senior_ person on the paper because it is up to me to guarantee the quality of this work. On the other hand, I genuinely enjoy sharing my experience and knowledge with younger colleagues.
+One of the privileges of Emmy Noether's position is being able to supervise PhD students. I am delighted that my PhD student [Fabian](/people) got off to a good start. He produced exciting results with QCD kinetic theory code in the first couple of months. He will present our work at his first major conference---[Hard Probes](https://wwuindico.uni-muenster.de/event/1409/)--in March. On the one hand, I am anxious about being the _senior_ person on the paper because it is up to me to guarantee the quality of this work. On the other hand, I genuinely enjoy sharing my experience and knowledge with younger colleagues.
 
 In addition, I had to fill a postdoc position in my group. This task turned out to be more challenging than I expected.
 On the positive side, I was overwhelmed by the number of excellent postdoc candidates applying with me. However, this presented me with the impossible problem of finding a unique ordering among several brilliant people with multi-dimensional experience and skills. The applicants are often faced with a similar situation of choosing the optimal career path.
