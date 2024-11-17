@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://amazeliauskas.github.io/sitemap.xml
