@@ -3,7 +3,7 @@ layout: my_project
 title: Pre-equilibrium response code KøMPøST
 description: 
 caption: Propagation of initial state fluctuations with linear response functions
-img: kompost.png
+img: kompost.jpg
 importance: 1
 category: past
 related_publications: true
