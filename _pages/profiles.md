@@ -48,6 +48,15 @@ profiles:
     social: true # includes social icons at the bottom of the page
     email: gebhard@thphys.uni-heidelberg.de 
     from: 2024
+  - name: Lea Bartels
+    image: lea.jpg
+    description: Master student
+    status: current
+    importance: 4
+    image_circular: true # crops the image to make it circular
+    social: true # includes social icons at the bottom of the page
+    email: lea.bartels@stud.uni-heidelberg.de    
+    from: 2024
   - name: Q'inich Figueroa 
     image: qinich.jpg
     description: Bachelor student
