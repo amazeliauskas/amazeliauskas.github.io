@@ -59,13 +59,13 @@ profiles:
     from: 2024
   - name: Q'inich Figueroa 
     image: qinich.jpg
-    description: Bachelor student
+    description: student assistant
     status: current
     importance: 5
     image_circular: true # crops the image to make it circular
     social: true # includes social icons at the bottom of the page
     email: q.figurera@thphys.uni-heidelberg.de    
-    from: 2024
+    from: 2025
   - name: Jannis Gebhard
     description: Master student
     image: jannis.jpg
@@ -76,4 +76,14 @@ profiles:
     email: gebhard@thphys.uni-heidelberg.de 
     from: 2023
     to: 2024
+  - name: Q'inich Figueroa 
+    image: qinich.jpg
+    description: Bachelor student
+    status: past
+    importance: 5
+    image_circular: true # crops the image to make it circular
+    social: true # includes social icons at the bottom of the page
+    email: q.figurera@thphys.uni-heidelberg.de    
+    from: 2024
+    to: 2025
 ---
