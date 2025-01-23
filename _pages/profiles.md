@@ -82,7 +82,7 @@ profiles:
     status: past
     importance: 5
     image_circular: true # crops the image to make it circular
-    social: true # includes social icons at the bottom of the page
+    social: false # includes social icons at the bottom of the page
     email: q.figurera@thphys.uni-heidelberg.de    
     from: 2024
     to: 2025
