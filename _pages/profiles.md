@@ -57,7 +57,7 @@ profiles:
     social: true # includes social icons at the bottom of the page
     email: lea.bartels@stud.uni-heidelberg.de    
     from: 2024
-  - name: Q'inich Figueroa 
+  - name: Q'inich Coc 
     image: qinich.jpg
     description: student assistant
     status: current
@@ -76,7 +76,7 @@ profiles:
     email: gebhard@thphys.uni-heidelberg.de 
     from: 2023
     to: 2024
-  - name: Q'inich Figueroa 
+  - name: Q'inich Coc 
     image: qinich.jpg
     description: Bachelor student
     status: past
