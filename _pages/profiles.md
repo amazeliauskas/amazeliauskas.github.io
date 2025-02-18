@@ -20,6 +20,15 @@ profiles:
     social: true # includes social icons
     email: a.mazeliauskas@thphys.uni-heidelberg.de
     from: 2022
+  - name: Toshali Mitra
+    description: Postdoctoral researcher
+    image: toshali.jpg
+    status: current
+    image_circular: true # crops the image to make it circular
+    importance: 2
+    social: true # includes social icons at the bottom of the page
+    email: mitra@thphys.uni-heidelberg.de
+    from: 2025
   - name: Adam Takacs
     description: Postdoctoral researcher
     image: adam.jpg
