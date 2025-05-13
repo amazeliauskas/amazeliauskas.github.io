@@ -18,25 +18,3 @@ Germany
 **Phone:** +49-6221-54 5046  
 **Email:** <a.mazeliauskas@thphys.uni-heidelberg.de>
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-         "name" : "example",
-         "minZoom": 10,
-         "maxZoom": 17
-    },
-      "geometry": {
-        "coordinates": [
-          8.695531493127987,
-          49.41491885559458
-        ],
-        "type": "Point"
-      }
-    }
-  ]
-}
-```
