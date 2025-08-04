@@ -35,7 +35,7 @@ images:
 
 Hello, my name is Aleksas Mazeliauskas. I am a **theoretical physicist** working on **many-body phenomena** emerging from interactions of a small number of particles in **high-energy hadron collisions** and **ultracold quantum gases**.
 
-Since 2022 I am leading an **Emmy Noether Reasearch Group** at the [Institute for Theoretical Physics](http://www.thphys.uni-heidelberg.de) at **Heidelberg University**. As of 2024, I am a **project leader** at the Collaborative Research Center [ISOQUANT](https://www.isoquant-heidelberg.de/). 
+Since 2022 I have been leading an **Emmy Noether Research Group** at the [Institute for Theoretical Physics](http://www.thphys.uni-heidelberg.de) at **Heidelberg University**. As of 2024, I am a **project leader** at the Collaborative Research Center [ISOQUANT](https://www.isoquant-heidelberg.de/). 
 
 My group's research focuses on the microscopic understanding of the **emergent collective phenomena** in systems of **varying sizes** and at **varying energy scales**. I am especially interested in the question of **thermalisation** and **hydrodynamic behaviour** in isolated quantum systems.
 
