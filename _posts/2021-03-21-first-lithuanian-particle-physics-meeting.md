@@ -1,6 +1,5 @@
 ---
 caption: Lithuanian Particle Physics Meeting logo
-categories: blog-post
 date: '2021-03-21 00:00:00'
 description: On the 9th of March over 30 Lithuanian scientists with interest in particle physics gathered virtually for the first Lithuanian Particle Physics Meeting
   (LPPM2021).'

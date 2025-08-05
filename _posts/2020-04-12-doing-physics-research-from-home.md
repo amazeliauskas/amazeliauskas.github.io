@@ -1,6 +1,5 @@
 ---
 caption: A view from a 'new' office window
-categories: blog-post
 date: '2020-04-12 09:00:01'
 description: Today is Easter.
 layout: post

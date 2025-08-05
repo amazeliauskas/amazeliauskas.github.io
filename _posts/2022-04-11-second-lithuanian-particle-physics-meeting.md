@@ -1,6 +1,5 @@
 ---
 caption: LPPM2022 group photo
-categories: blog-post
 date: 2022-04-11 00:00:00
 description: On the 11th of April, 2022 around 30 Lithuanian scientists with interest in particle physics gathered virtually for the second time in Lithuanian Particle Physics Meeting
 layout: post

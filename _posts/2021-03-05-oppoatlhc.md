@@ -1,12 +1,11 @@
 ---
-caption: Giving a workshop summary talk at LHC Committee open session
-categories: blog-post
-date: '2021-03-05 08:00:00'
-description: Just five months after it began, it is the wrap-uptime for one of most exciting scientific adventures of my career so far---my first organized physics workshop Opportunities of OO and pO collisions at the LHC or **OppOatLHC** for short.
 layout: post
-tags: CERN
-thumbnail: assets/img/posts/oppoatLHC.jpg
 title: OppOatLHC
+date: 2021-03-05 08:00:00
+description: Just five months after it began, it is the wrap-uptime for one of most exciting scientific adventures of my career so far---my first organized physics workshop Opportunities of OO and pO collisions at the LHC or **OppOatLHC** for short.
+tags: CERN
+caption: Giving a workshop summary talk at LHC Committee open session
+thumbnail: assets/img/posts/oppoatLHC.jpg
 ---
 
 Just five months after it [began]({% post_url 2020-12-27-my-first-organized-workshop %}), it is the wrap-up time for one of the most exciting scientific adventures of my career so far --- my first

@@ -5,7 +5,6 @@ date: 2024-11-17 11:01:00
 description: November 11-15, 2024, I and my group (Adam, Fabian and Jannis) attended CERN TH workshop on Light ion collisions at the LHC.
 tags: emmy CERN
 caption: Poster of Light ion workshop at CERN
-categories: blog-post
 thumbnail: assets/img/posts/PosterLightIonCollisions.jpg
 ---
 
@@ -37,7 +36,9 @@ I hope they were inspired by the visit and keen on _accelerating science_ (see g
 </div>
 
 
-
+<div class="publications">
+{% bibliography --cited %}
+<div>
 
 
 

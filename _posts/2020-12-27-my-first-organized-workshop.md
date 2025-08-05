@@ -1,7 +1,6 @@
 ---
 caption: Poster of our virtual workshop 'Opportunities of OO and pO collisions at
   the LHC'
-categories: blog-post
 date: '2020-12-27 08:00:00'
 description: One month ago my CERN colleagues Jasmine Brewer, Wilke van der Schee
   and I launched the organization of our first big scientific event---a physics workshop

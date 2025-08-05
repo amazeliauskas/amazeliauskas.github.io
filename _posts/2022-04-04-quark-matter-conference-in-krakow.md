@@ -1,6 +1,5 @@
 ---
 caption: Lithuanian contingent at QM2022
-categories: blog-post
 date: 2022-04-04 00:00:00
 description: From the 4th to 10th of April, 2022 the XXIX Quark Matter conference took place in Krakow, Poland.
 layout: post

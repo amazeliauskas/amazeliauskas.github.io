@@ -5,7 +5,6 @@ date: 2023-07-16 21:01:00
 description: I recently had the opportunity to participate in my first Emmy Noether Meeting, which took place from July 7th to 9th.
 tags: emmy
 caption: Theatrical walk with prof. Emmy Noether (Anita Zieher)
-categories: blog-post
 thumbnail: assets/img/posts/emmy_meeting_2023.jpg
 ---
 

@@ -1,6 +1,5 @@
 ---
 caption: A memento from the times of in-person discussions
-categories: blog-post
 date: '2020-07-29 08:00:00'
 description: Today is a publication day! Our companion papers just appeared on arXiv.
 layout: post

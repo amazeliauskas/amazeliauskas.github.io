@@ -1,10 +1,9 @@
 ---
 caption: Girls' Day 2023 registration &copy; Susanne Lencinas
-categories: blog-post
 date: 2023-04-27 00:00:00
 description: At the beginning of 2023, I was occupied with preparations for two significant events -- the 50th Heidelberg Physics Graduate Days and the Girls' Day 2023
 layout: post
-tags: GirlsDay
+tags: outreach
 thumbnail: assets/img/posts/girls_day_2023.jpg
 title: Physics outreach in Heidelberg
 ---

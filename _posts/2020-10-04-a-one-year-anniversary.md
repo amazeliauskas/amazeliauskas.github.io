@@ -1,6 +1,5 @@
 ---
 caption: A theoretical physicist in his natural environment
-categories: blog-post
 date: '2020-10-04 08:00:00'
 description: October 1st marked my first year work anniversary at CERN.
 layout: post

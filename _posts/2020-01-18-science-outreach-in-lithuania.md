@@ -1,6 +1,5 @@
 ---
 caption: Giving a talk at Theoretical Physics and Astronomy Institute
-categories: blog-post
 date: 2020-01-18 13:51:01
 description: During my long vacations in Lithuania, I decided to do some science outreach and I gave three presentations on my work at **CERN**.
 layout: post

@@ -1,6 +1,5 @@
 ---
 caption: "Near Rottalh\xFCtte at 2755m in the shadow of Jungfrau mountain"
-categories: blog-post
 date: 2022-09-01 00:00:00
 description: After three exciting years, my tenure as a CERN fellow has come to the end.
 layout: post

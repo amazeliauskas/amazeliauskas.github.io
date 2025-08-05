@@ -5,7 +5,6 @@ date: 2023-01-26 21:01:00
 description: It has been nearly four months since my start at Heidelberg as an Emmy Noether Group leader.
 tags: emmy
 caption: My office
-categories: blog-post
 thumbnail: assets/img/posts/office.jpg
 ---
 

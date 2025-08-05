@@ -1,6 +1,5 @@
 ---
 caption: The sorely missed view from the real office
-categories: blog-post
 date: '2020-04-19 21:41:01'
 description: On May 18 CERN has initiated a gradual restart of operations.
 layout: post

@@ -1,6 +1,5 @@
 ---
 caption: Shrine to Emmy Noether by her admirers at ITP
-categories: blog-post
 date: 2022-09-08 00:00:00
 description: On May 5 2022, I received the official confirmation that my grant proposal for a junior research group within the **Emmy Noether Programme** is funded by the German Research Foundation (DFG).
 layout: post

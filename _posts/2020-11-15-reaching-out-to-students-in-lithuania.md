@@ -1,6 +1,5 @@
 ---
 caption: National Student Academy (NMA) logo
-categories: blog-post
 date: '2020-11-15 08:00:00'
 description: There are two pieces of news.
 layout: post
