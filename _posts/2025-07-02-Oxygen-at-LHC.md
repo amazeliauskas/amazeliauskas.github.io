@@ -9,6 +9,7 @@ thumbnail: assets/img/posts/CERN2025/5.jpg
 images:
     compare: true
     slider: true
+related_publications: true
 ---
 
 
@@ -63,9 +64,7 @@ In summary, it has been an incredibly rewarding experience to be part of the col
 </swiper-container>
 
 
-<div class="publications">
-{% bibliography --cited %}
-<div>
+
 
 
 
