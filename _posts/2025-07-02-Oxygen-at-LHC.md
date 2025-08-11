@@ -4,7 +4,7 @@ title: First Oxygen Ion collisions at LHC
 date: 2025-07-02 11:01:00
 description: July 2-5, 2025, I made a short but memorable trip to CERN, where—for the first time in its history—the LHC collided oxygen ions.
 tags: CERN
-caption: Happy theorist in CERN Controll Centre
+caption: Happy theorist at ALICE control center during OO run
 thumbnail: assets/img/posts/CERN2025/5.jpg
 images:
     compare: true
@@ -15,7 +15,7 @@ related_publications: true
 
 From July 2nd to 5th, I made a short but memorable trip to CERN, where—for the first time in its history—the LHC collided oxygen ions. For several years, I have been a strong advocate for the unique physics opportunities presented by light-ion collisions at the LHC. Witnessing these collisions take place was a deeply rewarding moment.
 
-More than [five years ago]({% post_url 2020-12-27-my-first-organized-workshop %}), during my time as a CERN Fellow, we identified that the planned oxygen-oxygen (OO) collisions could provide an ideal testing ground for observing high-momentum energy loss signals in small systems—still an outstanding problem in the field. Following our publications, I co-organized a workshop on [the physics opportunities of proton-oxygen and oxygen-oxygen collisions](http://cern.ch/OppOatLHC) and presented the physics case to the LHC Committee. I went on to publish two more papers on observables in these systems {% cite  Kurkela:2021ctp Andronic:2021erx %}. Over time, community support for a dedicated light-ion run solidified, and the collisions finally took place during the first week of July.
+More than [five years ago]({% post_url 2020-07-29-from-discussion-to-publication %}), during my time as a CERN Fellow, we identified that the planned oxygen-oxygen (OO) collisions could provide an ideal testing ground for observing high-momentum energy loss signals in small systems—still an outstanding problem in the field. Following our publications {% cite Huss:2020whe Huss:2020dwe %}, I co-organized a workshop on [the physics opportunities of proton-oxygen and oxygen-oxygen collisions](http://cern.ch/OppOatLHC) and presented the physics case to the LHC Committee. I went on to publish two more papers on observables in these systems {% cite  Brewer:2021tyv  Gebhard:2024flv %}. Over time, community support for a dedicated light-ion run solidified, and the collisions finally took place during the first week of July.
 
 Remarkably, the run also included a one-fill session of neon-neon collisions, enabling comparative studies of nuclear shape effects between oxygen and neon. This opportunistic addition became possible thanks to colleagues who made a strong physics case and to accelerator physicists who demonstrated that a rapid switch to neon was feasible.
 
