@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-There is an open position for a bachelor/masters thesis about numerical simulations of viscous hydrodynamics in my group! [Contact me](/contact) via email if interested. 
+There is an open position for a bachelor/master thesis about numerical simulations of viscous hydrodynamics in my group! [Contact me](/contact) via email if interested. 
