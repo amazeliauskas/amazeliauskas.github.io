@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-This week I published two new papers: [Adiabatic hydrodynamization and quasinormal modes of nonthermal attractors](https://arxiv.org/abs/2510.15016) and [Minijet thermallization and jet transport coeffiecients in QCD kinetic theory](https://arxiv.org/abs/2510.25669). The former in collaboration with [Fabian](/people) and [Adam](/people)
+Several new paper by my group: [Bayesian Constraints on Pre-Equilibrium Jet Quenching
+and Predictions for Oxygen Collisions](https://arxiv.org/abs/2509.19430),  [Adiabatic hydrodynamization and quasinormal modes of nonthermal attractors](https://arxiv.org/abs/2510.15016), [Minijet thermallization and jet transport coeffiecients in QCD kinetic theory](https://arxiv.org/abs/2510.25669) and [Deriving a parton shower for jet thermalization in QCD plasmas](https://arxiv.org/abs/2510.25837). Well done [Fabian](/people) and [Adam](/people)!
