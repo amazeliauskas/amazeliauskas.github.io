@@ -1,31 +1,61 @@
 <div class="col">
   <a href="{% if profile.redirect %}{{ profile.redirect }}{% else %}{{ profile.url | relative_url }}{% endif %}">
     <div class="card h-100 mx-2 hoverable">
-                        <div class="card-header">
-      {% if profile.image %}
-        {% assign profile_image_path  = profile.image | prepend: 'assets/img/people/' %}
-
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-            {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-      {% endif %}
+      <div class="card-header">
+        {% if profile.image %}
+          {% assign profile_image_path = profile.image | prepend: 'assets/img/people/' %}
+          {% if profile.image_circular %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+          {% else %}
+            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+          {% endif %}
+          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+          {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+        {% endif %}
       </div>
+
       <div class="card-body">
         <h4 class="card-title">{{ profile.name }}</h4>
-        <p class="card-text">{{ profile.description }}
-        {% if profile.from %}<br>{{ profile.from }}  &mdash; {% if profile.to %} {{ profile.to }} {% endif %}
-          {% endif %}</p>
-    <!-- Social -->
-    {% if profile.social %}
-      <div class="social">
-        <div class="contact-icons">{% include profile_social.liquid %}</div>
-      </div>
-    {% endif %}
+        <p class="card-text">
+          <br>{{ profile.description }}
+          {% if profile.thesis %}
+            {% if profile.thesis.abstract %}
+            <br>
+            <!-- thesis title as modal trigger; prevent parent link navigation -->
+            <span 
+              class="thesis-zoom-trigger"
+              data-target="thesis-zoom-{{ profile.name | slugify }}-{{ profile.thesis.title | slugify }}"
+              style="cursos: pointer; color: inherit;">
+              {{ profile.thesis.title }}
+            </span>
+            {% else %}
+            <br>{{profile.thesis.title}}
+            {% endif %}
+
+
+          {% endif %}
+          {% if profile.from %}<br>{{ profile.from }}  &mdash; {% if profile.to %} {{ profile.to }} {% endif %}{% endif %}
+        </p>
+
+        {% if profile.social %}
+        <div class="social">
+          <div class="contact-icons">{% include profile_social.liquid %}</div>
+        </div>
+        {% endif %}
       </div>
     </div>
   </a>
+</div>
+
+<!-- Thesis Modal Content -->
+<div id="thesis-zoom-{{ profile.name | slugify }}-{{ profile.thesis.title | slugify }}"
+     class="thesis-zoom-content"
+     style="display:none;">
+  <h4>{{ profile.thesis.title }}</h4>
+  {% if profile.thesis.date %}
+    <p><strong>Submission Date:</strong> {{ profile.thesis.date }}</p>
+  {% endif %}
+  {% if profile.thesis.abstract %}
+    <p><strong>Abstract:</strong><br>{{ profile.thesis.abstract }}</p>
+  {% endif %}
 </div>
