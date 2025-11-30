@@ -1,38 +1,189 @@
 ---
 layout: page
 ---
+
 <!-- pages/projects.md -->
 <div class="profiles">
-{% if page.display_status %}
-  <!-- Display categorized projects -->
-  {% for status in page.display_status %}
-  <a id="{{ status }}" href=".#{{ status }}">
-    <h2 class="category">{{ status }}</h2>
-  </a>
-  {% assign categorized_profiles = page.profiles | where: "status", status %}
-  {% assign sorted_profiles = categorized_profiles | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  <div class="d-flex align-content-stretch justify-content-center flex-wrap no-gutters mx-n2 row row-cols-1 row-cols-md-3">
-    {% for profile in sorted_profiles %}
-      {% include my_profile.liquid %}
+  {% if page.thumbnail %}
+    <header>
+      <div class="row justify-content-sm-center">
+        <div class="col-sm mt-3 mt-md-0">
+          <img class="card-img" src="{{page.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+        </div>
+      </div>
+      <div class="caption">
+        {{ page.caption }}
+      </div>
+    </header>
+  {% endif %}
+
+  {% if page.display_status %}
+    <!-- Display categorized projects -->
+    {% for status in page.display_status %}
+      <a id="{{ status }}" href=".#{{ status }}">
+        <h2 class="category">{{ status }}</h2>
+      </a>
+      {% assign categorized_profiles = page.profiles | where: "status", status %}
+      {% assign sorted_profiles = categorized_profiles | sort: "importance" %}
+      <!-- Generate cards for each project -->
+      <div class="d-flex align-content-stretch justify-content-center flex-wrap no-gutters mx-n2 row row-cols-1 row-cols-md-3">
+        {% for profile in sorted_profiles %}
+          {% include my_profile.liquid %}
+        {% endfor %}
+      </div>
     {% endfor %}
-  </div>
-  {% endfor %}
-
-{% else %}
-
-<!-- Display projects without status -->
-
-{% assign sorted_profiles = page.profiles | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-  <div class="row row-cols-1 row-cols-md-2">
-    {% for profile in sorted_profiles %}
-      {% include my_profile.liquid %}
-    {% endfor %}
-  </div>
+  {% else %}
+    <!-- Display projects without status -->
+    {% assign sorted_profiles = page.profiles | sort: "importance" %}
+    <!-- Generate cards for each project -->
+    <div class="row row-cols-1 row-cols-md-2">
+      {% for profile in sorted_profiles %}
+        {% include my_profile.liquid %}
+      {% endfor %}
+    </div>
   {% endif %}
 </div>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Capture original website colors before creating overlay
+  originalBackgroundColor = getComputedStyle(document.body).backgroundColor;
+  originalTextColor = getComputedStyle(document.body).color;
+  originalLinkColor = getComputedStyle(document.querySelector('a') || document.body).color;
+  
+  // Create modal overlay
+  const modalOverlay = document.createElement('div');
+  modalOverlay.className = 'thesis-modal-overlay';
+  modalOverlay.style.cssText = `
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+    padding: 20px;
+  `;
+  
+  const modalContent = document.createElement('div');
+  modalContent.className = 'thesis-modal-content';
+  modalContent.style.cssText = `
+    background: ${originalBackgroundColor};
+    color: ${originalTextColor};
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 800px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0);
+    position: relative;
+    border: 1px solid ${originalTextColor}20; /* Add transparency to border */
+  `;
+  
+  // Create close button that we'll preserve
+  const closeButton = document.createElement('button');
+  closeButton.innerHTML = '&times;';
+  closeButton.className = 'thesis-modal-close';
+  closeButton.style.cssText = `
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    background: none;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+    color: ${originalTextColor};
+    width: 35px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    z-index: 10001;
+    transition: all 0.2s ease;
+  `;
+  
+  // Add hover effect for close button
+  closeButton.addEventListener('mouseenter', function() {
+    this.style.backgroundColor = `${originalTextColor}15`;
+  });
+  closeButton.addEventListener('mouseleave', function() {
+    this.style.backgroundColor = 'transparent';
+  });
 
+  modalContent.appendChild(closeButton);
+  modalOverlay.appendChild(modalContent);
+  document.body.appendChild(modalOverlay);
+
+  // Close modal function
+  function closeModal() {
+    modalOverlay.style.display = 'none';
+  }
+
+  // Set up close button event listener once
+  closeButton.addEventListener('click', closeModal);
+  
+  // Close when clicking on overlay background
+  modalOverlay.addEventListener('click', function(e) {
+    if (e.target === modalOverlay) {
+      closeModal();
+    }
+  });
+
+  // Escape key to close
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      closeModal();
+    }
+  });
+
+  // Thesis link click handlers
+  document.querySelectorAll(".thesis-zoom-trigger").forEach(function (element) {
+    element.addEventListener("click", function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      const id = this.dataset.target;
+      const contentElement = document.getElementById(id);
+      
+      if (contentElement) {
+        // Clear previous content (except close button)
+        const existingContent = modalContent.querySelector('.thesis-content-wrapper');
+        if (existingContent) {
+          existingContent.remove();
+        }
+        
+        // Create main content wrapper
+        const contentWrapper = document.createElement('div');
+        contentWrapper.className = 'thesis-content-wrapper';
+        
+        // Create the background box for thesis content with original colors
+        const thesisBox = document.createElement('div');
+        thesisBox.className = 'thesis-content-box';
+        thesisBox.style.cssText = `
+          background: ${originalBackgroundColor};
+          color: ${originalTextColor};
+          padding: 1.5rem;
+          border-radius: 8px;
+          border: 1px solid ${originalTextColor}20;
+          margin-top: 0.5rem;
+          box-shadow: 0 4px 15px rgba(0, 0, 0, 0);
+          // border-left: 4px solid ${originalLinkColor};
+        `;
+        
+        thesisBox.innerHTML = contentElement.innerHTML;
+        contentWrapper.appendChild(thesisBox);
+        
+        // Insert after close button
+        closeButton.insertAdjacentElement('afterend', contentWrapper);
+        
+        modalOverlay.style.display = 'flex';
+      }
+    });
+  });
+});
+</script>
