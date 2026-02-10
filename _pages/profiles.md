@@ -31,6 +31,15 @@ profiles:
     social: true # includes social icons at the bottom of the page
     email: barrera@thphys.uni-heidelberg.de
     from: 2025
+  - name: Ferdinando Frascà
+    description: Postdoctoral researcher
+    image: ferdinando.jpeg
+    status: current
+    image_circular: true # crops the image to make it circular
+    importance: 2
+    social: true # includes social icons at the bottom of the page
+    email: frasca@thphys.uni-heidelberg.de
+    from: 2026
   - name: Toshali Mitra
     description: Postdoctoral researcher
     image: toshali.jpg
@@ -40,16 +49,6 @@ profiles:
     social: true # includes social icons at the bottom of the page
     email: mitra@thphys.uni-heidelberg.de
     from: 2025 
-  - name: Adam Takacs
-    description: Postdoctoral researcher
-    image: adam.jpg
-    status: current
-    image_circular: true # crops the image to make it circular
-    importance: 2
-    social: true # includes social icons at the bottom of the page
-    email: a.takacs@thphys.uni-heidelberg.de
-    url: https://adam-takacs.github.io/
-    from: 2023
   - name: Jannis Gebhard
     description: PhD student
     image: jannis.jpg
@@ -84,8 +83,21 @@ profiles:
     importance: 5
     image_circular: true # crops the image to make it circular
     social: true # includes social icons at the bottom of the page
-    email: q.figurera@thphys.uni-heidelberg.de    
+    email: figueroa@thphys.uni-heidelberg.de    
     from: 2025
+  - name: Adam Takacs
+    description: Postdoctoral researcher
+    image: adam.jpg
+    status: past
+    image_circular: true # crops the image to make it circular
+    importance: 2
+    social: false # includes social icons at the bottom of the page
+    email: a.takacs@thphys.uni-heidelberg.de
+    url: https://theory.cern/roster/takacs-adam
+    thesis: 
+      title: moved to CERN TH as a senior reserach fellow
+    from: 2023
+    to: 2025
   - name: Jannis Gebhard
     description: Master thesis
     image: jannis.jpg
@@ -105,7 +117,7 @@ profiles:
     importance: 5
     image_circular: true # crops the image to make it circular
     social: false # includes social icons at the bottom of the page
-    email: q.figurera@thphys.uni-heidelberg.de   
+    email: figueroa@thphys.uni-heidelberg.de   
     thesis: 
       title: Soft pion enhacement due to resonance decays with spectral functions
       date: December 2024
