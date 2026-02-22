@@ -31,15 +31,6 @@ profiles:
     social: true # includes social icons at the bottom of the page
     email: barrera@thphys.uni-heidelberg.de
     from: 2025
-  - name: Ferdinando Frascà
-    description: Postdoctoral researcher
-    image: ferdinando.jpeg
-    status: current
-    image_circular: true # crops the image to make it circular
-    importance: 2
-    social: true # includes social icons at the bottom of the page
-    email: frasca@thphys.uni-heidelberg.de
-    from: 2026
   - name: Toshali Mitra
     description: Postdoctoral researcher
     image: toshali.jpg
@@ -48,7 +39,16 @@ profiles:
     importance: 2
     social: true # includes social icons at the bottom of the page
     email: mitra@thphys.uni-heidelberg.de
-    from: 2025 
+    from: 2025
+  - name: Ferdinando Frascà
+    description: PhD student
+    image: ferdinando.jpeg
+    status: current
+    image_circular: true # crops the image to make it circular
+    importance: 2
+    social: true # includes social icons at the bottom of the page
+    email: frasca@thphys.uni-heidelberg.de
+    from: 2026
   - name: Jannis Gebhard
     description: PhD student
     image: jannis.jpg
