@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Q'inich Figueroa defended his bachelor thesis: soft pion enhacement due to resonance decays with spectral functions.
+Q'inich Figueroa defended his bachelor thesis: soft pion enhancement due to resonance decays with spectral functions.

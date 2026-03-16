@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Ferdinando Frascà](\people) is joining the group as a new PhD! 
+[Ferdinando Frascà](/people) is joining the group as a new PhD! 

@@ -19,7 +19,7 @@ going to Poland, which is hosting a large number of Ukrainian refugees.
 
 Because I am Lithuanian Krakow for me is a very special city. As the ancient capital
 of the Polish-Lithuanian commonwealth, Krakow has many connections with Lithuanian history.
-It is always been a pleasure for me to visit this beautiful city. I made sure to come a couple of days in advance to do more sightseeing.
+It has always been a pleasure for me to visit this beautiful city. I made sure to come a couple of days in advance to do more sightseeing.
 Despite the looming war, I found the city unchanged, with the same majestic town square, gorgeous churches, and
 throngs of tourists. The only notable change was the displayed messages of support for Ukraine.
 

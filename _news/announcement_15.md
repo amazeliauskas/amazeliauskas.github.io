@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are happy to welcome [Sergio Barrera Cabodevila](\people) to the group as a new postdoctoral reasearcher!
+We are happy to welcome [Sergio Barrera Cabodevila](/people) to the group as a new postdoctoral researcher!

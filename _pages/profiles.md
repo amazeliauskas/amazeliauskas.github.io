@@ -95,7 +95,7 @@ profiles:
     email: a.takacs@thphys.uni-heidelberg.de
     url: https://theory.cern/roster/takacs-adam
     thesis: 
-      title: moved to CERN TH as a senior reserach fellow
+      title: moved to CERN TH as a senior research fellow
     from: 2023
     to: 2025
   - name: Jannis Gebhard
@@ -119,7 +119,7 @@ profiles:
     social: false # includes social icons at the bottom of the page
     email: figueroa@thphys.uni-heidelberg.de   
     thesis: 
-      title: Soft pion enhacement due to resonance decays with spectral functions
+      title: Soft pion enhancement due to resonance decays with spectral functions
       date: December 2024
       abstract: > 
         Hydrodynamical models have shown great success in describing the experimental data measured from heavy-ion collisions. Nevertheless, there still are disparities between the predictions of these models and the transverse momentum spectrum of low momentum pions, leading to the so called soft-pion puzzle. In this thesis, we investigate two approaches to address the soft-pion enhancement observed in Pb-Pb collisions at $\sqrt{s_{NN}} = 2.76\, \mathrm{TeV}$ and $\sqrt{s_{NN}} = 5.02\, \mathrm{TeV}$ using the hadron resonance gas (HRG) model combined with the blast-wave framework. The first approach examines how the number of resonances included in the HRG model affects the blast-wave model fit-parameters when accounting for resonance feed-down. By varying the decay lists used to compute the pion spectrum at 0–5\% centrality, we observe that while the inclusion of additional states improves the model’s fit to data, the reduced chi-squared values ($\chi^2/\text{dof}$) remain significantly above unity, particularly at $\sqrt{s_{NN}} = 5.02\, \mathrm{TeV}$. This suggests that increasing the number of resonances alone is insufficient to resolve the soft-pion puzzle.
