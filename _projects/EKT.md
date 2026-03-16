@@ -20,4 +20,3 @@ Therefore, my group is extending EKT computations to study the
 jet quenching and collective flow phenomena at different system sizes {% cite Kurkela:2021ctp  Zhou:2024ysb %}. Our goal is to predict the rich set
 of kinematic, chemical, and electromagnetic signals of
 collective phenomena observed at the LHC.
-

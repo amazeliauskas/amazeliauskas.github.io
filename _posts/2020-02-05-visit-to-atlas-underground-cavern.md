@@ -1,6 +1,6 @@
 ---
 caption: Happy theorist in front of ATLAS detector
-date: '2020-02-05 09:00:01'
+date: "2020-02-05 09:00:01"
 description: One of the privileges of working at CERN is the opportunity to see the particle experiments up close.
 layout: post
 tags: CERN

@@ -31,17 +31,18 @@ pagination:
 
 {% assign all_tags = "" | split : "," %}
 
-  {% for post in site.posts %}
-    {% if post.tags %}
-      {% for tag in post.tags %}
-        {% unless all_tags contains tag %}
-          {% assign all_tags = all_tags | push: tag %}
-        {% endunless %}
-      {% endfor %}
-    {% endif %}
-  {% endfor %}
+{% for post in site.posts %}
+{% if post.tags %}
+{% for tag in post.tags %}
+{% unless all_tags contains tag %}
+{% assign all_tags = all_tags | push: tag %}
+{% endunless %}
+{% endfor %}
+{% endif %}
+{% endfor %}
 
 {% if all_tags.size > 0 %}
+
   <div class="tag-category-list">
     <ul class="p-0 m-0">
       {% for tag in all_tags %}

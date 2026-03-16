@@ -1,6 +1,6 @@
 ---
 caption: The sorely missed view from the real office
-date: '2020-04-19 21:41:01'
+date: "2020-04-19 21:41:01"
 description: On May 18 CERN has initiated a gradual restart of operations.
 layout: post
 tags: CERN
@@ -9,12 +9,12 @@ title: Remote talks and reopening
 ---
 
 [On May 18, CERN](https://home.cern/news/news/cern/gradual-restart-plan-cerns-site-activities)
- has initiated a gradual restart of operations. There are many
+has initiated a gradual restart of operations. There are many
 weeks before I will be able to resume working normally. However, today I had a chance to go back to my office for the first
-time after three months of teleworking. 
+time after three months of teleworking.
 
 I am very privileged with my lockdown arrangements and I have no complaints.
-I was able to work successfully and productively from home. 
+I was able to work successfully and productively from home.
 However, my 4G internet hotspot is not always reliable and I was invited to give an online seminar
 for which I wanted to avoid any technical issues.
 Permission was granted, the site was accessed and the talk was successfully done.
@@ -23,7 +23,7 @@ And just enough time to enjoy the view of the Jura mountains!
 I quite liked the experience of giving a talk online and I was able to enrich
 my presentation with technological tricks, e.g. writing on the slides during the talk.
 However, not seeing the audience (not everybody had their videos on)
- is a clear downside, especially during the question session. At the same time, I am participating
+is a clear downside, especially during the question session. At the same time, I am participating
 in a remote TH institute and I was following the presentations and discussions from home.
 One of the consequences of all talks and conferences done remotely
 is that there are no barriers (at least in terms of travel expenses) to participate in them.

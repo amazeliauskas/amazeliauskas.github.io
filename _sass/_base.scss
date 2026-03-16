@@ -195,25 +195,25 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
-    text-align: center;
+  text-align: center;
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-  .address {
-    .name {
-      font-size: 1.2rem;
+    .address {
+      .name {
+        font-size: 1.2rem;
+      }
+      .post {
+        font-size: 0.8rem;
+      }
+      margin-bottom: 5px;
+      margin-top: 5px;
+      p {
+        display: inline-block;
+        margin: 0;
+      }
     }
-    .post {
-      font-size: .8rem;
-    }
-    margin-bottom: 5px;
-    margin-top: 5px;
-    p {
-      display: inline-block;
-      margin: 0;
-    }
-  }
     p {
       display: inline-block;
       margin: 0;
@@ -692,17 +692,14 @@ footer.sticky-bottom {
   }
 
   .social {
-      .contact-icons {
-         font-size: 2rem;
-       }
-     }
-         
-     .col {
-        padding-bottom: 1rem;
-      }
-  
-  
+    .contact-icons {
+      font-size: 2rem;
+    }
+  }
 
+  .col {
+    padding-bottom: 1rem;
+  }
 
   h2.category {
     color: var(--global-divider-color);
@@ -713,8 +710,6 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
-
-
 
 // Publications
 

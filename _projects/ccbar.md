@@ -17,4 +17,3 @@ Our study introduces a compact framework to account for repeated interactions be
 - Enhanced Production – The medium boosts the production of such pairs, especially when the momentum transfer is comparable to the quark mass.
 
 These effects are particularly significant for charm quarks in heavy-ion collisions, as seen in ccbar production. Interestingly, the same QCD formalism that explains jet suppression also predicts enhanced production of cbar pairs in jets, a phenomenon measurable through D⁰-tagged jets. This work highlights how the QGP modifies fundamental processes in QCD, offering a new avenue for probing the medium’s properties.
-

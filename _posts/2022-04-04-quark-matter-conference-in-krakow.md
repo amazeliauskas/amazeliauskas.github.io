@@ -10,7 +10,7 @@ title: Quark Matter conference in Krakow
 
 From the 4th to the 10th of April, 2022 the [XXIX Quark Matter](https://qm2021.syskonf.pl/) conference took place
 in Krakow, Poland. It was the first major conference for me and many of my colleagues
-after the 2019 Quark Matter conference in the fateful Wuhan, China. 
+after the 2019 Quark Matter conference in the fateful Wuhan, China.
 Although it looked like the world was emerging from the pandemic restrictions,
 many people were prevented from attending the conference due to the Russian invasion of
 neighbouring Ukraine. Scientists with Russian affiliations were expelled from
@@ -26,15 +26,14 @@ throngs of tourists. The only notable change was the displayed messages of suppo
 I missed attending the in-person conference. Nowhere else, you can grab 2-3 physicists from
 different institutions and have a quick spontaneous discussion. Also, seeing hundreds of
 other heavy-ion physicists bring a sense of community, which is crucial
-for moving forward as a field. There were many exciting talks 
+for moving forward as a field. There were many exciting talks
 and I was proud to present my own work or see it presented by my co-authors.
-I was especially thrilled to see my friend and colleague Sören Schlichting being awarded [Zimányi medal](https://wigner.hu/en/zimanyi-medal) for 
+I was especially thrilled to see my friend and colleague Sören Schlichting being awarded [Zimányi medal](https://wigner.hu/en/zimanyi-medal) for
+
 > _For his groundbreaking work on turbulence in Yang-Mill
-fluids and its implications for thermalization in heavy ion collisions, and his important
-contribution to matching the nonequilibrium initial stage of heavy ion collisions to
-hydrodynamics with QCD kinetic theory_.
-
-
+> fluids and its implications for thermalization in heavy ion collisions, and his important
+> contribution to matching the nonequilibrium initial stage of heavy ion collisions to
+> hydrodynamics with QCD kinetic theory_.
 
 Unfortunately, there were also some unpleasant incidents at the conference. A great many
 of the conference participants became infected with COVID during or after the conference. After two years of successfully avoiding

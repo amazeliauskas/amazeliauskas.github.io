@@ -9,10 +9,10 @@ category: current
 related_publications: false
 ---
 
-The high-energy nuclear collisions create a fireball of hot and dense QCD matter with restored chiral symmetry. As the fireball expands and cools, the QCD matter transits a chiral cross-over, which becomes a second-order phase transition in the limit of massless quarks. 
+The high-energy nuclear collisions create a fireball of hot and dense QCD matter with restored chiral symmetry. As the fireball expands and cools, the QCD matter transits a chiral cross-over, which becomes a second-order phase transition in the limit of massless quarks.
 Lattice QCD calculations show that the quark-gluon plasma goes through
 a smooth crossover transition at T = 156.5 MeV. Similar temperature is obtained
-phenomenologically by thermal model fits to the produced yields of hadrons and light nuclei. 
+phenomenologically by thermal model fits to the produced yields of hadrons and light nuclei.
 Current experimental evidence for the chiral transition dynamics is limited, but there are
 hints, e.g., from the yields of soft pions (the Goldstone bosons of the transition) which do not fit well with
 current hydrodynamic models.
@@ -23,7 +23,3 @@ Universal quantities, such as scaling exponents, can be accurately described wit
 motivate their full exploration at the time. We perform a detailed numerical and analytical study of the out-of-equilibrium dynamics of Model G by studying quenches of the system from the high temperature, unbroken phase to the broken phase. In addition, we explore the role of quantum fluctuations within the O(4) symmetric linear sigma model using the self-
 consistently resummed large-N expansion to next-to-leading order. This can be efficiently formulated in terms
 of the two-particle irreducible (2PI) quantum effective action. By comparing results from our quantum field-theoretical approach with classical Langevin simulations, we investigate the impact of quantum fluctuations on the non-equilibrium chiral dynamics.
-
-
-
-

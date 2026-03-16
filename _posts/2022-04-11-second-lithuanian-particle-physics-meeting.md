@@ -15,15 +15,15 @@ government institutions.
 The meeting started with a round of short introductions. As many of the participants gave talks
 last year, the introductions allowed us to refresh each other's memories and advertise
 any future plans. Next, we had the pleasure of listening to the presentation by
- Mario Pimenta from Portugal. Mario is the director of LIP --- Portuguese particle laboratory
+Mario Pimenta from Portugal. Mario is the director of LIP --- Portuguese particle laboratory
 and he gave a short account of how LIP and the particle physics community was created in Portugal,
-nearly 40 years ago. Portugal's experience is relevant to Lithuania, where particle physics 
+nearly 40 years ago. Portugal's experience is relevant to Lithuania, where particle physics
 was almost nearly non-existent before Lithuania joined CERN in 2018.
 
-After the guest's presentation, we started the discussion of particle physics 
+After the guest's presentation, we started the discussion of particle physics
 in Lithuania. It was particularly welcoming that representatives from Foreign and Education
 Ministries, Vilnius, and Kaunas Universities attended LPPM2022 and contributed to the discussion.
-Participants were able to raise their concerns directly to the people responsible 
+Participants were able to raise their concerns directly to the people responsible
 for shaping the particle physics initiatives in Lithuania.
 LPPM2022 also hosted three scientists from Lithuania, who have returned from abroad. Their
 experience returning to the homeland is very relevant to many of the meeting attendants.

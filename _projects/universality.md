@@ -1,7 +1,7 @@
 ---
 layout: my_project
-title: Universality of far-from-equilibrium dynamics 
-description: 
+title: Universality of far-from-equilibrium dynamics
+description:
 img: universality.png
 caption: The early and late time attractors in nuclear collisions
 importance: 2
@@ -16,7 +16,6 @@ shown that far-from-equilibrium quantum systems rapidly approach a simple trajec
 (attractor) that does not depend on the details of initial conditions. Such attractor behaviour is universal
 and can be found in systems ranging from non-relativistic scalar theories to strongly-correlated QFTs
 described by gauge/gravity duality {% cite Berges:2020fwq %}.
-
 
 A system near a non-thermal attractor exhibit a self-similar behaviour. For example, the time evolution
 of particle distribution at early stages of heavy-ion collisions can be described by rescaling the initial

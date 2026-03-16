@@ -6,14 +6,14 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
     <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+      <div class="col-sm mt-3 mt-md-0">
         {% assign my_path = page.img | prepend: 'assets/img/projects/' %}
-    <img class="card-img" src="{{my_path | relative_url}}" style="object-fit: cover; width: 90%" alt="image">
+        <img class="card-img" src="{{my_path | relative_url}}" style="object-fit: cover; width: 90%" alt="image">
+      </div>
     </div>
-  </div>
-<div class="caption">
-	{{ page.caption }}
-</div>
+    <div class="caption">
+      {{ page.caption }}
+    </div>
   </header>
 
   <article>

@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-
 <!-- pages/projects.md -->
 <div class="profiles">
   {% if page.thumbnail %}
@@ -23,8 +22,8 @@ layout: page
       <a id="{{ status }}" href=".#{{ status }}">
         <h2 class="category">{{ status }}</h2>
       </a>
-      {% assign categorized_profiles = page.profiles | where: "status", status %}
-      {% assign sorted_profiles = categorized_profiles | sort: "importance" %}
+      {% assign categorized_profiles = page.profiles | where: 'status', status %}
+      {% assign sorted_profiles = categorized_profiles | sort: 'importance' %}
       <!-- Generate cards for each project -->
       <div class="d-flex align-content-stretch justify-content-center flex-wrap no-gutters mx-n2 row row-cols-1 row-cols-md-3">
         {% for profile in sorted_profiles %}
@@ -34,7 +33,7 @@ layout: page
     {% endfor %}
   {% else %}
     <!-- Display projects without status -->
-    {% assign sorted_profiles = page.profiles | sort: "importance" %}
+    {% assign sorted_profiles = page.profiles | sort: 'importance' %}
     <!-- Generate cards for each project -->
     <div class="row row-cols-1 row-cols-md-2">
       {% for profile in sorted_profiles %}
@@ -45,16 +44,16 @@ layout: page
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  // Capture original website colors before creating overlay
-  originalBackgroundColor = getComputedStyle(document.body).backgroundColor;
-  originalTextColor = getComputedStyle(document.body).color;
-  originalLinkColor = getComputedStyle(document.querySelector('a') || document.body).color;
-  
-  // Create modal overlay
-  const modalOverlay = document.createElement('div');
-  modalOverlay.className = 'thesis-modal-overlay';
-  modalOverlay.style.cssText = `
+  document.addEventListener('DOMContentLoaded', function () {
+    // Capture original website colors before creating overlay
+    originalBackgroundColor = getComputedStyle(document.body).backgroundColor;
+    originalTextColor = getComputedStyle(document.body).color;
+    originalLinkColor = getComputedStyle(document.querySelector('a') || document.body).color;
+
+    // Create modal overlay
+    const modalOverlay = document.createElement('div');
+    modalOverlay.className = 'thesis-modal-overlay';
+    modalOverlay.style.cssText = `
     position: fixed;
     top: 0;
     left: 0;
@@ -67,10 +66,10 @@ document.addEventListener("DOMContentLoaded", function () {
     z-index: 10000;
     padding: 20px;
   `;
-  
-  const modalContent = document.createElement('div');
-  modalContent.className = 'thesis-modal-content';
-  modalContent.style.cssText = `
+
+    const modalContent = document.createElement('div');
+    modalContent.className = 'thesis-modal-content';
+    modalContent.style.cssText = `
     background: ${originalBackgroundColor};
     color: ${originalTextColor};
     padding: 2rem;
@@ -83,12 +82,12 @@ document.addEventListener("DOMContentLoaded", function () {
     position: relative;
     border: 1px solid ${originalTextColor}20; /* Add transparency to border */
   `;
-  
-  // Create close button that we'll preserve
-  const closeButton = document.createElement('button');
-  closeButton.innerHTML = '&times;';
-  closeButton.className = 'thesis-modal-close';
-  closeButton.style.cssText = `
+
+    // Create close button that we'll preserve
+    const closeButton = document.createElement('button');
+    closeButton.innerHTML = '&times;';
+    closeButton.className = 'thesis-modal-close';
+    closeButton.style.cssText = `
     position: absolute;
     top: 15px;
     right: 20px;
@@ -106,65 +105,65 @@ document.addEventListener("DOMContentLoaded", function () {
     z-index: 10001;
     transition: all 0.2s ease;
   `;
-  
-  // Add hover effect for close button
-  closeButton.addEventListener('mouseenter', function() {
-    this.style.backgroundColor = `${originalTextColor}15`;
-  });
-  closeButton.addEventListener('mouseleave', function() {
-    this.style.backgroundColor = 'transparent';
-  });
 
-  modalContent.appendChild(closeButton);
-  modalOverlay.appendChild(modalContent);
-  document.body.appendChild(modalOverlay);
+    // Add hover effect for close button
+    closeButton.addEventListener('mouseenter', function () {
+      this.style.backgroundColor = `${originalTextColor}15`;
+    });
+    closeButton.addEventListener('mouseleave', function () {
+      this.style.backgroundColor = 'transparent';
+    });
 
-  // Close modal function
-  function closeModal() {
-    modalOverlay.style.display = 'none';
-  }
+    modalContent.appendChild(closeButton);
+    modalOverlay.appendChild(modalContent);
+    document.body.appendChild(modalOverlay);
 
-  // Set up close button event listener once
-  closeButton.addEventListener('click', closeModal);
-  
-  // Close when clicking on overlay background
-  modalOverlay.addEventListener('click', function(e) {
-    if (e.target === modalOverlay) {
-      closeModal();
+    // Close modal function
+    function closeModal() {
+      modalOverlay.style.display = 'none';
     }
-  });
 
-  // Escape key to close
-  document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape') {
-      closeModal();
-    }
-  });
+    // Set up close button event listener once
+    closeButton.addEventListener('click', closeModal);
 
-  // Thesis link click handlers
-  document.querySelectorAll(".thesis-zoom-trigger").forEach(function (element) {
-    element.addEventListener("click", function (e) {
-      e.preventDefault();
-      e.stopPropagation();
-      
-      const id = this.dataset.target;
-      const contentElement = document.getElementById(id);
-      
-      if (contentElement) {
-        // Clear previous content (except close button)
-        const existingContent = modalContent.querySelector('.thesis-content-wrapper');
-        if (existingContent) {
-          existingContent.remove();
-        }
-        
-        // Create main content wrapper
-        const contentWrapper = document.createElement('div');
-        contentWrapper.className = 'thesis-content-wrapper';
-        
-        // Create the background box for thesis content with original colors
-        const thesisBox = document.createElement('div');
-        thesisBox.className = 'thesis-content-box';
-        thesisBox.style.cssText = `
+    // Close when clicking on overlay background
+    modalOverlay.addEventListener('click', function (e) {
+      if (e.target === modalOverlay) {
+        closeModal();
+      }
+    });
+
+    // Escape key to close
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') {
+        closeModal();
+      }
+    });
+
+    // Thesis link click handlers
+    document.querySelectorAll('.thesis-zoom-trigger').forEach(function (element) {
+      element.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const id = this.dataset.target;
+        const contentElement = document.getElementById(id);
+
+        if (contentElement) {
+          // Clear previous content (except close button)
+          const existingContent = modalContent.querySelector('.thesis-content-wrapper');
+          if (existingContent) {
+            existingContent.remove();
+          }
+
+          // Create main content wrapper
+          const contentWrapper = document.createElement('div');
+          contentWrapper.className = 'thesis-content-wrapper';
+
+          // Create the background box for thesis content with original colors
+          const thesisBox = document.createElement('div');
+          thesisBox.className = 'thesis-content-box';
+          thesisBox.style.cssText = `
           background: ${originalBackgroundColor};
           color: ${originalTextColor};
           padding: 1.5rem;
@@ -174,16 +173,16 @@ document.addEventListener("DOMContentLoaded", function () {
           box-shadow: 0 4px 15px rgba(0, 0, 0, 0);
           // border-left: 4px solid ${originalLinkColor};
         `;
-        
-        thesisBox.innerHTML = contentElement.innerHTML;
-        contentWrapper.appendChild(thesisBox);
-        
-        // Insert after close button
-        closeButton.insertAdjacentElement('afterend', contentWrapper);
-        
-        modalOverlay.style.display = 'flex';
-      }
+
+          thesisBox.innerHTML = contentElement.innerHTML;
+          contentWrapper.appendChild(thesisBox);
+
+          // Insert after close button
+          closeButton.insertAdjacentElement('afterend', contentWrapper);
+
+          modalOverlay.style.display = 'flex';
+        }
+      });
     });
   });
-});
 </script>

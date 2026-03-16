@@ -7,11 +7,10 @@ tags: CERN
 caption: Happy theorist at ALICE control center during OO run
 thumbnail: assets/img/posts/CERN2025/5.jpg
 images:
-    compare: true
-    slider: true
+  compare: true
+  slider: true
 related_publications: true
 ---
-
 
 From July 2nd to 5th, I made a short but memorable trip to CERN, where—for the first time in its history—the LHC collided oxygen ions. For several years, I have been a strong advocate for the unique physics opportunities presented by light-ion collisions at the LHC. Witnessing these collisions take place was a deeply rewarding moment.
 
@@ -20,7 +19,6 @@ More than [five years ago]({% post_url 2020-07-29-from-discussion-to-publication
 Remarkably, the run also included a one-fill session of neon-neon collisions, enabling [comparative studies of nuclear shape effects between oxygen and neon]({% post_url 2024-11-17-light-ions %}). This opportunistic addition became possible thanks to colleagues who made a strong physics case and to accelerator physicists who demonstrated that a rapid switch to neon was feasible.
 
 During the oxygen run, I was fortunate to receive private tours of both the CERN Control Centre (CCC) and the ALICE Control Room. It was my first time visiting the CCC in Prévessin, which oversees the entire CERN accelerator complex. The room is enormous—lined with hundreds of monitors controlling everything from injections to cryogenics. I was particularly impressed by the fast turnaround of particle beams in the PS and SPS accelerators, which supply proton and ion beams to a wide array of CERN experiments. Once the LHC is filled, it may take 8–12 hours before the next injection, during which time experiments across the complex—including in the North Area—are conducted.
-
 
 Though the LHC is CERN’s flagship machine, it’s important to remember that the infrastructure supports a broad range of scientific studies, from medical isotopes and cosmic ray physics to cloud formation and neutrino research.
 
@@ -52,7 +50,6 @@ However, we can expect the first preliminary results to be shared at the upcomin
 
 In summary, it has been an incredibly rewarding experience to be part of the collective effort that contributed to running the world’s most advanced scientific experiment. It’s deeply inspiring to be surrounded by curious minds, all motivated to push the frontiers of knowledge and overcome technical challenges. This spirit, as CERN proudly puts it, is accelerating science.
 
-
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/CERN2025/1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/CERN2025/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -62,12 +59,3 @@ In summary, it has been an incredibly rewarding experience to be part of the col
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/CERN2025/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/CERN2025/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-
-
-
-
-
-
-
-
-

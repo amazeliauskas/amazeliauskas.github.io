@@ -1,7 +1,8 @@
 ---
 caption: Lithuanian Particle Physics Meeting logo
-date: '2021-03-21 00:00:00'
-description: On the 9th of March over 30 Lithuanian scientists with interest in particle physics gathered virtually for the first Lithuanian Particle Physics Meeting
+date: "2021-03-21 00:00:00"
+description:
+  On the 9th of March over 30 Lithuanian scientists with interest in particle physics gathered virtually for the first Lithuanian Particle Physics Meeting
   (LPPM2021).'
 layout: post
 tags: LPPM
@@ -12,10 +13,10 @@ title: First Lithuanian Particle Physics Meeting
 On the 9th of March, over 30 Lithuanian scientists with an interest in particle physics
 gathered virtually for the first [Lithuanian Particle Physics Meeting](http://cern.ch/LPPM2021) (LPPM2021).
 I was very happy to help organize this one-day event, which brought together small, but growing
-Lithuanian particle physics community. 
+Lithuanian particle physics community.
 
 In the past, there have not been many high-energy particle physics opportunities in Lithuania,
-so not surprisingly many of the young participants have received their education abroad or 
+so not surprisingly many of the young participants have received their education abroad or
 are currently studying in various foreign universities. However, since 2018 Lithuania
 has become an associated CERN member and the situation is changing. This prompted us to
 try and establish a global Lithuanian particle physics network.

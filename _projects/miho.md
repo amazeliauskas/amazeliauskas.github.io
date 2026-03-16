@@ -13,11 +13,10 @@ uncertainties due to missing higher orders (MHOs) in perturbation theory has bec
 pressing issue for collider phenomenology. Traditionally, the size of the MHOs is estimated
 through scale variation, a simple but ad hoc method without probabilistic interpretation.
 
-
 Bayesian approaches provide a compelling alternative to estimate the size of the MHOs,
 but it is not clear how to interpret the perturbative scales, like the factorisation and renormalisation scales, in a Bayesian framework. Recently, it was proposed that the scales can
 be incorporated as hidden parameters into a Bayesian model. In this paper, we thoroughly
-scrutinise Bayesian approaches to MHO estimation and systematically study the performance of different models on an extensive set of high-order calculations. 
+scrutinise Bayesian approaches to MHO estimation and systematically study the performance of different models on an extensive set of high-order calculations.
 
 We extend the framework in two significant ways {% cite Duhr:2021mfd%}. First, we define a new model that allows for asymmetric
 probability distributions. Second, we introduce a prescription to incorporate information on

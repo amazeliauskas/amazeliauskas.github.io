@@ -8,7 +8,6 @@ caption: Theatrical walk with prof. Emmy Noether (Anita Zieher)
 thumbnail: assets/img/posts/emmy_meeting_2023.jpg
 ---
 
-
 I recently had the opportunity to participate in my first [Emmy Noether Meeting](https://www.dfg.de/foerderung/programme/einzelfoerderung/emmy_noether/jahrestreffen/2023/index.html), which took place from July 7th to 9th. The Emmy Noether Meeting is an annual gathering of junior group leaders supported by the DFG Emmy Noether (EN) Programme. The event brought together approximately 140 scientists from various disciplines at a beautiful lake-side hotel in Potsdam, providing a platform for networking and knowledge exchange through a series of workshops.
 
 I was thrilled to participate in this event as it allowed me to connect with peers who share the same position and face similar challenges. It can sometimes feel isolating to be a group leader, with others looking to you for guidance. However, at the Emmy Noether Meeting, we had the opportunity to share our experiences and receive valuable advice from more experienced EN fellows and alumni.

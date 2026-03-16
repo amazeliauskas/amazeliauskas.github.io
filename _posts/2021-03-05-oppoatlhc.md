@@ -25,13 +25,11 @@ is a scientific committee dedicated to reviewing the progress and plans of the L
 advertise unique opportunities for oxygen collisions to this important scientific panel.
 The accompanying summary document of the **OppOatLHC** workshop has now been made public on arXiv[^1].
 
-
 The entire adventure was a great learning experience. Besides getting to organize a scientific event,
- I certainly became much more knowledgeable about the inner workings of CERN and LHC. 
-It takes an incredible amount of coordination (and compromise) among many hundreds and even 
+I certainly became much more knowledgeable about the inner workings of CERN and LHC.
+It takes an incredible amount of coordination (and compromise) among many hundreds and even
 thousands of people for ideas on paper to become actual running plans in reality. As a theorist
 working on, well, rather theoretical matters, it was very exciting to get a sense of making a  (even if small) contribution
 to bringing some of such ideas closer to becoming reality. Now, I just look forward to some **OppOatLHC**.
-
 
 [^1]: Jasmine Brewer, Aleksas Mazeliauskas and Wilke van der Schee, _Opportunities of OO and pO collisions at the LHC_ [arXiv:2103.01939](https://arxiv.org/abs/2103.01939)

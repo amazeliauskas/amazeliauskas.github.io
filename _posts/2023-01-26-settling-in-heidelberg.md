@@ -8,8 +8,7 @@ caption: My office
 thumbnail: assets/img/posts/office.jpg
 ---
 
-
-It has been nearly four months since my start at Heidelberg as an Emmy Noether Group leader. 
+It has been nearly four months since my start at Heidelberg as an Emmy Noether Group leader.
 The transition has been smooth, and I feel almost completely settled in. I have successfully filled PhD and postdoc positions in my group.
 My office is now furnished, and I have made it cozy with various decorations. The only outstanding issue is finding permanent accommodation, but anyone who tried searching in Heidelberg can attest it is not an easy task. :)
 
@@ -25,6 +24,3 @@ I am pleased to join ISOQUANT again, this time, as one of the Principal Investig
 I lived in Heidelberg before, so it was easy to fall back into the routine. However, I want to discover new things during my second stay here. First, I found a lovely pottery studio in the middle of the old town, where I can enjoy Saturday mornings at the throwing wheel. After a few years of watching chess online, I finally picked up the courage to visit the local chess club. One noticeable change in Germany since my last stay is the booming vegan market. I got intrigued and have been trying out vegan recipes!
 
 In summary, I am happy to be back at Heidelberg and look forward to future adventures. :)
-
-
-

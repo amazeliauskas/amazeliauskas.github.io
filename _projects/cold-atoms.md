@@ -19,6 +19,3 @@ and heavy-ion systems. In addition, at Collaborative Research Center [ISOQUANT](
 interdisciplinary project to explore the origins of collective behaviour in ultracold fermion experiment.
 
 [^1]: S. Brandstetter, P. Lunt, C. Heintze, G. Giacalone, L.H. Heyen, M. Galka, K. Subramanian, M. Holten, P.M. Preiss, S. Floerchinger, and S. Jochim, _Emergent hydrodynamic behaviour of few strongly interacting fermions,_, arXiv:2308.09699, accepted to Nature Physics
-
-
-

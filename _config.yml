@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Aleksas
-middle_name: 
+middle_name:
 last_name: Mazeliauskas
 email: a.mazeliauskas@thphys.uni-heidelberg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -17,7 +17,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://amazeliauskas.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: /contact/ # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -112,7 +112,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-     Please first contact me by email.
+  Please first contact me by email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: aleksas.eu # blog_name will be displayed in your blog page
-blog_description:  my experience as a scientist
+blog_description: my experience as a scientist
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -161,7 +161,7 @@ related_blog_posts:
 #  lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -197,7 +197,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
-
 
 announcements:
   enabled: true

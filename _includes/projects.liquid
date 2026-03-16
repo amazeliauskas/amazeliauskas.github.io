@@ -1,19 +1,19 @@
 <div class="col">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
     <div class="card mx-2 hoverable">
-                        <div class="card-header">
-      {% if project.img %}
-        {% assign my_path = project.img | prepend: 'assets/img/projects/' %}
+      <div class="card-header">
+        {% if project.img %}
+          {% assign my_path = project.img | prepend: 'assets/img/projects/' %}
 
-        {%
-          include figure.liquid
-          loading="eager"
-          path= my_path
-          sizes = "250px"
-          alt="project thumbnail"
-          class="card-img-top"
-        %}
-      {% endif %}
+          {%
+            include figure.liquid
+            loading="eager"
+            path= my_path
+            sizes = "250px"
+            alt="project thumbnail"
+            class="card-img-top"
+          %}
+        {% endif %}
       </div>
       <div class="card-body">
         <h4 class="card-title">{{ project.title }}</h4>

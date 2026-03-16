@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /projects/
-description: 
+description:
 nav: false
 nav_order: 1
 display_categories: [current, past]
@@ -11,14 +11,14 @@ horizontal: false
 
 I am fascinated by the **far-from-equilibrium dynamics** and **thermalization processes** of strongly correlated systems.
 My primary research interest is in studying the hot, dense nuclear matter--**quark-gluon plasma**--produced in high-energy particle colliders such as the **Large Hadron Collider (LHC)** at CERN and the
-**Relativistic Heavy Ion Collider (RHIC)** at BNL. 
+**Relativistic Heavy Ion Collider (RHIC)** at BNL.
 I have also worked on problems relevant for high-energy particle
 physics and neutron star physics.
 Recently, I have become interested in the remarkable similarities between non-equilibrium
-physics in nuclear collisions  and **cold-atom experiments**.
+physics in nuclear collisions and **cold-atom experiments**.
 Therefore, I am actively collaborating with
 cold-atom experts to explore **interdisciplinary connections** between these two fields, which lie at opposite
-ends of the energy scale. 
+ends of the energy scale.
 
 Below you can find more information about the research projects at my group.
 
@@ -76,5 +76,3 @@ Below you can find more information about the research projects at my group.
   {% endif %}
 {% endif %}
 </div>
-
-
