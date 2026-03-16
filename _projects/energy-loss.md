@@ -22,8 +22,8 @@ theoretical baseline in the absence of medium induced modification. Combined wit
 energy loss models in small systems, we were able to conclude that OO collisions have sufficient sensitivity to discover energy loss in a system
 of about 10 colliding nucleons. 
 
-To explore the physics opportunities of physics opportunities of OO and pO collisions at the LHC I organised a dedicated workshop in 2021 (see poster above) {% cite Brewer:2021kiv %}. One of the experimental
+To explore the physics opportunities of OO and pO collisions at the LHC I organised a dedicated workshop in 2021 (see poster above) {% cite Brewer:2021kiv %}. One of the experimental
 limitations of a short oxygen run at the LHC, is the lack of corresponding pp reference at the same collision energies. With colleagues we explored different methods
 of interpolating jet and hadron spectra from neighboring energies {% cite Brewer:2021tyv %}. We also proposed considering ratios of spectra at different collision energies.
-With my group, I continue different observables of energy loss in small collision systems. In particular, we computed the no-quenching baseline for
+With my group, I continue to study different observables of energy loss in small collision systems. In particular, we computed the no-quenching baseline for
 semi-inclusive hadron- and jet- triggered nuclear modification factors {% cite Gebhard:2024flv %}.

@@ -12,7 +12,7 @@ related_publications: true
 The high-energy heavy ion collisions (illustrated above) produce matter far from equilibrium. It is
 astounding that within yoctoseconds, the QCD matter can be successfully described by fluid dynamics.
 The leading explanation of such rapid QCD thermalisation is the attractor phenomena . It can be
-shown that far-from-equilbrium quantum systems rapidly approach a simple trajectory in phase-space
+shown that far-from-equilibrium quantum systems rapidly approach a simple trajectory in phase-space
 (attractor) that does not depend on the details of initial conditions. Such attractor behaviour is universal
 and can be found in systems ranging from non-relativistic scalar theories to strongly-correlated QFTs
 described by gauge/gravity duality {% cite Berges:2020fwq %}.
