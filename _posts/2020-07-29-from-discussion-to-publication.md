@@ -25,4 +25,5 @@ problem and a careful theoretical calculation to back it up. The very idea that 
 effect on the running of the largest scientific machine in the world, the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider), makes me very excited. Of course, all of this is my personal, subjective opinion, as the value and quality of scientific work are judged by peers and time. However, at the very least, I am proud of the work I have done.
 
 [^1]: Alexander Huss, Aleksi Kurkela, Aleksas Mazeliauskas, Risto Paatelainen, Wilke van der Schee and Urs Achim Wiedemann, _Discovering partonic rescattering in light nucleus collisions_ [arXiv:2007.13754](https://arxiv.org/abs/2007.13754)
+
 [^2]: Alexander Huss, Aleksi Kurkela, Aleksas Mazeliauskas, Risto Paatelainen, Wilke van der Schee and Urs Achim Wiedemann, _Predicting parton energy loss in small collision systems_ [arXiv:2007.13758](https://arxiv.org/abs/2007.13758)
