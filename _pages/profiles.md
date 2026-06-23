@@ -67,24 +67,24 @@ profiles:
     social: true # includes social icons at the bottom of the page
     email: f.zhou@thphys.uni-heidelberg.de
     from: 2022
-  - name: Lea Bartels
-    image: lea.jpg
+  - name: Q'inich Coc
+    image: qinich.jpg
     description: Master student
     status: current
     importance: 4
     image_circular: true # crops the image to make it circular
     social: true # includes social icons at the bottom of the page
-    email: lea.bartels@stud.uni-heidelberg.de
-    from: 2024
-  - name: Q'inich Coc
-    image: qinich.jpg
-    description: student assistant
+    email: figueroa@thphys.uni-heidelberg.de
+    from: 2026
+  - name: Manuel Mützel
+    image: manuel.jpg
+    description: Bachelor student
     status: current
     importance: 5
     image_circular: true # crops the image to make it circular
     social: true # includes social icons at the bottom of the page
-    email: figueroa@thphys.uni-heidelberg.de
-    from: 2025
+    email: m.muetzel@thphys.uni-heidelberg.de
+    from: 2026
   - name: Adam Takacs
     description: Postdoctoral researcher
     image: adam.jpg
@@ -108,8 +108,40 @@ profiles:
     email: gebhard@thphys.uni-heidelberg.de
     thesis:
       title: No-medium baseline for energy loss observables in Oxygen-Oxygen collisions
+      date: March 2024
+      abstract: >
+        The quark gluon plasma (QGP), a new state of hot and dense nuclear matter, is produced in ultrarelativistic heavy ion collisions. Anisotropic flow and the quenching of high-momentum probes are characteristic signatures of QGP formation. The observation of collective phenomena suggests the presence of medium-induced parton energy loss even in small collision systems. With the use of Monte Carlo Event Generators, the no-medium baseline for the jet nuclear modification factor $R_{AA}$ and semi-inclusive $I_{AA}$ in oxygen-oxygen collisions is computed at next-to-leading order. Deviations from unity demonstrate the importance of nuclear corrections to the initial state as well as the necessity of using a baseline as the reference for detecting medium effects experimentally. It is found that nPDF uncertainties constitute a major limitation in detecting potentially small energy loss effects. Yet, for jet-triggered observables, there exist kinematic regions in which errors cancel down to 2% whereas uncertainties in hadron-triggered measurements remain comparably large.
     from: 2023
     to: 2024
+  - name: Lea Bartels
+    image: lea.jpg
+    description: Master thesis
+    status: past
+    importance: 4
+    image_circular: true # crops the image to make it circular
+    social: false # includes social icons at the bottom of the page
+    email: lea.bartels@stud.uni-heidelberg.de
+    thesis:
+      title: "Angular Anisotropies in the Jet–Medium Response: Probing the Quark–Gluon Plasma with Effective Kinetic Theory"
+      date: May 2026
+      abstract: >
+        Effective kinetic theory (EKT) provides a weak-coupling framework for describing the evolution of perturbations in the quark–gluon plasma produced in heavy-ion collisions. Energy and momentum deposited by energetic jets generate collective excitations in the surrounding medium that manifest as anisotropic flow. The azimuthal harmonic flow coefficients $v_n$ of the medium response are computed around a reference axis offset by an angle $\theta$ from the jet direction, motivated by the single-prong contribution to the two-prong jet response.
+
+        A single-hit Monte Carlo integrator for the initial slopes $\dot v_n(t_0)$ is developed within linearised EKT. Agreement with an independent extraction from Boltzmann time-evolution data is found across the range of harmonics and 't Hooft couplings considered, establishing the single-hit framework as a reliable method for computing harmonic-flow slopes in EKT.
+
+        Early-time behaviour of $v_n$ is found to deviate from a simple diffusive-Gaussian broadening picture: the observed harmonic and energy dependences differ from the predicted $n^2$ and $E^{-2}$ scalings. The deviation is found to be specific to the angular structure of the observable.
+    from: 2024
+    to: 2026
+  - name: Q'inich Coc
+    image: qinich.jpg
+    description: student assistant
+    status: past
+    importance: 5
+    image_circular: true # crops the image to make it circular
+    social: false # includes social icons at the bottom of the page
+    email: figueroa@thphys.uni-heidelberg.de
+    from: 2025
+    to: 2026
   - name: Q'inich Coc
     image: qinich.jpg
     description: Bachelor thesis
