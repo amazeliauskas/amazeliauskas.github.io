@@ -4,8 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: CV_Mazeliauskas_2024_05.pdf
-description: For detailed CV see the pdf version.
+description: Research group leader in theoretical high-energy nuclear physics at Heidelberg University.
 toc:
   sidebar: left
 ---

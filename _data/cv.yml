@@ -9,10 +9,26 @@
       value: "[ˈaːlɛksɐs mɐzɛˈlʲæuˑskɐs]"
     - name: Nationality
       value: lithuanian
+    - name: ORCID
+      value: <a href="https://orcid.org/0000-0003-2893-7682">0000-0003-2893-7682</a>
+
+- title: Summary
+  type: list
+  contents:
+    - <b>Emmy Noether research group leader</b> at the Institute for Theoretical Physics, Heidelberg University, and <b>project leader</b> in the Collaborative Research Center ISOQUANT.
+    - "<b>Interests:</b> QCD thermalisation, kinetic theory and attractors; collectivity in small and large collision systems; jet quenching and hard probes in the quark-gluon plasma; chiral phase transition and non-equilibrium dynamics of ultracold quantum gases."
+    - "<b>Accumulated third party funding:</b> €2.5 million in research grants, plus workshop and programme funding."
+    - "<b>Teaching and supervision:</b> master level courses and invited lecture series; 3 postdocs, 3 PhD students, 3 master and 2 bachelor students supervised to date."
 
 - title: Education
   type: time_table
   contents:
+    - title: Habilitation in Physics
+      institution: Heidelberg University, Germany
+      year: 2026
+      description:
+        - <i>Venia legendi</i> in physics conferred on 15 July 2026
+
     - title: PhD in Physics
       institution: Stony Brook University, Department of Physics and Astronomy, United States
       year: 2012 - 2017
@@ -40,7 +56,7 @@
       year: 2024 - now
       description:
         - Project A01. Thermalisation dynamics and infrared phenomena in heavy-ion collisions with J. Berges and K. Reygers
-        - Project ABC. Origins of collectivity in few-body systems with T. Enss, S. Joachim and S. Masciocchi
+        - Project ABC. Origins of collectivity in few-body systems with T. Enss, S. Jochim and S. Masciocchi
         - Member of the Diversity, Equity and Inclusion team at CRC ISOQUANT
     - title: Emmy Noether research group leader
       institution: Institute for Theoretical Physics, Heidelberg University
@@ -51,6 +67,8 @@
     - title: Senior research fellow
       institution: Theoretical Physics Department, CERN
       year: 2019-2022
+      description:
+        - Research on QCD thermalisation, collective phenomena in heavy-ion and light-ion collisions, and Standard Model processes in nuclear environments.
 
     - title: Postdoctoral researcher
       institution: Institute for Theoretical Physics, Heidelberg University
@@ -63,6 +81,44 @@
     - title: Research assistant
       institution: Nuclear Theory Group, Stony Brook University
       year: 2014 - 2017
+
+- title: Publications
+  type: list
+  contents:
+    - 43 journal articles with over 3100 citations and an h-index of 30, including a <i>Rev. Mod. Phys.</i> review and 10 papers in <i>Phys. Rev. Lett.</i>
+    - "Full list&#58; <a href='/publications/'>publications page</a> and <a href='https://inspirehep.net/authors/1503337'>INSPIRE profile</a>."
+
+- title: Talks
+  type: list
+  contents:
+    - 43 invited talks at international conferences and workshops since 2015, of which 12 plenary and review talks and 3 departmental colloquia.
+    - 25 contributed talks.
+    - 4 invited lecture series at international schools.
+
+- title: Awards and Prizes
+  type: time_table
+  contents:
+    - title: Carl-Zeiss-Stiftung support for the 73rd Lindau Nobel Laureate Meeting
+      year: 2024
+      description:
+        - Selected speaker (14 from 250 submissions)
+    - title: Nuclear Physics A Young Scientist Award
+      year: 2019
+      description:
+        - For the best theory talk at Quark Matter 2019
+    - title: Max Dresden Prize
+      institution: Stony Brook University
+      year: 2017
+      description:
+        - For an outstanding theoretical thesis
+
+- title: Academic Service
+  type: list
+  contents:
+    - <b>Member of the International Advisory Committee</b> for the XXXII International Conference on Ultra-relativistic Nucleus-Nucleus Collisions (<b>Quark Matter 2027</b>).
+    - <b>Heavy-Ions Working Group convener</b> at the <b>LHC Physics Centre at CERN</b> (since 2025).
+    - <b>Junior researcher representative</b> at Research Council Field of Focus II, <b>Heidelberg University</b> (since 2024).
+    - "<b>Refereeing</b> &#8212; <b>grants:</b> US DOE Early Career Research Program, French ANR Appel à projets générique; <b>journals:</b> PRL, PRC, PRD, PLB, NPB, JHEP."
 
 - title: Outreach projects
   type: time_table
