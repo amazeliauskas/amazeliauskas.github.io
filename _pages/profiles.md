@@ -7,8 +7,8 @@ nav: true
 nav_order: 1
 horizontal: false
 display_status: [current, past]
-thumbnail: assets/img/people/team_nov2025_cropped.jpg
-caption: Group photo, November 20th, 2025
+thumbnail: assets/img/people/team_sep2026.jpg
+caption: Group photo, September 2026
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
