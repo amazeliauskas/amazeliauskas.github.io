@@ -59,14 +59,20 @@ profiles:
     email: gebhard@thphys.uni-heidelberg.de
     from: 2024
   - name: Fabian Zhou
-    description: PhD student
+    description: PhD student, now postdoc in Santiago de Compostela
     image: fabian.jpg
     image_circular: true # crops the image to make it circular
-    status: current
+    status: past
     importance: 3
-    social: true # includes social icons at the bottom of the page
+    social: false # includes social icons at the bottom of the page
     email: f.zhou@thphys.uni-heidelberg.de
+    thesis:
+      title: Perturbations in the early stages of heavy ion collisions
+      date: July 2026
+      abstract: >
+        matter expected to be present microseconds after the Big Bang. By colliding heavy nuclei, matter is put under extreme conditions, creating a system far from equilibrium, before it relaxes towards a locally equilibrated state described by relativistic hydrodynamics. This thesis works towards a better understanding of the initial state at the onset of hydrodynamics as well as the preceding non-equilibrium stage. Using an effective kinetic theory of quantum chromodynamics, we investigate the interplay between high momentum perturbations (minijets) and the soft background. A novelty of our work is the examination of hard probes evolving in a non-thermal and expanding medium. By relating the evolution to both hydrodynamical and jet transport coefficients, we compute the timescales of equilibration, respectively. Furthermore, we study thermalisation in the presence of spatial gradients. Close to equilibrium, we provide a benchmark to state-of-the-art hydrodynamical simulations. In the last part of this work, we study event-by-event fluctuations in the initial state, right when hydrodynamics becomes applicable. By considering different geometries of the initial entropy density, we study the spatial distribution of fluctuations and evaluate the impact on the system size.
     from: 2022
+    to: 2026
   - name: Q'inich Coc
     image: qinich.jpg
     description: Master student
@@ -78,15 +84,23 @@ profiles:
     from: 2026
   - name: Manuel Mützel
     image: manuel.jpg
-    description: Bachelor student
-    status: current
+    description: Bachelor thesis
+    status: past
     importance: 5
     image_circular: true # crops the image to make it circular
-    social: true # includes social icons at the bottom of the page
+    social: false # includes social icons at the bottom of the page
     email: m.muetzel@thphys.uni-heidelberg.de
+    thesis:
+      title: Anisotropic Viscous Hydrodynamics of Elliptic Flow in a Ten-Atom Unitary Fermi Gas
+      date: September 2026
+      abstract: >
+        Hydrodynamics is an emergent description, expected to hold only when the mean free path is far shorter than the system size and when there are enough particles for local equilibrium to be a meaningful statement. Elliptic flow – the inversion of an anisotropic cloud’s aspect ratio during expansion – is its clearest signature, and it has been observed in a released gas of only ten lithium atoms at unitarity, a system that satisfies neither condition. This thesis asks how far a hydrodynamic description actually reaches there.
+
+        Anisotropic viscous hydrodynamics with a relaxation-time closure, which interpolates between ideal hydrodynamics and free streaming, is solved with a PPMLR code adapted here to a trapped cold-atom release: the experimental trap geometry and release protocol, Thomas–Fermi initial conditions and a quantum-pressure term. The code first reproduces published results at $N \sim 10^5$. At $N = 10$ it recovers the measured aspect-ratio inversion whenever $\tau\omega \lessapprox \mathcal{O}(1)$ near the trap centre, while the near-ballistic limit does not invert at all within the experimental window. A joint fit to the measured cloud widths constrains the relaxation-time coefficient $\alpha_n$ to a band of order unity, but leaves the quantum-pressure coefficient $\lambda_{ic}$ essentially free across its physically allowed range $[0, 1]$.
     from: 2026
+    to: 2026
   - name: Adam Takacs
-    description: Postdoctoral researcher
+    description: Postdoctoral researcher, now senior research fellow at CERN TH
     image: adam.jpg
     status: past
     image_circular: true # crops the image to make it circular
@@ -94,8 +108,6 @@ profiles:
     social: false # includes social icons at the bottom of the page
     email: a.takacs@thphys.uni-heidelberg.de
     url: https://theory.cern/roster/takacs-adam
-    thesis:
-      title: moved to CERN TH as a senior research fellow
     from: 2023
     to: 2025
   - name: Jannis Gebhard
